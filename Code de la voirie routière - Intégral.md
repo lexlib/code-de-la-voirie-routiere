@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 1995-05-05
+Version Consolidée au 1996-01-14
 ## Contenu: 
   - [Partie législative (art. L111-1 à L173-3)](#1)
     - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. L111-1 à L117-1)](#2)
@@ -57,7 +57,7 @@ Version Consolidée au 1995-05-05
           - [Sous-section 3 : Dispositions financières. (art. L171-16 à L171-21)](#54)
       - [Chapitre II : Dispositions relatives aux départements d'outre-mer. (art. L172-1)](#55)
       - [Chapitre III : Dispositions diverses. (art. L173-1 à L173-3)](#56)
-  - [Partie réglementaire (art. R*112-1 à R*173-1)](#57)
+  - [Partie réglementaire (art. R*112-1 à R*173-7)](#57)
     - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. R*112-1 à R*116-2)](#58)
       - [Chapitre II : Emprise. (art. R*112-1 à R*112-3)](#59)
         - [Section 1 : Alignement. (art. R*112-1 à R*112-3)](#60)
@@ -103,12 +103,12 @@ Version Consolidée au 1995-05-05
       - [Chapitre II : Voies privées. (art. R*162-1 à R*162-2)](#100)
         - [Section 1 : Dispositions générales. (art. R*162-1)](#101)
         - [Section 3 : Autres voies privées. (art. R*162-2)](#102)
-    - [TITRE VII : Dispositions particulières. (art. R*171-1 à R*173-1)](#103)
+    - [TITRE VII : Dispositions particulières. (art. R*171-1 à R*173-7)](#103)
       - [Chapitre Ier : Dispositions applicables à la ville de Paris. (art. R*171-1 à R*171-8)](#104)
         - [Section 1 : Voies publiques. (art. R*171-1 à R*171-5)](#105)
         - [Section 2 : Voies privées. (art. R*171-6 à R*171-7)](#106)
         - [Section 3 : Coordination des travaux. (art. R*171-8)](#107)
-      - [Chapitre III : Dispositions diverses. (art. R*173-1)](#108)
+      - [Chapitre III : Dispositions diverses. (art. R*173-1 à R*173-7)](#108)
 # Partie législative<a id=1></a>
 
 ## TITRE Ier : Dispositions communes aux voies du domaine public routier.<a id=2></a>
@@ -7051,5 +7051,195 @@ _Cite_:
 _Anciens textes_:
 
   - Loi n°1935-05-15 art. 11 alinéa 1 (partie)
+
+
+###### Article R*173-2
+
+Peuvent faire l'objet de la perception du droit départemental de passage prévu par l'article L. 173-3 les véhicules
+terrestres à moteur qui empruntent un ouvrage d'art reliant une île maritime au continent en direction de cette île.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°89-631 1989-09-04
+
+_Créé par_:
+
+  - Décret n°96-26 du 11 janvier 1996 - art. 1 ()
+
+_Cite_:
+
+  - Code de la voirie routière - art. L173-3 (M)
+
+
+###### Article R*173-3
+
+Pour le calcul de la majorité mentionnée au premier alinéa de l'article L. 173-3, il est attribué une voix par commune
+n'appartenant pas à un groupement compétent en matière d'aménagement, d'urbanisme ou d'environnement et autant de voix pour
+chaque groupement de communes compétent en matière d'aménagement, d'urbanisme ou d'environnement que celui-ci comporte de
+communes membres. Lorsqu'un tel groupement comprend également des communes non situées sur l'île maritime concernée, celles-
+ci n'entrent pas dans le décompte des voix.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°89-631 1989-09-04
+
+_Créé par_:
+
+  - Décret n°96-26 du 11 janvier 1996 - art. 1 ()
+
+_Abrogé par_:
+
+  - Décret n°2005-935 2005-08-02 art. 6 I JORF 5 août 2005
+
+_Cite_:
+
+  - Code de la voirie routière - art. L173-3 (M)
+
+
+###### Article R*173-4
+
+Lorsque la majorité mentionnée à l'article R.* 173-3 est acquise, le conseil général peut instituer par délibération un droit
+départemental de passage.
+
+Cette délibération précise s'il y a lieu les différences de tarifs visées au quatrième alinéa de l'article L. 173-3 et peut
+limiter la perception de ce droit de passage aux seules périodes d'afflux touristique. Dans ce cas, la délibération fait
+mention des dates de début et de fin de ces périodes.
+
+Elle peut prévoir des tarifs différents selon le type de véhicule terrestre à moteur concerné.
+
+Cette délibération est soumise pour accord à toutes les communes ainsi qu'à tous les groupements de communes compétents en
+matière d'aménagement, d'urbanisme ou d'environnement situés sur l'île. Si, dans le délai de deux mois à compter de leur
+saisine, une commune ou un groupement de communes ne s'est pas prononcé, il est réputé avoir donné son accord.
+
+La majorité des communes et groupements de communes définis ci-dessus est déterminée dans les mêmes conditions de calcul que
+celles définies pour l'institution du droit départemental de passage.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°89-631 1989-09-04
+
+_Créé par_:
+
+  - Décret n°96-26 du 11 janvier 1996 - art. 1 ()
+
+_Abrogé par_:
+
+  - Décret n°2005-935 2005-08-02 art. 6 I JORF 5 août 2005
+
+_Cite_:
+
+  - Code de la voirie routière - art. L173-3 (M)
+  - Code de la voirie routière R173-3, L173-3
+
+
+###### Article R*173-5
+
+La convention, d'une durée de cinq ans renouvelable, prévue au cinquième alinéa de l'article L. 173-3, comprend :
+
+1. Un programme technique de protection et de gestion des espaces naturels de l'île soumis préalablement pour avis à la
+commission départementale des sites, perspectives et paysages siégeant en formation dite de "protection de la nature" ;
+
+2. L'évaluation des charges liées à la perception du droit de passage ;
+
+3. Le programme des opérations retenues, en mentionnant leur financement et leur maître d'ouvrage ;
+
+4. Les modalités de versement du produit du droit départemental de passage aux communes et aux groupements de communes
+signataires de la convention.
+
+Un exemplaire de la convention peut être consulté dans chacune des communes et au siège des groupements concernés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°89-631 1989-09-04
+
+_Créé par_:
+
+  - Décret n°96-26 du 11 janvier 1996 - art. 1 ()
+
+_Abrogé par_:
+
+  - Décret n°2005-935 2005-08-02 art. 6 I JORF 5 août 2005
+
+_Cite_:
+
+  - Code de la voirie routière - art. L173-3 (M)
+
+
+###### Article R*173-6
+
+Le droit départemental de passage est recouvré :
+
+soit directement par le comptable du département ou par un régisseur agissant pour son compte ; dans ce cas, le droit est
+perçu seul, ou ajouté à la redevance déjà perçue pour l'usage de l'ouvrage d'art ;
+
+soit par le concessionnaire de l'ouvrage dans des conditions définies par convention avec le département.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°89-631 1989-09-04
+
+_Créé par_:
+
+  - Décret n°96-26 du 11 janvier 1996 - art. 1 ()
+
+_Abrogé par_:
+
+  - Décret n°2005-935 2005-08-02 art. 6 I JORF 5 août 2005
+
+
+###### Article R*173-7
+
+Le produit du droit départemental de passage est imputé par le département sur un compte budgétaire spécifique. Les sommes
+reversées par le département aux communes et aux groupements de communes désignés comme maîtres d'ouvrage dans la convention
+prévue à l'article R.* 173-5 sont également imputées par ces collectivités et établissements publics locaux sur un compte
+budgétaire spécifique.
+
+Le produit de ce droit est, après prélèvement des sommes liées à sa perception, exclusivement affecté à la préservation des
+espaces mentionnés dans la convention et pour les actions qu'elle définit. Les dépenses afférentes à la gestion de ces
+espaces, qui concernent aussi bien des opérations de fonctionnement que des opérations d'investissement, sont suivies au
+moyen de l'état des recettes ordinaires affectées, joint aux documents budgétaires de la collectivité ou de l'établissement
+public.
+
+Lorsque la gestion de ces espaces est confiée à un organisme tiers, la commune ou le groupement de communes reverse le
+produit du droit départemental de passage à ce tiers par voie de subvention dans le cadre d'un cahier des charges fixant les
+obligations contractuelles du bénéficiaire pour l'utilisation de cette ressource.
+
+Lorsque certains de ces espaces naturels sont classés en parc national, réserve naturelle ou parc naturel régional, les
+sommes correspondant aux actions définies sur ces espaces sont reversées par la commune ou le groupement de communes au
+budget respectivement de l'établissement public chargé du parc national, de l'organisme gestionnaire de la réserve naturelle
+ou du parc naturel régional. Les mesures qu'elles financent dans une réserve naturelle dotée d'un plan de gestion doivent
+être compatibles avec ce plan, et celles qu'elles financent dans un parc national doivent être compatibles avec son programme
+d'aménagement.
+
+Le reversement du produit du droit départemental de passage aux communes et groupements de communes est subordonné à l'entrée
+en vigueur de la convention mentionnée à l'article R.* 173-5..
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°89-631 1989-09-04
+
+_Créé par_:
+
+  - Décret n°96-26 du 11 janvier 1996 - art. 1 ()
+
+_Abrogé par_:
+
+  - Décret n°2005-935 2005-08-02 art. 6 I JORF 5 août 2005
+
+_Cite_:
+
+  - Code de la voirie routière R173-5
 
 
