@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 1994-03-01
+Version Consolidée au 1995-01-05
 ## Contenu: 
   - [Partie législative (art. L111-1 à L173-2)](#1)
     - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. L111-1 à L116-8)](#2)
@@ -4559,11 +4559,11 @@ _Créé par_:
 ###### Article R*122-5
 
 A l'exception des installations nécessaires à l'exploitation de l'autoroute, aucune autorisation ne peut être accordée pour
-la pose, à l'intérieur des emprises des autoroutes, de canalisations aériennes ou souterraines longitudinales de quelque
-nature que ce soit. Des dérogations peuvent toutefois être accordées par arrêté du ministre chargé de la voirie routière
-nationale pour des canalisations souterraines dans les cas exceptionnels où toute autre solution serait impossible pour leur
-passage et sous réserve que leur implantation ne soit pas de nature à faire obstacle à des améliorations de l'autoroute ou à
-les rendre plus onéreuses.
+la pose, à l'intérieur des emprises des autoroutes, de canalisations aériennes ou  souterraines longitudinales de quelque
+nature que ce soit. Des dérogations peuvent toutefois être accordées par arrêté préfectoral ou, le cas échéant,
+interpréfectoral si plusieurs départements sont concernés pour des canalisations souterraines dans les cas exceptionnels où
+toute autre solution serait impossible pour leur passage et sous réserve que leur implantation ne soit pas de nature à faire
+obstacle à des améliorations de l'autoroute ou à les rendre plus onéreuses.
 
 Les traversées aériennes peuvent être autorisées sous réserve qu'elles satisfassent à la réglementation en vigueur et
 qu'aucun support ne soit implanté dans les emprises de l'autoroute ni qu'aucun point d'une canalisation ne soit à moins de
@@ -4588,7 +4588,7 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+  - Décret n°94-1235 du 29 décembre 1994 - art. 1 ()
 
 
 #### Section 2 : Dispositions financières.<a id=70></a>
