@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 1989-09-08
+Version Consolidée au 1990-08-17
 ## Contenu: 
   - [Partie législative (art. L111-1 à L173-2)](#1)
     - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. L111-1 à L116-8)](#2)
@@ -5187,7 +5187,16 @@ _Créé par_:
 
 ###### Article R*123-2
 
-Le déclassement d'une route nationale est prononcé par arrêté du ministre chargé de la voirie routière nationale.
+I. - Le déclassement d'une route ou section de route nationale est prononcé par arrêté du ministre chargé de la voirie
+routière nationale.
+
+Toutefois, lorsque ce déclassement est motivé par l'ouverture d'une voie nouvelle ou par le changement de tracé d'une voie
+existante, il est prononcé par arrêté préfectoral.
+
+II. - Lorsqu'il n'a pas fait l'objet d'un avis défavorable de la collectivité intéressée dans le délai fixé à l'alinéa 1er de
+l'article L. 123-3, le reclassement dans la voirie départementale ou communale d'une route ou section de route nationale
+déclassée est prononcé par le ministre chargé de la voirie routière nationale ou, dans le cas où ce reclassement est
+consécutif à l'ouverture d'une voie nouvelle ou au changement de tracé d'une voie existante, par le préfet.
 
 **Liens relatifs à cet article**
 
@@ -5199,9 +5208,13 @@ _Codifié par_:
 
   - Décret n°89-631 1989-09-04
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+  - Décret n°90-739 du 14 août 1990 - art. 1 () JORF 17 août 1990
+
+_Cite_:
+
+  - Code de la voirie routière - art. L123-3 (V)
 
 
 #### Section 2 : Alignement.<a id=75></a>
