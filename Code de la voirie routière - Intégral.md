@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 1996-01-14
+Version Consolidée au 1996-02-24
 ## Contenu: 
   - [Partie législative (art. L111-1 à L173-3)](#1)
     - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. L111-1 à L117-1)](#2)
@@ -1870,23 +1870,22 @@ _Cité par_:
 
 ###### Article L131-3
 
-Le président du conseil général exerce sur la voirie départementale les attributions mentionnées au cinquième alinéa de
-l'article 25 de la loi n° 82-213 du 2 mars 1982 relative aux droits et libertés des communes, des départements et des
-régions.
+Le président du conseil général exerce sur la voirie départementale les attributions mentionnées à l'article L3221-4 du code
+général des collectivités territoriales.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°96-142 du 21 février 1996 - art.12, v. init.
+
 _Cite_:
 
-  - Loi n°82-213 du 2 mars 1982 - art. 25 (Ab)
-
-_Codifié par_:
-
-  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
-
-_Créé par_:
-
-  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
+  - Code général des collectivités territoriales - art. L3221-4 (VT)
 
 _Cité par_:
 
