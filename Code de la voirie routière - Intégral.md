@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2003-06-13
+Version Consolidée au 2003-12-20
 ## Contenu: 
   - [Partie législative (art. L111-1 à L173-3)](#1)
     - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. L111-1 à L119-1)](#2)
@@ -920,9 +920,9 @@ _Cité par_:
 
 ###### Article L116-2
 
-Sans préjudice de la compétence reconnue à cet effet à d'autres [*autorités*] fonctionnaires et agents par les lois et
-règlements en vigueur, peuvent constater les infractions à la police de la conservation du domaine public routier et établir
-les procès-verbaux concernant ces infractions :
+Sans préjudice de la compétence reconnue à cet effet à d'autres fonctionnaires et agents par les lois et règlements en
+vigueur, peuvent constater les infractions à la police de la conservation du domaine public routier et établir les procès-
+verbaux concernant ces infractions :
 
 1° Sur les voies de toutes catégories, les agents de police municipale, les gardes champêtres des communes et les gardes
 particuliers assermentés ;
@@ -934,7 +934,7 @@ a) Les ingénieurs des ponts et chaussées et les ingénieurs des travaux public
 b) Les techniciens des travaux publics de l'Etat, les conducteurs de travaux publics de l'Etat et les agents des travaux
 publics de l'Etat, quand ils sont commissionnés et assermentés à cet effet.
 
-Les procès-verbaux dressés en matière de voirie font foi jusqu'à preuve contraire et ne sont pas soumis à l'affirmation.
+Les procès-verbaux dressés en matière de voirie font foi jusqu'à preuve contraire.
 
 **Liens relatifs à cet article**
 
@@ -944,7 +944,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°99-291 du 15 avril 1999 - art. 1 ()
+  - Ordonnance n°2003-1216 du 18 décembre 2003 - art. 17 () JORF 20 décembre 2003
 
 _Cité par_:
 
