@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 1997-07-15
+Version Consolidée au 1999-04-16
 ## Contenu: 
   - [Partie législative (art. L111-1 à L173-3)](#1)
     - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. L111-1 à L117-1)](#2)
@@ -901,7 +901,8 @@ Sans préjudice de la compétence reconnue à cet effet à d'autres [*autorités
 règlements en vigueur, peuvent constater les infractions à la police de la conservation du domaine public routier et établir
 les procès-verbaux concernant ces infractions :
 
-1° Sur les voies de toutes catégories, les gardes champêtres des communes et les gardes particuliers assermentés ;
+1° Sur les voies de toutes catégories, les agents de police municipale, les gardes champêtres des communes et les gardes
+particuliers assermentés ;
 
 2° Sur les voies publiques ressortissant à leurs attributions :
 
@@ -918,9 +919,9 @@ _Codifié par_:
 
   - Loi n°89-413 1989-06-22 JORF 24 juin 1989
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
+  - Loi n°99-291 du 15 avril 1999 - art. 1 ()
 
 _Cité par_:
 
@@ -933,7 +934,7 @@ _Cité par_:
 
 _Anciens textes_:
 
-  - Ordonnance 58-1351 1951-12-27 art. 1 al. 1 (partie) et 2
+  - Ordonnance 58-1351 1951-12-27 art. 21 al. 1 (partie) et 2
 
 
 ###### Article L116-3
