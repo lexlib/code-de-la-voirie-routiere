@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 1996-07-27
+Version Consolidée au 1996-12-10
 ## Contenu: 
   - [Partie législative (art. L111-1 à L173-3)](#1)
     - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. L111-1 à L117-1)](#2)
@@ -70,7 +70,7 @@ Version Consolidée au 1996-07-27
     - [TITRE II : Voirie nationale. (art. R*121-1 à R*123-5)](#67)
       - [Chapitre Ier : Dispositions communes aux autoroutes et aux routes nationales. (art. R*121-1)](#68)
       - [Chapitre II : Autoroutes. (art. R*122-1 à R*122-26)](#69)
-        - [Section 1 : Dispositions générales. (art. R*122-1 à R*122-5)](#70)
+        - [Section 1 : Dispositions générales. (art. R*122-1 à R122-5-1)](#70)
         - [Section 2 : Dispositions financières. (art. R*122-6 à R*122-26)](#71)
           - [Sous-section 1 : Caisse nationale des autoroutes. (art. R*122-6 à R*122-15)](#72)
           - [Sous-section 2 : Autoroutes de France. (art. R*122-16 à R*122-26)](#73)
@@ -4651,6 +4651,29 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°94-1235 du 29 décembre 1994 - art. 1 ()
+
+
+###### Article R122-5-1
+
+Les sociétés concessionnaires d'autoroutes ont le pouvoir de délivrer, dans les conditions prévues au II de l'article R. 57-4
+du code du domaine de l'Etat, les titres d'occupation du domaine public de l'Etat en application des articles L. 34-1 à L.
+34-9 dudit code et de l'article 3 de la loi n° 94-631 du 25 juillet 1994.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°89-631 1989-09-04
+
+_Cite_:
+
+  - Loi n°94-631 du 25 juillet 1994 - art. 3 (Ab)
+  - Code du domaine de l'Etat - art. R57-4 (M)
+  - Code du domaine de l'Etat R57-4, L34-1 à L34-9
+
+_Créé par_:
+
+  - Décret n°96-1058 du 2 décembre 1996 - art. 8 ()
 
 
 #### Section 2 : Dispositions financières.<a id=71></a>
