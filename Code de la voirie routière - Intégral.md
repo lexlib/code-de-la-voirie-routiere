@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2004-09-10
+Version Consolidée au 2004-12-10
 ## Contenu: 
   - [Partie législative (art. L111-1 à L173-3)](#1)
     - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. L111-1 à L119-1)](#2)
@@ -2137,12 +2137,15 @@ _Cité par_:
 
 ###### Article L131-4
 
-Le classement et le déclassement des routes départementales relèvent du conseil général[*autorité compétente*]. Ce dernier
-est également compétent pour l'établissement des plans d'alignement et de nivellement, l'ouverture, le redressement et
-l'élargissement de ces routes.
+Le classement et le déclassement des routes départementales relèvent du conseil général. Ce dernier est également compétent
+pour l'établissement des plans d'alignement et de nivellement, l'ouverture, le redressement et l'élargissement de ces routes.
 
-Les délibérations du conseil général interviennent après enquête publique sauf dans les cas prévus aux articles L. 123-2 et
-L. 123-3 du présent code, à l'article 6-1 du code rural et à l'article L. 318-1 du code de l'urbanisme.
+Les délibérations du conseil général concernant le classement ou le déclassement sont dispensées d'enquête publique préalable
+sauf lorsque l'opération envisagée a pour conséquence de porter atteinte aux fonctions de desserte ou de circulation assurées
+par la voie.
+
+A défaut d'enquête relevant d'une autre réglementation et ayant porté sur ce classement ou déclassement, l'enquête rendue
+nécessaire en vertu de l'alinéa précédent se déroule selon les modalités prévues aux articles R. 131-3 à R. 131-8.
 
 Lorsque l'opération comporte une expropriation, l'enquête d'utilité publique tient lieu de l'enquête prévue à l'alinéa
 précédent.
@@ -2152,29 +2155,26 @@ construction et la rectification des routes.
 
 **Liens relatifs à cet article**
 
+_Anciens textes_:
+
+  - Décret n°1938-10-25 art. 3
+
 _Codifié par_:
 
   - Loi n°89-413 1989-06-22 JORF 24 juin 1989
-
-_Créé par_:
-
-  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
 
 _Cité par_:
 
   - Loi n°89-413 du 22 juin 1989 - art. 3 (V)
   - Code de la voirie routière - art. R*131-3 (VT)
 
+_Modifié par_:
+
+  - Loi n°2004-1343 du 9 décembre 2004 - art. 62 () JORF 10 décembre 2004
+
 _Cite_:
 
-  - Code de la voirie routière - art. L123-2 (V)
-  - Code de la voirie routière - art. L123-3 (V)
-  - Code de l'urbanisme - art. L318-1 (M)
-  - Code rural 6-1
-
-_Anciens textes_:
-
-  - Décret n°1938-10-25 art. 3
+  - Code de la voirie routière R131-3 à R131-8
 
 
 ###### Article L131-5
@@ -2466,23 +2466,16 @@ Le classement et le déclassement des voies communales sont prononcés par le co
 compétent pour l'établissement des plans d'alignement et de nivellement, l'ouverture, le redressement et l'élargissement des
 voies.
 
-Les délibérations du conseil municipal prévues à l'alinéa précédent interviennent après enquête publique, sauf dans les cas
-mentionnés aux articles L. 123-2 et L. 123-3 du présent code, à l'article 6 du code rural et à l'article L. 318-1 du code de
-l'urbanisme.
+Les délibérations prévues à l'alinéa précédent sont dispensées d'enquête publique préalable sauf lorsque le classement ou le
+déclassement envisagé a pour conséquence de porter atteinte aux fonctions de desserte ou de circulation assurées par la voie.
+
+A défaut d'enquête relevant d'une autre réglementation et ayant porté sur ce classement ou déclassement, l'enquête rendue
+nécessaire en vertu de l'alinéa précédent se déroule selon les modalités prévues aux articles R. 141-4 à R. 141-10.
 
 Les enquêtes prévues aux articles L. 123-3-1 et L. 318-3 du code de l'urbanisme tiennent lieu de l'enquête prévue à l'alinéa
 précédent. Il en va de même de l'enquête d'utilité publique lorsque l'opération comporte une expropriation.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 6
-  - Code de la voirie routière - art. L123-2 (V)
-  - Code de la voirie routière - art. L123-3 (V)
-  - Code de l'urbanisme - art. L123-3-1 (Ab)
-  - Code de l'urbanisme - art. L318-1 (M)
-  - Code de l'urbanisme - art. L318-3 (M)
 
 _Anciens textes_:
 
@@ -2492,13 +2485,19 @@ _Codifié par_:
 
   - Loi n°89-413 1989-06-22 JORF 24 juin 1989
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
+  - Loi n°2004-1343 du 9 décembre 2004 - art. 62 () JORF 10 décembre 2004
 
 _Cité par_:
 
   - Code de la voirie routière - art. R*141-4 (V)
+
+_Cite_:
+
+  - Code de la voirie routière R141-4 à R141-10
+  - Code de l'urbanisme - art. L123-3-1 (Ab)
+  - Code de l'urbanisme - art. L318-3 (M)
 
 
 #### Section 2 : Entretien des voies communales.<a id=33></a>
