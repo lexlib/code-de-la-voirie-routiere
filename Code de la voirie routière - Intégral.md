@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 1996-02-24
+Version Consolidée au 1996-07-27
 ## Contenu: 
   - [Partie législative (art. L111-1 à L173-3)](#1)
     - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. L111-1 à L117-1)](#2)
@@ -406,9 +406,10 @@ _Cite_:
 
 ###### Article L113-3
 
-Sous réserve des prescriptions prévues à l'article L. 122-3, les services publics de télécommunications et de transport ou de
-distribution d'électricité ou de gaz peuvent occuper le domaine public routier en y installant des ouvrages, dans la mesure
-où cette occupation n'est pas incompatible avec son affectation à la circulation terrestre.
+Sous réserve des prescriptions prévues à l'article L. 122-3, les exploitants de réseaux de télécommunications ouverts au
+public et les services publics de transport ou de distribution d'électricité ou de gaz peuvent occuper le domaine public
+routier en y installant des ouvrages, dans la mesure où cette occupation n'est pas incompatible avec son affectation à la
+circulation terrestre.
 
 **Liens relatifs à cet article**
 
@@ -416,9 +417,9 @@ _Codifié par_:
 
   - Loi n°89-413 1989-06-22 JORF 24 juin 1989
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
+  - Loi n°96-659 du 26 juillet 1996 - art. 19 ()
 
 _Cité par_:
 
@@ -435,25 +436,25 @@ _Cite_:
 ###### Article L113-4
 
 Les travaux exécutés sur la voie publique pour les besoins des services de télécommunications sont soumis aux dispositions
-des articles L. 47 et L. 47-1 du code des postes et télécommunications.
+des articles L. 46 et L. 47 du code des postes et communications électroniques.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications L47, L47-1
 
 _Codifié par_:
 
   - Loi n°89-413 1989-06-22 JORF 24 juin 1989
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
+  - Loi n°96-659 du 26 juillet 1996 - art. 19 ()
 
 _Cité par_:
 
   - Code de la voirie routière - art. L113-7 (V)
+
+_Cite_:
+
+  - Code des postes et des communications électroni... - art. L46 (V)
 
 
 ###### Article L113-5
