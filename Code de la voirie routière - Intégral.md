@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 1997-06-01
+Version Consolidée au 1997-07-15
 ## Contenu: 
   - [Partie législative (art. L111-1 à L173-3)](#1)
     - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. L111-1 à L117-1)](#2)
@@ -4013,22 +4013,26 @@ _Cite_:
 
 ###### Article R*113-2
 
-Les lignes de télécommunications empruntant le domaine public routier sont établies, après concertation avec l'autorité
-gestionnaire de la voie publique, dans les conditions prévues à l'article D. 407 du code des postes et télécommunications.
+Les lignes de télécommunications empruntant le domaine public routier sont établies, dans les conditions prévues aux articles
+R. 20-45 et suivants du code des postes et communications électroniques.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications D407
 
 _Codifié par_:
 
   - Décret n°89-631 1989-09-04
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+  - Décret n°97-683 du 30 mai 1997 - art. 4 ()
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°97-683 du 30 mai 1997 - art. 6 (V)
+
+_Cite_:
+
+  - Code des postes et des communications électroni... - art. R*20-45 (V)
 
 
 ###### Article R*113-3
@@ -4632,12 +4636,14 @@ _Créé par_:
 
 ###### Article R*122-5
 
-A l'exception des installations nécessaires à l'exploitation de l'autoroute, aucune autorisation ne peut être accordée pour
-la pose, à l'intérieur des emprises des autoroutes, de canalisations aériennes ou  souterraines longitudinales de quelque
-nature que ce soit. Des dérogations peuvent toutefois être accordées par arrêté préfectoral ou, le cas échéant,
-interpréfectoral si plusieurs départements sont concernés pour des canalisations souterraines dans les cas exceptionnels où
-toute autre solution serait impossible pour leur passage et sous réserve que leur implantation ne soit pas de nature à faire
-obstacle à des améliorations de l'autoroute ou à les rendre plus onéreuses.
+A l'exception des installations nécessaires à l'exploitation de l'autoroute, des installations souterraines autorisées dans
+les conditions prévues par l'article R. 20-45 du code des postes et communications électroniques et de celles établies par
+les sociétés concessionnaires en vue de leur utilisation par des opérateurs de télécommunications, aucune autorisation ne
+peut être accordée pour la pose, à l'intérieur des emprises des autoroutes, de canalisations aériennes ou souterraines
+longitudinales de quelque nature que ce soit. Des dérogations peuvent toutefois être accordées par arrêté préfectoral ou, le
+cas échéant, interpréfectoral si plusieurs départements sont concernés pour des canalisations souterraines dans les cas
+exceptionnels où toute autre solution serait impossible pour leur passage et sous réserve que leur implantation ne soit pas
+de nature à faire obstacle à des améliorations de l'autoroute ou à les rendre plus onéreuses.
 
 Les traversées aériennes peuvent être autorisées sous réserve qu'elles satisfassent à la réglementation en vigueur et
 qu'aucun support ne soit implanté dans les emprises de l'autoroute ni qu'aucun point d'une canalisation ne soit à moins de
@@ -4660,9 +4666,17 @@ _Codifié par_:
 
   - Décret n°89-631 1989-09-04
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-1235 du 29 décembre 1994 - art. 1 ()
+  - Décret n°97-683 du 30 mai 1997 - art. 4 ()
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°97-683 du 30 mai 1997 - art. 6 (V)
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. R20-45 (An)
 
 
 ###### Article R122-5-1
