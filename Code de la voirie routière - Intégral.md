@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 1990-08-17
+Version Consolidée au 1991-05-16
 ## Contenu: 
   - [Partie législative (art. L111-1 à L173-2)](#1)
     - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. L111-1 à L116-8)](#2)
@@ -5015,8 +5015,7 @@ _Cite_:
 ###### Article R*122-21
 
 Sous le contrôle du conseil d'administration, la Caisse des dépôts et consignations assure la gestion de l'établissement dans
-les conditions définies par une convention passée avec celui-ci. Son directeur général désigne l'ordonnateur de
-l'établissement public parmi les agents de la caisse.
+les conditions définies par une convention passée avec celui-ci.
 
 **Liens relatifs à cet article**
 
@@ -5028,9 +5027,9 @@ _Codifié par_:
 
   - Décret n°89-631 1989-09-04
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+  - Décret n°91-454 du 10 mai 1991 - art. 1 () JORF 16 mai 1991
 
 _Cité par_:
 
@@ -5040,6 +5039,8 @@ _Cité par_:
 ###### Article R*122-22
 
 Le président du conseil d'administration représente l'établissement en justice et dans tous les actes de la vie civile.
+
+Il a qualité d'ordonnateur.
 
 **Liens relatifs à cet article**
 
@@ -5051,9 +5052,9 @@ _Codifié par_:
 
   - Décret n°89-631 1989-09-04
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+  - Décret n°91-454 du 10 mai 1991 - art. 2 () JORF 16 mai 1991
 
 
 ###### Article R*122-23
