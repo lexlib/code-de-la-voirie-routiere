@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2004-08-17
+Version Consolidée au 2004-09-10
 ## Contenu: 
   - [Partie législative (art. L111-1 à L173-3)](#1)
     - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. L111-1 à L119-1)](#2)
@@ -5779,7 +5779,7 @@ d) Le vice-président du conseil général des ponts et chaussées ou son repré
 
 e) Le directeur de la sécurité et de la circulation routières ou son représentant ;
 
-f) Le directeur du Trésor ou son représentant ;
+f) Le directeur général de l'Agence des participations de l'Etat ou son représentant ;
 
 g) Le directeur de la prévision ou son représentant ;
 
@@ -5829,7 +5829,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°95-521 du 2 mai 1995 - art. 1 () JORF 5 mai 1995
+  - Décret n°2004-963 du 9 septembre 2004 - art. 7 () JORF 10 septembre 2004
 
 
 ###### Article R*122-19
