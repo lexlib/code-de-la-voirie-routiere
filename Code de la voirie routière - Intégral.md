@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 1993-09-30
+Version Consolidée au 1994-03-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L173-2)](#1)
     - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. L111-1 à L116-8)](#2)
@@ -4175,7 +4175,8 @@ _Anciens textes_:
 
 ###### Article R*114-2
 
-L'infraction mentionnée à l'article L. 114-5 est punie des peines d'amende prévues pour les contraventions de la 5e classe.
+L'infraction mentionnée à l'article L. 114-5 est punie des peines d'amende prévues pour les contraventions de la cinquième
+classe.
 
 **Liens relatifs à cet article**
 
@@ -4183,13 +4184,18 @@ _Codifié par_:
 
   - Décret n°89-631 1989-09-04
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 _Cite_:
 
   - Code de la voirie routière - art. L114-5 (V)
+  - Code pénal - art. 131-13 (M)
 
 _Anciens textes_:
 
@@ -4366,10 +4372,11 @@ _Cité par_:
 
 ###### Article R*116-2
 
-Seront punis d'amende prévue pour les contraventions de la cinquième classe ceux qui : [*infraction*]    1° Sans
-autorisation, auront empiété sur le domaine public routier ou accompli un acte portant ou de nature à porter atteinte à
-l'intégrité de ce domaine ou de ses dépendances, ainsi qu'à celle des ouvrages, installations, plantations établis sur ledit
-domaine ;
+Seront punis d'amende prévue pour les contraventions de la cinquième classe ceux qui :
+
+1° Sans autorisation, auront empiété sur le domaine public routier ou accompli un acte portant ou de nature à porter atteinte
+à l'intégrité de ce domaine ou de ses dépendances, ainsi qu'à celle des ouvrages, installations, plantations établis sur
+ledit domaine ;
 
 2° Auront dérobé des matériaux entreposés sur le domaine public routier et ses dépendances pour les besoins de la voirie ;
 
@@ -4396,9 +4403,13 @@ _Codifié par_:
 
   - Décret n°89-631 1989-09-04
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 _Cité par_:
 
