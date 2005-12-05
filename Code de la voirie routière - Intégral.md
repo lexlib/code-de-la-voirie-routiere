@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2005-08-05
+Version Consolidée au 2005-12-06
 ## Contenu: 
   - [Partie législative (art. L111-1 à L173-3)](#1)
     - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. L111-1 à L119-1)](#2)
@@ -6628,16 +6628,11 @@ _Créé par_:
 
 ###### Article R*123-2
 
-I. - Le déclassement d'une route ou section de route nationale est prononcé par arrêté du ministre chargé de la voirie
-routière nationale.
-
-Toutefois, lorsque ce déclassement est motivé par l'ouverture d'une voie nouvelle ou par le changement de tracé d'une voie
-existante, il est prononcé par arrêté préfectoral.
+I. - Le déclassement d'une route ou d'une section de route nationale est prononcé par arrêté préfectoral.
 
 II. - Lorsqu'il n'a pas fait l'objet d'un avis défavorable de la collectivité intéressée dans le délai fixé à l'alinéa 1er de
 l'article L. 123-3, le reclassement dans la voirie départementale ou communale d'une route ou section de route nationale
-déclassée est prononcé par le ministre chargé de la voirie routière nationale ou, dans le cas où ce reclassement est
-consécutif à l'ouverture d'une voie nouvelle ou au changement de tracé d'une voie existante, par le préfet.
+déclassée est prononcé par le préfet.
 
 **Liens relatifs à cet article**
 
@@ -6651,7 +6646,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°90-739 du 14 août 1990 - art. 1 () JORF 17 août 1990
+  - Décret n°2005-1500 du 5 décembre 2005 - art. 5 () JORF 6 décembre 2005
 
 _Cite_:
 
