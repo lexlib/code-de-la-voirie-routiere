@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2005-12-06
+Version Consolidée au 2005-12-31
 ## Contenu: 
   - [Partie législative (art. L111-1 à L173-3)](#1)
     - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. L111-1 à L119-1)](#2)
@@ -80,12 +80,12 @@ Version Consolidée au 2005-12-06
         - [Section 4 : Dispositions diverses (art. R119-11)](#77)
     - [TITRE II : Voirie nationale. (art. R*121-1 à R*123-5)](#78)
       - [Chapitre Ier : Dispositions communes aux autoroutes et aux routes nationales. (art. R*121-1)](#79)
-      - [Chapitre II : Autoroutes. (art. R*122-1 à R*122-27)](#80)
+      - [Chapitre II : Autoroutes. (art. R*122-1 à R122-27)](#80)
         - [Section 1 : Dispositions générales. (art. R*122-1 à R122-5-1)](#81)
         - [Section 2 : Dispositions financières. (art. R*122-6 à R*122-26)](#82)
           - [Sous-section 1 : Caisse nationale des autoroutes. (art. R*122-6 à R*122-15)](#83)
           - [Sous-section 2 : Autoroutes de France. (art. R*122-16 à R*122-26)](#84)
-        - [Section 3 : Redevance domaniale. (art. R*122-27)](#85)
+        - [Section 3 : Redevance domaniale. (art. R122-27)](#85)
       - [Chapitre III : Routes nationales. (art. R*123-1 à R*123-5)](#86)
         - [Section 1 : Classement et déclassement. (art. R*123-1 à R*123-2)](#87)
         - [Section 2 : Alignement. (art. R*123-3 à R*123-4)](#88)
@@ -6556,7 +6556,7 @@ _Cite_:
 
 #### Section 3 : Redevance domaniale.<a id=85></a>
 
-###### Article R*122-27
+###### Article R122-27
 
 Les sociétés concessionnaires d'autoroutes versent annuellement à l'Etat, pour une période comprise entre le 1er juillet et
 le 30 juin, une redevance pour occupation du domaine public déterminée par application de la formule suivante :
@@ -6580,7 +6580,7 @@ CA représente le montant du chiffre d'affaires réalisé par la société au ti
 d'autoroutes sur le domaine public national, tel qu'il apparaît dans les comptes définitifs au titre de l'année précédant
 l'année du versement.
 
-Le versement a lieu entre le 15 et le 30 juillet de chaque année à la recette des impôts compétente chargée des recettes
+Le versement a lieu entre le 15 et le 30 juillet de chaque année au service des impôts compétent chargé des recettes
 domaniales.
 
 **Liens relatifs à cet article**
@@ -6593,14 +6593,14 @@ _Codifié par_:
 
   - Décret n°89-631 1989-09-04
 
-_Créé par_:
-
-  - Décret n°97-606 du 31 mai 1997 - art. 1 ()
-
 _Cité par_:
 
   - Décret n°2004-1317 du 26 novembre 2004 - art. 5 (Ab)
   - Code des transports - art. R1512-17 (V)
+
+_Modifié par_:
+
+  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
 
 _Nouveaux textes_:
 
