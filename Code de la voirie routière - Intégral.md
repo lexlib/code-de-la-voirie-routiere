@@ -1,8 +1,8 @@
 # Code de la voirie routière  
-Version Consolidée au 2005-12-31
+Version Consolidée au 2006-01-06
 ## Contenu: 
   - [Partie législative (art. L111-1 à L173-3)](#1)
-    - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. L111-1 à L119-1)](#2)
+    - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. L111-1 à L119-3)](#2)
       - [Chapitre Ier : Définition. (art. L111-1)](#3)
       - [Chapitre II : Emprise. (art. L112-1 à L112-8)](#4)
         - [Section 1 : Alignement. (art. L112-1 à L112-7)](#5)
@@ -15,113 +15,114 @@ Version Consolidée au 2005-12-31
         - [Section unique : Coordination des travaux exécutés sur les voies publiques situées à l'intérieur des agglomérations. (art. L115-1)](#12)
       - [Chapitre VI : Police de la conservation. (art. L116-1 à L116-8)](#13)
       - [Chapitre VII : Dispositifs techniques de prévention et de constatation des infractions au code de la route. (art. L117-1)](#14)
-      - [Chapitre VIII : Sécurité des ouvrages du réseau routier dont l'exploitation présente des risques particuliers pour la sécurité des personnes. (art. L118-1 à L118-4)](#15)
+      - [Chapitre VIII : Sécurité des ouvrages du réseau routier dont l'exploitation présente des risques particuliers pour la sécurité des personnes. (art. L118-1 à L118-5)](#15)
       - [Chapitre IX : Dispositifs d'information sur le réseau routier. (art. L119-1)](#16)
-    - [TITRE II : Voirie nationale. (art. L121-1 à L123-8)](#17)
-      - [Chapitre Ier : Dispositions communes aux autoroutes et aux routes nationales. (art. L121-1 à L121-3)](#18)
-      - [Chapitre II : Autoroutes. (art. L122-1 à L122-11)](#19)
-        - [Section 1 : Dispositions générales. (art. L122-1 à L122-5)](#20)
-        - [Section 2 : Dispositions financières. (art. L122-6 à L122-11)](#21)
-      - [Chapitre III : Routes nationales. (art. L123-1 à L123-8)](#22)
-        - [Section 1 : Classement et déclassement. (art. L123-2 à L123-5)](#23)
-        - [Section 2 : Alignement. (art. L123-6 à L123-7)](#24)
-        - [Section 3 : Dispositions relatives à la création de voies accédant aux routes nationales. (art. L123-8)](#25)
-    - [TITRE III : Voirie départementale. (art. L131-1 à L131-8)](#26)
-      - [Chapitre unique. (art. L131-1 à L131-8)](#27)
-    - [TITRE IV : Voirie communale. (art. L141-1 à L141-12)](#28)
-      - [Chapitre unique. (art. L141-1 à L141-12)](#29)
-        - [Section 1 : Emprise du domaine public routier communal. (art. L141-2 à L141-7)](#30)
-        - [Section 2 : Entretien des voies communales. (art. L141-8 à L141-9)](#31)
-        - [Section 3 : Dispositions relatives à la coordination des travaux exécutés sur les voies communales situées à l'extérieur des agglomérations. (art. L141-10)](#32)
-        - [Section 4 : Dispositions relatives aux travaux affectant le sol et le sous-sol des voies communales. (art. L141-11)](#33)
-        - [Section 5 : Dispositions applicables au cas où il existe un établissement public de coopération intercommunale. (art. L141-12)](#34)
-    - [TITRE V : Voies à statuts particuliers. (art. L151-1 à L153-9)](#35)
-      - [Chapitre Ier : Routes express. (art. L151-1 à L151-5)](#36)
-      - [Chapitre II : Déviations. (art. L152-1 à L152-2)](#37)
-      - [Chapitre III : Ouvrages d'art. (art. L153-1 à L153-9)](#38)
-        - [Section 1 : Dispositions générales. (art. L153-1 à L153-5)](#39)
-        - [Section 2 : Dispositions particulières. (art. L153-7 à L153-9)](#40)
-    - [TITRE VI : Dispositions applicables aux voies n'appartenant pas au domaine public. (art. L161-1 à L162-6)](#41)
-      - [Chapitre Ier : Chemins ruraux. (art. L161-1 à L161-2)](#42)
-      - [Chapitre II : Voies privées. (art. L162-1 à L162-6)](#43)
-        - [Section 1 : Dispositions générales. (art. L162-1)](#44)
-        - [Section 2 : Chemins et sentiers d'exploitation. (art. L162-2 à L162-3)](#45)
-        - [Section 3 : Autres voies privées. (art. L162-4 à L162-6)](#46)
-    - [TITRE VII : Dispositions particulières. (art. L171-1 à L173-3)](#47)
-      - [Chapitre Ier : Dispositions applicables à la ville de Paris. (art. L171-1 à L171-21)](#48)
-        - [Section 1 : Voies publiques. (art. L171-2 à L171-11)](#49)
-        - [Section 2 : Voies privées (art. L171-12 à L171-21)](#50)
-          - [Sous-section 1 : Assainissement d'office. (art. L171-12 à L171-13)](#51)
-          - [Sous-section 2 : Classement des voies privées ouvertes à la circulation publique. (art. L171-14 à L171-15)](#52)
-          - [Sous-section 3 : Dispositions financières. (art. L171-16 à L171-21)](#53)
-      - [Chapitre II : Dispositions relatives aux départements d'outre-mer. (art. L172-1)](#54)
-      - [Chapitre III : Dispositions diverses. (art. L173-1 à L173-3)](#55)
-  - [Partie réglementaire (art. R*111-1 à R*173-2)](#56)
-    - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. R*111-1 à R119-11)](#57)
-      - [Chapitre I : Définition. (art. R*111-1)](#58)
-      - [Chapitre II : Emprise. (art. R*112-1 à R*112-3)](#59)
-        - [Section 1 : Alignement. (art. R*112-1 à R*112-3)](#60)
-      - [Chapitre III : Utilisation. (art. R*113-1 à R*113-10)](#61)
-      - [Chapitre IV : Riveraineté. (art. R*114-1 à R*114-2)](#62)
-        - [Section 1 : Servitudes de visibilité. (art. R*114-1 à R*114-2)](#63)
-      - [Chapitre V : Travaux (art. R*115-1 à R*115-4)](#64)
-        - [Section unique : Coordination des travaux exécutés sur les voies publiques situées à l'intérieur des agglomérations. (art. R*115-1 à R*115-4)](#65)
-      - [Chapitre VI : Police de la conservation. (art. R*116-1 à R*116-2)](#66)
-      - [Chapitre VIII : Sécurité d'ouvrages du réseau routier dont l'exploitation présente des risques particuliers pour la sécurité des personnes. (art. R*118-1-2 à R118-3-7)](#67)
-        - [Section 1 : Ouvrages dont l'exploitation présente des risques particuliers pour la sécurité des personnes (art. R*118-1-2 à R118-1-1)](#68)
-        - [Section 2 : Commission nationale d'évaluation de la sécurité des ouvrages routiers et agrément des experts (art. R*118-2-2 à R118-2-4)](#69)
-        - [Section 3 : Procédures et règles relatives à la sécurité des ouvrages routiers dont l'exploitation présente des risques particuliers pour la sécurité des personnes (art. R*118-3-1 à R118-3-7)](#70)
-      - [Chapitre IX : Equipements routiers. (art. R*119-1 à R119-11)](#71)
-        - [Section 1 : Champ d'application (art. R*119-1)](#72)
-        - [Section 2 : Evaluation et attestation de conformité (art. R*119-2 à R*119-4)](#73)
-          - [Sous-section 1 : Equipements soumis au marquage CE (art. R*119-2 à R*119-3)](#74)
-          - [Sous-section 2 : Equipements non soumis au marquage CE (art. R**119-5 à R*119-4)](#75)
-        - [Section 3 : Règles de mise en service (art. R*119-6 à R119-10)](#76)
-        - [Section 4 : Dispositions diverses (art. R119-11)](#77)
-    - [TITRE II : Voirie nationale. (art. R*121-1 à R*123-5)](#78)
-      - [Chapitre Ier : Dispositions communes aux autoroutes et aux routes nationales. (art. R*121-1)](#79)
-      - [Chapitre II : Autoroutes. (art. R*122-1 à R122-27)](#80)
-        - [Section 1 : Dispositions générales. (art. R*122-1 à R122-5-1)](#81)
-        - [Section 2 : Dispositions financières. (art. R*122-6 à R*122-26)](#82)
-          - [Sous-section 1 : Caisse nationale des autoroutes. (art. R*122-6 à R*122-15)](#83)
-          - [Sous-section 2 : Autoroutes de France. (art. R*122-16 à R*122-26)](#84)
-        - [Section 3 : Redevance domaniale. (art. R122-27)](#85)
-      - [Chapitre III : Routes nationales. (art. R*123-1 à R*123-5)](#86)
-        - [Section 1 : Classement et déclassement. (art. R*123-1 à R*123-2)](#87)
-        - [Section 2 : Alignement. (art. R*123-3 à R*123-4)](#88)
-        - [Section 3 : Disposition relative à la création de voies accédant aux routes nationales. (art. R*123-5)](#89)
-    - [TITRE III : Voirie départementale. (art. R*131-1 à R*131-11)](#90)
-      - [Chapitre unique. (art. R*131-1 à R*131-11)](#91)
-        - [Section 1 : Caractéristiques techniques du domaine public routier départemental. (art. R*131-1 à R*131-2)](#92)
-        - [Section 2 : Enquête publique relative au classement, au déclassement, à l'établissement des plans d'alignement et de nivellement, à l'ouverture, au redressement et à l'élargissement des routes départementales. (art. R*131-3 à R*131-8)](#93)
-        - [Section 3 : Dispositions relatives à la coordination des travaux exécutés sur les routes départementales. (art. R*131-9 à R*131-11)](#94)
-    - [TITRE IV : Voirie communale. (art. R*141-1 à R*141-22)](#95)
-      - [Chapitre unique (art. R*141-1 à R*141-22)](#96)
-        - [Section 1 : Emprise du domaine public routier communal. (art. R*141-1 à R*141-11)](#97)
-          - [Sous-section 1 : Alignement et caractéristiques techniques. (art. R*141-1 à R*141-3)](#98)
-          - [Sous-section 2 : Enquête publique relative au classement, à l'ouverture, au redressement, à la fixation de la largeur et au déclassement des voies communales. (art. R*141-4 à R*141-10)](#99)
-          - [Sous-section 3 : Publicité foncière. (art. R*141-11)](#100)
-        - [Section 3 : Coordination des travaux exécutés sur les voies communales situées à l'extérieur des agglomérations. (art. R*141-12)](#101)
-        - [Section 4 : Dispositions relatives aux travaux affectant le sol et le sous-sol des voies communales. (art. R*141-13 à R*141-21)](#102)
-        - [Section 5 : Dispositions applicables dans le cas où il existe un établissement public de coopération intercommunale. (art. R*141-22)](#103)
-    - [TITRE V : Voies à statuts particuliers. (art. R*151-1 à R*153-3)](#104)
-      - [Chapitre Ier : Routes express. (art. R*151-1 à R*151-7)](#105)
-      - [Chapitre II : Déviations. (art. R*152-1 à R*152-2)](#106)
-      - [Chapitre III : Ouvrages d'art. (art. R*153-1 à R*153-3)](#107)
-        - [Section 1 : Dispositions générales. (art. R*153-1 à R*153-2)](#108)
-        - [Section 2: Dispositions particulières. (art. R*153-3)](#109)
-    - [TITRE VI : Dispositions applicables aux voies n'appartenant pas au domaine public. (art. R*161-1 à R*163-1)](#110)
-      - [Chapitre Ier : Chemins ruraux. (art. R*161-1 à R*161-2)](#111)
-      - [Chapitre II : Voies privées. (art. R*162-1 à R*162-2)](#112)
-        - [Section 1 : Dispositions générales. (art. R*162-1)](#113)
-        - [Section 3 : Autres voies privées. (art. R*162-2)](#114)
-      - [Chapitre III : Dispositions communes. (art. R*163-1)](#115)
-    - [TITRE VII : Dispositions particulières. (art. R*171-1 à R*173-2)](#116)
-      - [Chapitre Ier : Dispositions applicables à la ville de Paris. (art. R*171-1 à R*171-8)](#117)
-        - [Section 1 : Voies publiques. (art. R*171-1 à R*171-5)](#118)
-        - [Section 2 : Voies privées. (art. R*171-6 à R*171-7)](#119)
-        - [Section 3 : Coordination des travaux. (art. R*171-8)](#120)
-      - [Chapitre III : Dispositions diverses. (art. R*173-1 à R*173-2)](#121)
+      - [Chapitre X : Service européen de télépéage. (art. L119-2 à L119-3)](#17)
+    - [TITRE II : Voirie nationale. (art. L121-1 à L123-8)](#18)
+      - [Chapitre Ier : Dispositions communes aux autoroutes et aux routes nationales. (art. L121-1 à L121-3)](#19)
+      - [Chapitre II : Autoroutes. (art. L122-1 à L122-11)](#20)
+        - [Section 1 : Dispositions générales. (art. L122-1 à L122-5)](#21)
+        - [Section 2 : Dispositions financières. (art. L122-6 à L122-11)](#22)
+      - [Chapitre III : Routes nationales. (art. L123-1 à L123-8)](#23)
+        - [Section 1 : Classement et déclassement. (art. L123-2 à L123-5)](#24)
+        - [Section 2 : Alignement. (art. L123-6 à L123-7)](#25)
+        - [Section 3 : Dispositions relatives à la création de voies accédant aux routes nationales. (art. L123-8)](#26)
+    - [TITRE III : Voirie départementale. (art. L131-1 à L131-8)](#27)
+      - [Chapitre unique. (art. L131-1 à L131-8)](#28)
+    - [TITRE IV : Voirie communale. (art. L141-1 à L141-12)](#29)
+      - [Chapitre unique. (art. L141-1 à L141-12)](#30)
+        - [Section 1 : Emprise du domaine public routier communal. (art. L141-2 à L141-7)](#31)
+        - [Section 2 : Entretien des voies communales. (art. L141-8 à L141-9)](#32)
+        - [Section 3 : Dispositions relatives à la coordination des travaux exécutés sur les voies communales situées à l'extérieur des agglomérations. (art. L141-10)](#33)
+        - [Section 4 : Dispositions relatives aux travaux affectant le sol et le sous-sol des voies communales. (art. L141-11)](#34)
+        - [Section 5 : Dispositions applicables au cas où il existe un établissement public de coopération intercommunale. (art. L141-12)](#35)
+    - [TITRE V : Voies à statuts particuliers. (art. L151-1 à L153-9)](#36)
+      - [Chapitre Ier : Routes express. (art. L151-1 à L151-5)](#37)
+      - [Chapitre II : Déviations. (art. L152-1 à L152-2)](#38)
+      - [Chapitre III : Ouvrages d'art. (art. L153-1 à L153-9)](#39)
+        - [Section 1 : Dispositions générales. (art. L153-1 à L153-5)](#40)
+        - [Section 2 : Dispositions particulières. (art. L153-7 à L153-9)](#41)
+    - [TITRE VI : Dispositions applicables aux voies n'appartenant pas au domaine public. (art. L161-1 à L162-6)](#42)
+      - [Chapitre Ier : Chemins ruraux. (art. L161-1 à L161-2)](#43)
+      - [Chapitre II : Voies privées. (art. L162-1 à L162-6)](#44)
+        - [Section 1 : Dispositions générales. (art. L162-1)](#45)
+        - [Section 2 : Chemins et sentiers d'exploitation. (art. L162-2 à L162-3)](#46)
+        - [Section 3 : Autres voies privées. (art. L162-4 à L162-6)](#47)
+    - [TITRE VII : Dispositions particulières. (art. L171-1 à L173-3)](#48)
+      - [Chapitre Ier : Dispositions applicables à la ville de Paris. (art. L171-1 à L171-21)](#49)
+        - [Section 1 : Voies publiques. (art. L171-2 à L171-11)](#50)
+        - [Section 2 : Voies privées (art. L171-12 à L171-21)](#51)
+          - [Sous-section 1 : Assainissement d'office. (art. L171-12 à L171-13)](#52)
+          - [Sous-section 2 : Classement des voies privées ouvertes à la circulation publique. (art. L171-14 à L171-15)](#53)
+          - [Sous-section 3 : Dispositions financières. (art. L171-16 à L171-21)](#54)
+      - [Chapitre II : Dispositions relatives aux départements d'outre-mer. (art. L172-1)](#55)
+      - [Chapitre III : Dispositions diverses. (art. L173-1 à L173-3)](#56)
+  - [Partie réglementaire (art. R*111-1 à R*173-2)](#57)
+    - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. R*111-1 à R119-11)](#58)
+      - [Chapitre I : Définition. (art. R*111-1)](#59)
+      - [Chapitre II : Emprise. (art. R*112-1 à R*112-3)](#60)
+        - [Section 1 : Alignement. (art. R*112-1 à R*112-3)](#61)
+      - [Chapitre III : Utilisation. (art. R*113-1 à R*113-10)](#62)
+      - [Chapitre IV : Riveraineté. (art. R*114-1 à R*114-2)](#63)
+        - [Section 1 : Servitudes de visibilité. (art. R*114-1 à R*114-2)](#64)
+      - [Chapitre V : Travaux (art. R*115-1 à R*115-4)](#65)
+        - [Section unique : Coordination des travaux exécutés sur les voies publiques situées à l'intérieur des agglomérations. (art. R*115-1 à R*115-4)](#66)
+      - [Chapitre VI : Police de la conservation. (art. R*116-1 à R*116-2)](#67)
+      - [Chapitre VIII : Sécurité d'ouvrages du réseau routier dont l'exploitation présente des risques particuliers pour la sécurité des personnes. (art. R*118-1-2 à R118-3-7)](#68)
+        - [Section 1 : Ouvrages dont l'exploitation présente des risques particuliers pour la sécurité des personnes (art. R*118-1-2 à R118-1-1)](#69)
+        - [Section 2 : Commission nationale d'évaluation de la sécurité des ouvrages routiers et agrément des experts (art. R*118-2-2 à R118-2-4)](#70)
+        - [Section 3 : Procédures et règles relatives à la sécurité des ouvrages routiers dont l'exploitation présente des risques particuliers pour la sécurité des personnes (art. R*118-3-1 à R118-3-7)](#71)
+      - [Chapitre IX : Equipements routiers. (art. R*119-1 à R119-11)](#72)
+        - [Section 1 : Champ d'application (art. R*119-1)](#73)
+        - [Section 2 : Evaluation et attestation de conformité (art. R*119-2 à R*119-4)](#74)
+          - [Sous-section 1 : Equipements soumis au marquage CE (art. R*119-2 à R*119-3)](#75)
+          - [Sous-section 2 : Equipements non soumis au marquage CE (art. R**119-5 à R*119-4)](#76)
+        - [Section 3 : Règles de mise en service (art. R*119-6 à R119-10)](#77)
+        - [Section 4 : Dispositions diverses (art. R119-11)](#78)
+    - [TITRE II : Voirie nationale. (art. R*121-1 à R*123-5)](#79)
+      - [Chapitre Ier : Dispositions communes aux autoroutes et aux routes nationales. (art. R*121-1)](#80)
+      - [Chapitre II : Autoroutes. (art. R*122-1 à R122-27)](#81)
+        - [Section 1 : Dispositions générales. (art. R*122-1 à R122-5-1)](#82)
+        - [Section 2 : Dispositions financières. (art. R*122-6 à R*122-26)](#83)
+          - [Sous-section 1 : Caisse nationale des autoroutes. (art. R*122-6 à R*122-15)](#84)
+          - [Sous-section 2 : Autoroutes de France. (art. R*122-16 à R*122-26)](#85)
+        - [Section 3 : Redevance domaniale. (art. R122-27)](#86)
+      - [Chapitre III : Routes nationales. (art. R*123-1 à R*123-5)](#87)
+        - [Section 1 : Classement et déclassement. (art. R*123-1 à R*123-2)](#88)
+        - [Section 2 : Alignement. (art. R*123-3 à R*123-4)](#89)
+        - [Section 3 : Disposition relative à la création de voies accédant aux routes nationales. (art. R*123-5)](#90)
+    - [TITRE III : Voirie départementale. (art. R*131-1 à R*131-11)](#91)
+      - [Chapitre unique. (art. R*131-1 à R*131-11)](#92)
+        - [Section 1 : Caractéristiques techniques du domaine public routier départemental. (art. R*131-1 à R*131-2)](#93)
+        - [Section 2 : Enquête publique relative au classement, au déclassement, à l'établissement des plans d'alignement et de nivellement, à l'ouverture, au redressement et à l'élargissement des routes départementales. (art. R*131-3 à R*131-8)](#94)
+        - [Section 3 : Dispositions relatives à la coordination des travaux exécutés sur les routes départementales. (art. R*131-9 à R*131-11)](#95)
+    - [TITRE IV : Voirie communale. (art. R*141-1 à R*141-22)](#96)
+      - [Chapitre unique (art. R*141-1 à R*141-22)](#97)
+        - [Section 1 : Emprise du domaine public routier communal. (art. R*141-1 à R*141-11)](#98)
+          - [Sous-section 1 : Alignement et caractéristiques techniques. (art. R*141-1 à R*141-3)](#99)
+          - [Sous-section 2 : Enquête publique relative au classement, à l'ouverture, au redressement, à la fixation de la largeur et au déclassement des voies communales. (art. R*141-4 à R*141-10)](#100)
+          - [Sous-section 3 : Publicité foncière. (art. R*141-11)](#101)
+        - [Section 3 : Coordination des travaux exécutés sur les voies communales situées à l'extérieur des agglomérations. (art. R*141-12)](#102)
+        - [Section 4 : Dispositions relatives aux travaux affectant le sol et le sous-sol des voies communales. (art. R*141-13 à R*141-21)](#103)
+        - [Section 5 : Dispositions applicables dans le cas où il existe un établissement public de coopération intercommunale. (art. R*141-22)](#104)
+    - [TITRE V : Voies à statuts particuliers. (art. R*151-1 à R*153-3)](#105)
+      - [Chapitre Ier : Routes express. (art. R*151-1 à R*151-7)](#106)
+      - [Chapitre II : Déviations. (art. R*152-1 à R*152-2)](#107)
+      - [Chapitre III : Ouvrages d'art. (art. R*153-1 à R*153-3)](#108)
+        - [Section 1 : Dispositions générales. (art. R*153-1 à R*153-2)](#109)
+        - [Section 2: Dispositions particulières. (art. R*153-3)](#110)
+    - [TITRE VI : Dispositions applicables aux voies n'appartenant pas au domaine public. (art. R*161-1 à R*163-1)](#111)
+      - [Chapitre Ier : Chemins ruraux. (art. R*161-1 à R*161-2)](#112)
+      - [Chapitre II : Voies privées. (art. R*162-1 à R*162-2)](#113)
+        - [Section 1 : Dispositions générales. (art. R*162-1)](#114)
+        - [Section 3 : Autres voies privées. (art. R*162-2)](#115)
+      - [Chapitre III : Dispositions communes. (art. R*163-1)](#116)
+    - [TITRE VII : Dispositions particulières. (art. R*171-1 à R*173-2)](#117)
+      - [Chapitre Ier : Dispositions applicables à la ville de Paris. (art. R*171-1 à R*171-8)](#118)
+        - [Section 1 : Voies publiques. (art. R*171-1 à R*171-5)](#119)
+        - [Section 2 : Voies privées. (art. R*171-6 à R*171-7)](#120)
+        - [Section 3 : Coordination des travaux. (art. R*171-8)](#121)
+      - [Chapitre III : Dispositions diverses. (art. R*173-1 à R*173-2)](#122)
 # Partie législative<a id=1></a>
 
 ## TITRE Ier : Dispositions communes aux voies du domaine public routier.<a id=2></a>
@@ -1276,6 +1277,41 @@ _Cite_:
   - Code de la route. - art. L121-4 (V)
 
 
+###### Article L118-5
+
+Pour chaque tunnel de plus de 500 mètres situé sur le réseau routier transeuropéen, le maître de l'ouvrage désigne, après
+accord du représentant de l'Etat, un agent de sécurité qui coordonne les mesures de prévention et de sauvegarde visant à
+assurer la sécurité des usagers et du personnel d'exploitation. L'autonomie fonctionnelle de l'agent de sécurité est garantie
+pour l'exercice de ses attributions.
+
+Le maître de l'ouvrage transmet au représentant de l'Etat, à l'agent de sécurité et aux services d'intervention les comptes
+rendus d'incident ou d'accident et les rapports d'enquête.
+
+Les dérogations aux prescriptions de sécurité applicables à ces ouvrages font l'objet d'une consultation de la Commission
+européenne. Cette consultation suspend le délai prévu au deuxième alinéa de l'article L. 118-1.
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article, notamment la liste des tunnels auxquels il
+s'applique.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
+
+_Créé par_:
+
+  - Loi n°2006-10 du 5 janvier 2006 - art. 10
+
+_Cite_:
+
+  - Code de la voirie routière - art. L118-1 (V)
+
+_Cité par_:
+
+  - Code de la voirie routière - art. R118-4-2 (V)
+
+
 ### Chapitre IX : Dispositifs d'information sur le réseau routier.<a id=16></a>
 
 ###### Article L119-1
@@ -1305,9 +1341,60 @@ _Cite_:
   - Code général des collectivités territoriales - art. L1614-7 (V)
 
 
-## TITRE II : Voirie nationale.<a id=17></a>
+### Chapitre X : Service européen de télépéage.<a id=17></a>
 
-### Chapitre Ier : Dispositions communes aux autoroutes et aux routes nationales.<a id=18></a>
+###### Article L119-2
+
+Le service européen de télépéage concerne les paiements effectués par les usagers des ouvrages du réseau routier au moyen
+d'un dispositif électronique nécessitant l'installation d'un équipement électronique embarqué à bord des véhicules.
+
+Ne sont pas concernés les systèmes de paiement installés sur des ouvrages d'intérêt purement local dont le chiffre d'affaires
+est inférieur à un montant fixé par décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
+
+_Créé par_:
+
+  - Loi n°2006-10 du 5 janvier 2006 - art. 51 (V) JORF 6 janvier 2006
+
+_Cité par_:
+
+  - Arrêté du 13 août 2010 - art. 1 (V)
+  - Code de la voirie routière - art. D119-20-1 (V)
+  - Code de la voirie routière - art. L119-3 (V)
+
+
+###### Article L119-3
+
+Les systèmes de paiement visés au premier alinéa de l'article L. 119-2, mis en service à compter du 1er janvier 2007,
+utilisent un ou plusieurs procédés définis par décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
+
+_Créé par_:
+
+  - Loi n°2006-10 du 5 janvier 2006 - art. 51 (V) JORF 6 janvier 2006
+
+_Cite_:
+
+  - Code de la voirie routière - art. L119-2 (V)
+
+_Cité par_:
+
+  - Code du travail - art. L6241-5 (V)
+
+
+## TITRE II : Voirie nationale.<a id=18></a>
+
+### Chapitre Ier : Dispositions communes aux autoroutes et aux routes nationales.<a id=19></a>
 
 ###### Article L121-1
 
@@ -1396,9 +1483,9 @@ _Cite_:
   - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L15-9 (V)
 
 
-### Chapitre II : Autoroutes.<a id=19></a>
+### Chapitre II : Autoroutes.<a id=20></a>
 
-#### Section 1 : Dispositions générales.<a id=20></a>
+#### Section 1 : Dispositions générales.<a id=21></a>
 
 ###### Article L122-1
 
@@ -1638,7 +1725,7 @@ _Cité par_:
   - Code de la voirie routière - art. R*122-2 (V)
 
 
-#### Section 2 : Dispositions financières.<a id=21></a>
+#### Section 2 : Dispositions financières.<a id=22></a>
 
 ###### Article L122-6
 
@@ -1845,7 +1932,7 @@ _Cité par_:
   - Code de la voirie routière - art. R*122-17 (V)
 
 
-### Chapitre III : Routes nationales.<a id=22></a>
+### Chapitre III : Routes nationales.<a id=23></a>
 
 ###### Article L123-1
 
@@ -1880,7 +1967,7 @@ _Cite_:
   - Code de la voirie routière - art. L151-1 (V)
 
 
-#### Section 1 : Classement et déclassement.<a id=23></a>
+#### Section 1 : Classement et déclassement.<a id=24></a>
 
 ###### Article L123-2
 
@@ -2008,7 +2095,7 @@ _Cite_:
   - Code de l'urbanisme - art. L318-1 (V)
 
 
-#### Section 2 : Alignement.<a id=24></a>
+#### Section 2 : Alignement.<a id=25></a>
 
 ###### Article L123-6
 
@@ -2056,7 +2143,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L121-28 (Ab)
 
 
-#### Section 3 : Dispositions relatives à la création de voies accédant aux routes nationales.<a id=25></a>
+#### Section 3 : Dispositions relatives à la création de voies accédant aux routes nationales.<a id=26></a>
 
 ###### Article L123-8
 
@@ -2084,9 +2171,9 @@ _Cité par_:
   - Code de la voirie routière - art. R*123-5 (V)
 
 
-## TITRE III : Voirie départementale.<a id=26></a>
+## TITRE III : Voirie départementale.<a id=27></a>
 
-### Chapitre unique.<a id=27></a>
+### Chapitre unique.<a id=28></a>
 
 ###### Article L131-1
 
@@ -2339,9 +2426,9 @@ _Créé par_:
   - Loi n°89-413 1989-06-22 jorf 24 juin 1989
 
 
-## TITRE IV : Voirie communale.<a id=28></a>
+## TITRE IV : Voirie communale.<a id=29></a>
 
-### Chapitre unique.<a id=29></a>
+### Chapitre unique.<a id=30></a>
 
 ###### Article L141-1
 
@@ -2377,7 +2464,7 @@ _Cite_:
   - Code de la voirie routière - art. L151-1 (V)
 
 
-#### Section 1 : Emprise du domaine public routier communal.<a id=30></a>
+#### Section 1 : Emprise du domaine public routier communal.<a id=31></a>
 
 ###### Article L141-2
 
@@ -2539,7 +2626,7 @@ _Cité par_:
   - Loi n°91-663 du 13 juillet 1991 - art. 2 (V)
 
 
-#### Section 2 : Entretien des voies communales.<a id=31></a>
+#### Section 2 : Entretien des voies communales.<a id=32></a>
 
 ###### Article L141-8
 
@@ -2593,7 +2680,7 @@ _Cité par_:
   - Code rural - art. L161-8 (V)
 
 
-#### Section 3 : Dispositions relatives à la coordination des travaux exécutés sur les voies communales situées à l'extérieur des agglomérations.<a id=32></a>
+#### Section 3 : Dispositions relatives à la coordination des travaux exécutés sur les voies communales situées à l'extérieur des agglomérations.<a id=33></a>
 
 ###### Article L141-10
 
@@ -2628,7 +2715,7 @@ _Cite_:
   - Code de la voirie routière - art. L115-1 (V)
 
 
-#### Section 4 : Dispositions relatives aux travaux affectant le sol et le sous-sol des voies communales.<a id=33></a>
+#### Section 4 : Dispositions relatives aux travaux affectant le sol et le sous-sol des voies communales.<a id=34></a>
 
 ###### Article L141-11
 
@@ -2665,7 +2752,7 @@ _Cité par_:
   - Code rural - art. L161-13 (V)
 
 
-#### Section 5 : Dispositions applicables au cas où il existe un établissement public de coopération intercommunale.<a id=34></a>
+#### Section 5 : Dispositions applicables au cas où il existe un établissement public de coopération intercommunale.<a id=35></a>
 
 ###### Article L141-12
 
@@ -2683,9 +2770,9 @@ _Créé par_:
   - Loi n°89-413 1989-06-22 jorf 24 juin 1989
 
 
-## TITRE V : Voies à statuts particuliers.<a id=35></a>
+## TITRE V : Voies à statuts particuliers.<a id=36></a>
 
-### Chapitre Ier : Routes express.<a id=36></a>
+### Chapitre Ier : Routes express.<a id=37></a>
 
 ###### Article L151-1
 
@@ -2842,7 +2929,7 @@ _Cite_:
   - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L15-9 (V)
 
 
-### Chapitre II : Déviations.<a id=37></a>
+### Chapitre II : Déviations.<a id=38></a>
 
 ###### Article L152-1
 
@@ -2894,9 +2981,9 @@ _Cité par_:
   - Loi n°89-413 du 22 juin 1989 - art. 3 (V)
 
 
-### Chapitre III : Ouvrages d'art.<a id=38></a>
+### Chapitre III : Ouvrages d'art.<a id=39></a>
 
-#### Section 1 : Dispositions générales.<a id=39></a>
+#### Section 1 : Dispositions générales.<a id=40></a>
 
 ###### Article L153-1
 
@@ -3085,7 +3172,7 @@ _Anciens textes_:
   - Loi n°86-972 1986-08-16 art. 17 al. 2
 
 
-#### Section 2 : Dispositions particulières.<a id=40></a>
+#### Section 2 : Dispositions particulières.<a id=41></a>
 
 ###### Article L153-7
 
@@ -3176,9 +3263,9 @@ _Créé par_:
   - Loi n°89-413 1989-06-22 jorf 24 juin 1989
 
 
-## TITRE VI : Dispositions applicables aux voies n'appartenant pas au domaine public.<a id=41></a>
+## TITRE VI : Dispositions applicables aux voies n'appartenant pas au domaine public.<a id=42></a>
 
-### Chapitre Ier : Chemins ruraux.<a id=42></a>
+### Chapitre Ier : Chemins ruraux.<a id=43></a>
 
 ###### Article L161-1
 
@@ -3239,9 +3326,9 @@ _Cite_:
   - Code de la voirie routière - art. L141-10 (V)
 
 
-### Chapitre II : Voies privées.<a id=43></a>
+### Chapitre II : Voies privées.<a id=44></a>
 
-#### Section 1 : Dispositions générales.<a id=44></a>
+#### Section 1 : Dispositions générales.<a id=45></a>
 
 ###### Article L162-1
 
@@ -3266,7 +3353,7 @@ _Cité par_:
   - Code de la voirie routière - art. L162-4 (V)
 
 
-#### Section 2 : Chemins et sentiers d'exploitation.<a id=45></a>
+#### Section 2 : Chemins et sentiers d'exploitation.<a id=46></a>
 
 ###### Article L162-2
 
@@ -3312,7 +3399,7 @@ _Cite_:
   - Code de la voirie routière - art. L114-7 (V)
 
 
-#### Section 3 : Autres voies privées.<a id=46></a>
+#### Section 3 : Autres voies privées.<a id=47></a>
 
 ###### Article L162-4
 
@@ -3389,9 +3476,9 @@ _Cité par_:
   - Code de la voirie routière - art. L172-2 (V)
 
 
-## TITRE VII : Dispositions particulières.<a id=47></a>
+## TITRE VII : Dispositions particulières.<a id=48></a>
 
-### Chapitre Ier : Dispositions applicables à la ville de Paris.<a id=48></a>
+### Chapitre Ier : Dispositions applicables à la ville de Paris.<a id=49></a>
 
 ###### Article L171-1
 
@@ -3413,7 +3500,7 @@ _Cite_:
   - Code de la voirie routière L111-1 à L162-6
 
 
-#### Section 1 : Voies publiques.<a id=49></a>
+#### Section 1 : Voies publiques.<a id=50></a>
 
 ###### Article L171-2
 
@@ -3691,9 +3778,9 @@ _Cite_:
   - Code de la voirie routière - art. L171-10 (V)
 
 
-#### Section 2 : Voies privées<a id=50></a>
+#### Section 2 : Voies privées<a id=51></a>
 
-##### Sous-section 1 : Assainissement d'office.<a id=51></a>
+##### Sous-section 1 : Assainissement d'office.<a id=52></a>
 
 ###### Article L171-12
 
@@ -3772,7 +3859,7 @@ _Cité par_:
   - Code de la voirie routière - art. L171-20 (V)
 
 
-##### Sous-section 2 : Classement des voies privées ouvertes à la circulation publique.<a id=52></a>
+##### Sous-section 2 : Classement des voies privées ouvertes à la circulation publique.<a id=53></a>
 
 ###### Article L171-14
 
@@ -3836,7 +3923,7 @@ _Créé par_:
   - Loi n°89-413 1989-06-22 jorf 24 juin 1989
 
 
-##### Sous-section 3 : Dispositions financières.<a id=53></a>
+##### Sous-section 3 : Dispositions financières.<a id=54></a>
 
 ###### Article L171-16
 
@@ -4042,7 +4129,7 @@ _Créé par_:
   - Loi n°89-413 1989-06-22 jorf 24 juin 1989
 
 
-### Chapitre II : Dispositions relatives aux départements d'outre-mer.<a id=54></a>
+### Chapitre II : Dispositions relatives aux départements d'outre-mer.<a id=55></a>
 
 ###### Article L172-1
 
@@ -4068,7 +4155,7 @@ _Cite_:
   - Code de la voirie routière - art. L114-7 (V)
 
 
-### Chapitre III : Dispositions diverses.<a id=55></a>
+### Chapitre III : Dispositions diverses.<a id=56></a>
 
 ###### Article L173-1
 
@@ -4183,11 +4270,11 @@ _Cité par_:
   - PILOTE_SUIVEUR: Code de l'environnement - art. L321-11 (V)
 
 
-# Partie réglementaire<a id=56></a>
+# Partie réglementaire<a id=57></a>
 
-## TITRE Ier : Dispositions communes aux voies du domaine public routier.<a id=57></a>
+## TITRE Ier : Dispositions communes aux voies du domaine public routier.<a id=58></a>
 
-### Chapitre I : Définition.<a id=58></a>
+### Chapitre I : Définition.<a id=59></a>
 
 ###### Article R*111-1
 
@@ -4235,9 +4322,9 @@ _Cité par_:
   - TXT_SOURCE: Directive 98-34 CE 1998-06-22
 
 
-### Chapitre II : Emprise.<a id=59></a>
+### Chapitre II : Emprise.<a id=60></a>
 
-#### Section 1 : Alignement.<a id=60></a>
+#### Section 1 : Alignement.<a id=61></a>
 
 ###### Article R*112-1
 
@@ -4315,7 +4402,7 @@ _Créé par_:
   - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
 
 
-### Chapitre III : Utilisation.<a id=61></a>
+### Chapitre III : Utilisation.<a id=62></a>
 
 ###### Article R*113-1
 
@@ -4551,9 +4638,9 @@ _Créé par_:
   - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
 
 
-### Chapitre IV : Riveraineté.<a id=62></a>
+### Chapitre IV : Riveraineté.<a id=63></a>
 
-#### Section 1 : Servitudes de visibilité.<a id=63></a>
+#### Section 1 : Servitudes de visibilité.<a id=64></a>
 
 ###### Article R*114-1
 
@@ -4610,9 +4697,9 @@ _Anciens textes_:
   - Décret-loi 1935-10-30 art. 5 (partie)
 
 
-### Chapitre V : Travaux<a id=64></a>
+### Chapitre V : Travaux<a id=65></a>
 
-#### Section unique : Coordination des travaux exécutés sur les voies publiques situées à l'intérieur des agglomérations.<a id=65></a>
+#### Section unique : Coordination des travaux exécutés sur les voies publiques situées à l'intérieur des agglomérations.<a id=66></a>
 
 ###### Article R*115-1
 
@@ -4747,7 +4834,7 @@ _Cité par_:
   - Code de la voirie routière - art. R*141-12 (V)
 
 
-### Chapitre VI : Police de la conservation.<a id=66></a>
+### Chapitre VI : Police de la conservation.<a id=67></a>
 
 ###### Article R*116-1
 
@@ -4824,9 +4911,9 @@ _Cité par_:
   - Arrêté du 29 mars 2013 - art. 1 (V)
 
 
-### Chapitre VIII : Sécurité d'ouvrages du réseau routier dont l'exploitation présente des risques particuliers pour la sécurité des personnes.<a id=67></a>
+### Chapitre VIII : Sécurité d'ouvrages du réseau routier dont l'exploitation présente des risques particuliers pour la sécurité des personnes.<a id=68></a>
 
-#### Section 1 : Ouvrages dont l'exploitation présente des risques particuliers pour la sécurité des personnes<a id=68></a>
+#### Section 1 : Ouvrages dont l'exploitation présente des risques particuliers pour la sécurité des personnes<a id=69></a>
 
 ###### Article R*118-1-2
 
@@ -4899,7 +4986,7 @@ _Cite_:
   - Code de la voirie routière - art. L118-1 (V)
 
 
-#### Section 2 : Commission nationale d'évaluation de la sécurité des ouvrages routiers et agrément des experts<a id=69></a>
+#### Section 2 : Commission nationale d'évaluation de la sécurité des ouvrages routiers et agrément des experts<a id=70></a>
 
 ###### Article R*118-2-2
 
@@ -5050,7 +5137,7 @@ _Cite_:
   - Code de la voirie routière - art. L118-2 (V)
 
 
-#### Section 3 : Procédures et règles relatives à la sécurité des ouvrages routiers dont l'exploitation présente des risques particuliers pour la sécurité des personnes<a id=70></a>
+#### Section 3 : Procédures et règles relatives à la sécurité des ouvrages routiers dont l'exploitation présente des risques particuliers pour la sécurité des personnes<a id=71></a>
 
 ###### Article R*118-3-1
 
@@ -5305,9 +5392,9 @@ _Créé par_:
   - Décret n°2005-701 du 24 juin 2005 - art. 1 () JORF 25 juin 2005
 
 
-### Chapitre IX : Equipements routiers.<a id=71></a>
+### Chapitre IX : Equipements routiers.<a id=72></a>
 
-#### Section 1 : Champ d'application<a id=72></a>
+#### Section 1 : Champ d'application<a id=73></a>
 
 ###### Article R*119-1
 
@@ -5358,9 +5445,9 @@ _Cité par_:
   - Code de la voirie routière - art. R*119-9 (V)
 
 
-#### Section 2 : Evaluation et attestation de conformité<a id=73></a>
+#### Section 2 : Evaluation et attestation de conformité<a id=74></a>
 
-##### Sous-section 1 : Equipements soumis au marquage CE<a id=74></a>
+##### Sous-section 1 : Equipements soumis au marquage CE<a id=75></a>
 
 ###### Article R*119-2
 
@@ -5427,7 +5514,7 @@ _Cité par_:
   - Arrêté du 29 juin 2012 - art. 1 (V)
 
 
-##### Sous-section 2 : Equipements non soumis au marquage CE<a id=75></a>
+##### Sous-section 2 : Equipements non soumis au marquage CE<a id=76></a>
 
 ###### Article R**119-5
 
@@ -5559,7 +5646,7 @@ _Modifié par_:
   - TXT_SOURCE: Directive 98-34 CE 1998-06-22
 
 
-#### Section 3 : Règles de mise en service<a id=76></a>
+#### Section 3 : Règles de mise en service<a id=77></a>
 
 ###### Article R*119-6
 
@@ -5719,7 +5806,7 @@ _Cite_:
   - TXT_SOURCE: Directive 98-34 CE 1998-06-22
 
 
-#### Section 4 : Dispositions diverses<a id=77></a>
+#### Section 4 : Dispositions diverses<a id=78></a>
 
 ###### Article R119-11
 
@@ -5747,9 +5834,9 @@ _Cite_:
   - Code de la voirie routière R**119-5, R*119-10
 
 
-## TITRE II : Voirie nationale.<a id=78></a>
+## TITRE II : Voirie nationale.<a id=79></a>
 
-### Chapitre Ier : Dispositions communes aux autoroutes et aux routes nationales.<a id=79></a>
+### Chapitre Ier : Dispositions communes aux autoroutes et aux routes nationales.<a id=80></a>
 
 ###### Article R*121-1
 
@@ -5776,9 +5863,9 @@ _Anciens textes_:
   - Code du domaine de l'Etat r53 renvoi
 
 
-### Chapitre II : Autoroutes.<a id=80></a>
+### Chapitre II : Autoroutes.<a id=81></a>
 
-#### Section 1 : Dispositions générales.<a id=81></a>
+#### Section 1 : Dispositions générales.<a id=82></a>
 
 ###### Article R*122-1
 
@@ -5958,9 +6045,9 @@ _Créé par_:
   - Décret n°96-1058 du 2 décembre 1996 - art. 8 ()
 
 
-#### Section 2 : Dispositions financières.<a id=82></a>
+#### Section 2 : Dispositions financières.<a id=83></a>
 
-##### Sous-section 1 : Caisse nationale des autoroutes.<a id=83></a>
+##### Sous-section 1 : Caisse nationale des autoroutes.<a id=84></a>
 
 ###### Article R*122-6
 
@@ -6215,7 +6302,7 @@ _Créé par_:
   - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
 
 
-##### Sous-section 2 : Autoroutes de France.<a id=84></a>
+##### Sous-section 2 : Autoroutes de France.<a id=85></a>
 
 ###### Article R*122-16
 
@@ -6556,7 +6643,7 @@ _Cite_:
   - Code de la voirie routière - art. R*122-21 (M)
 
 
-#### Section 3 : Redevance domaniale.<a id=85></a>
+#### Section 3 : Redevance domaniale.<a id=86></a>
 
 ###### Article R122-27
 
@@ -6609,9 +6696,9 @@ _Nouveaux textes_:
   - Code de la voirie routière - art. R122-48 (V)
 
 
-### Chapitre III : Routes nationales.<a id=86></a>
+### Chapitre III : Routes nationales.<a id=87></a>
 
-#### Section 1 : Classement et déclassement.<a id=87></a>
+#### Section 1 : Classement et déclassement.<a id=88></a>
 
 ###### Article R*123-1
 
@@ -6661,7 +6748,7 @@ _Cite_:
   - Code de la voirie routière - art. L123-3 (V)
 
 
-#### Section 2 : Alignement.<a id=88></a>
+#### Section 2 : Alignement.<a id=89></a>
 
 ###### Article R*123-3
 
@@ -6728,7 +6815,7 @@ _Cite_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R12-1 (V)
 
 
-#### Section 3 : Disposition relative à la création de voies accédant aux routes nationales.<a id=89></a>
+#### Section 3 : Disposition relative à la création de voies accédant aux routes nationales.<a id=90></a>
 
 ###### Article R*123-5
 
@@ -6753,11 +6840,11 @@ _Anciens textes_:
   - Décret-loi 1938-05-24 art. 4 (partie)
 
 
-## TITRE III : Voirie départementale.<a id=90></a>
+## TITRE III : Voirie départementale.<a id=91></a>
 
-### Chapitre unique.<a id=91></a>
+### Chapitre unique.<a id=92></a>
 
-#### Section 1 : Caractéristiques techniques du domaine public routier départemental.<a id=92></a>
+#### Section 1 : Caractéristiques techniques du domaine public routier départemental.<a id=93></a>
 
 ###### Article R*131-1
 
@@ -6805,7 +6892,7 @@ _Modifié par_:
   - Décret n°93-1133 du 22 septembre 1993 - art. 1 () JORF 30 septembre 1993
 
 
-#### Section 2 : Enquête publique relative au classement, au déclassement, à l'établissement des plans d'alignement et de nivellement, à l'ouverture, au redressement et à l'élargissement des routes départementales.<a id=93></a>
+#### Section 2 : Enquête publique relative au classement, au déclassement, à l'établissement des plans d'alignement et de nivellement, à l'ouverture, au redressement et à l'élargissement des routes départementales.<a id=94></a>
 
 ###### Article R*131-3
 
@@ -6960,7 +7047,7 @@ _Créé par_:
   - Décret n°93-1133 du 22 septembre 1993 - art. 2 () JORF 30 septembre 1993
 
 
-#### Section 3 : Dispositions relatives à la coordination des travaux exécutés sur les routes départementales.<a id=94></a>
+#### Section 3 : Dispositions relatives à la coordination des travaux exécutés sur les routes départementales.<a id=95></a>
 
 ###### Article R*131-9
 
@@ -7061,13 +7148,13 @@ _Anciens textes_:
   - Code de la voirie routière R131-5
 
 
-## TITRE IV : Voirie communale.<a id=95></a>
+## TITRE IV : Voirie communale.<a id=96></a>
 
-### Chapitre unique<a id=96></a>
+### Chapitre unique<a id=97></a>
 
-#### Section 1 : Emprise du domaine public routier communal.<a id=97></a>
+#### Section 1 : Emprise du domaine public routier communal.<a id=98></a>
 
-##### Sous-section 1 : Alignement et caractéristiques techniques.<a id=98></a>
+##### Sous-section 1 : Alignement et caractéristiques techniques.<a id=99></a>
 
 ###### Article R*141-1
 
@@ -7139,7 +7226,7 @@ _Créé par_:
   - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
 
 
-##### Sous-section 2 : Enquête publique relative au classement, à l'ouverture, au redressement, à la fixation de la largeur et au déclassement des voies communales.<a id=99></a>
+##### Sous-section 2 : Enquête publique relative au classement, à l'ouverture, au redressement, à la fixation de la largeur et au déclassement des voies communales.<a id=100></a>
 
 ###### Article R*141-4
 
@@ -7337,7 +7424,7 @@ _Créé par_:
   - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
 
 
-##### Sous-section 3 : Publicité foncière.<a id=100></a>
+##### Sous-section 3 : Publicité foncière.<a id=101></a>
 
 ###### Article R*141-11
 
@@ -7359,7 +7446,7 @@ _Cité par_:
   - Code de la voirie routière - art. R172-1 (V)
 
 
-#### Section 3 : Coordination des travaux exécutés sur les voies communales situées à l'extérieur des agglomérations.<a id=101></a>
+#### Section 3 : Coordination des travaux exécutés sur les voies communales situées à l'extérieur des agglomérations.<a id=102></a>
 
 ###### Article R*141-12
 
@@ -7390,7 +7477,7 @@ _Cite_:
   - Code de la voirie routière - art. R*115-4 (V)
 
 
-#### Section 4 : Dispositions relatives aux travaux affectant le sol et le sous-sol des voies communales.<a id=102></a>
+#### Section 4 : Dispositions relatives aux travaux affectant le sol et le sous-sol des voies communales.<a id=103></a>
 
 ###### Article R*141-13
 
@@ -7651,7 +7738,7 @@ _Cité par_:
   - Code de la voirie routière - art. R*141-18 (V)
 
 
-#### Section 5 : Dispositions applicables dans le cas où il existe un établissement public de coopération intercommunale.<a id=103></a>
+#### Section 5 : Dispositions applicables dans le cas où il existe un établissement public de coopération intercommunale.<a id=104></a>
 
 ###### Article R*141-22
 
@@ -7669,9 +7756,9 @@ _Créé par_:
   - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
 
 
-## TITRE V : Voies à statuts particuliers.<a id=104></a>
+## TITRE V : Voies à statuts particuliers.<a id=105></a>
 
-### Chapitre Ier : Routes express.<a id=105></a>
+### Chapitre Ier : Routes express.<a id=106></a>
 
 ###### Article R*151-1
 
@@ -7885,7 +7972,7 @@ _Créé par_:
   - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
 
 
-### Chapitre II : Déviations.<a id=106></a>
+### Chapitre II : Déviations.<a id=107></a>
 
 ###### Article R*152-1
 
@@ -7952,9 +8039,9 @@ _Cite_:
   - Code de l'expropriation pour cause d'utilité pu... - art. **R11-3 (V)
 
 
-### Chapitre III : Ouvrages d'art.<a id=107></a>
+### Chapitre III : Ouvrages d'art.<a id=108></a>
 
-#### Section 1 : Dispositions générales.<a id=108></a>
+#### Section 1 : Dispositions générales.<a id=109></a>
 
 ###### Article R*153-1
 
@@ -8032,7 +8119,7 @@ _Cite_:
   - Code de la voirie routière - art. L153-5 (M)
 
 
-#### Section 2: Dispositions particulières.<a id=109></a>
+#### Section 2: Dispositions particulières.<a id=110></a>
 
 ###### Article R*153-3
 
@@ -8060,9 +8147,9 @@ _Créé par_:
   - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
 
 
-## TITRE VI : Dispositions applicables aux voies n'appartenant pas au domaine public.<a id=110></a>
+## TITRE VI : Dispositions applicables aux voies n'appartenant pas au domaine public.<a id=111></a>
 
-### Chapitre Ier : Chemins ruraux.<a id=111></a>
+### Chapitre Ier : Chemins ruraux.<a id=112></a>
 
 ###### Article R*161-1
 
@@ -8111,9 +8198,9 @@ _Cite_:
   - Code de la voirie routière R*113-1, R*115-1 à R*115-4, R*141-12 à R*141-21
 
 
-### Chapitre II : Voies privées.<a id=112></a>
+### Chapitre II : Voies privées.<a id=113></a>
 
-#### Section 1 : Dispositions générales.<a id=113></a>
+#### Section 1 : Dispositions générales.<a id=114></a>
 
 ###### Article R*162-1
 
@@ -8134,7 +8221,7 @@ _Cite_:
   - Code de la voirie routière - art. R*113-1 (V)
 
 
-#### Section 3 : Autres voies privées.<a id=114></a>
+#### Section 3 : Autres voies privées.<a id=115></a>
 
 ###### Article R*162-2
 
@@ -8161,7 +8248,7 @@ _Cite_:
   - Code de la voirie routière L162-5 Code de l'urbanisme R318-10, R318-11, R318-12
 
 
-### Chapitre III : Dispositions communes.<a id=115></a>
+### Chapitre III : Dispositions communes.<a id=116></a>
 
 ###### Article R*163-1
 
@@ -8188,11 +8275,11 @@ _Cite_:
   - Code de la voirie routière - art. R*111-1 (M)
 
 
-## TITRE VII : Dispositions particulières.<a id=116></a>
+## TITRE VII : Dispositions particulières.<a id=117></a>
 
-### Chapitre Ier : Dispositions applicables à la ville de Paris.<a id=117></a>
+### Chapitre Ier : Dispositions applicables à la ville de Paris.<a id=118></a>
 
-#### Section 1 : Voies publiques.<a id=118></a>
+#### Section 1 : Voies publiques.<a id=119></a>
 
 ###### Article R*171-1
 
@@ -8323,7 +8410,7 @@ _Anciens textes_:
   - Décret-loi 1935-10-30 art. 9 (partie)
 
 
-#### Section 2 : Voies privées.<a id=119></a>
+#### Section 2 : Voies privées.<a id=120></a>
 
 ###### Article R*171-6
 
@@ -8375,7 +8462,7 @@ _Anciens textes_:
   - Loi n°1930-05-15 art. 3 al. 1 (partie)
 
 
-#### Section 3 : Coordination des travaux.<a id=120></a>
+#### Section 3 : Coordination des travaux.<a id=121></a>
 
 ###### Article R*171-8
 
@@ -8401,7 +8488,7 @@ _Cite_:
   - Code de la voirie routière - art. R*115-2 (V)
 
 
-### Chapitre III : Dispositions diverses.<a id=121></a>
+### Chapitre III : Dispositions diverses.<a id=122></a>
 
 ###### Article R*173-1
 
