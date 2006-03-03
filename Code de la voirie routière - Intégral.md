@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2006-03-01
+Version Consolidée au 2006-03-04
 ## Contenu: 
   - [Partie législative (art. L111-1 à L173-3)](#1)
     - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. L111-1 à L119-3)](#2)
@@ -109,7 +109,7 @@ Version Consolidée au 2006-03-01
         - [Section 5 : Dispositions applicables dans le cas où il existe un établissement public de coopération intercommunale. (art. R*141-22)](#106)
     - [TITRE V : Voies à statuts particuliers. (art. R*151-1 à R*153-3)](#107)
       - [Chapitre Ier : Routes express. (art. R*151-1 à R*151-7)](#108)
-      - [Chapitre II : Déviations. (art. R*152-1 à R*152-2)](#109)
+      - [Chapitre II : Déviations. (art. R*152-2 à R152-1)](#109)
       - [Chapitre III : Ouvrages d'art. (art. R*153-1 à R*153-3)](#110)
         - [Section 1 : Dispositions générales. (art. R*153-1 à R*153-2)](#111)
         - [Section 2: Dispositions particulières. (art. R*153-3)](#112)
@@ -8015,25 +8015,6 @@ _Créé par_:
 
 ### Chapitre II : Déviations.<a id=109></a>
 
-###### Article R*152-1
-
-La liste des routes à grande circulation est celle qui a été établie en application de l'article R. 1 du code de la route.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°89-631 1989-09-04
-
-_Créé par_:
-
-  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
-
-_Cite_:
-
-  - Code de la route R1
-
-
 ###### Article R*152-2
 
 I.-Lorsqu'il y a lieu à expropriation, les articles R. 11-3 à R. 11-17 du code de l'expropriation pour cause d'utilité
@@ -8078,6 +8059,26 @@ _Cite_:
   - Code de la voirie routière - art. L152-1 (V)
   - Code de l'expropriation pour cause d'utilité pu... - art. **R11-19 (V)
   - Code de l'expropriation pour cause d'utilité pu... - art. **R11-3 (V)
+
+
+###### Article R152-1
+
+Constituent des routes à grande circulation les routes qui figurent sur la liste établie en application de l'article L. 110-3
+du code de la route.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°89-631 1989-09-04
+
+_Modifié par_:
+
+  - Décret n°2006-253 du 27 février 2006 - art. 5 () JORF 4 mars 2006
+
+_Cite_:
+
+  - Code de la route. - art. L110-3 (M)
 
 
 ### Chapitre III : Ouvrages d'art.<a id=110></a>
