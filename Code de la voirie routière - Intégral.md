@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2006-06-08
+Version Consolidée au 2006-06-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L173-3)](#1)
     - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. L111-1 à L119-3)](#2)
@@ -8536,8 +8536,8 @@ _Cite_:
 
 ###### Article R*173-1
 
-Le décret en Conseil d'Etat prévu à l'article L. 173-2 est pris après avis du conseil départemental d'hygiène et sur le
-rapport du ministre de l'intérieur et du ministre chargé de la santé.
+Le décret en Conseil d'Etat prévu à l'article L. 173-2 est pris après avis du conseil départemental de l'environnement et des
+risques sanitaires et technologiques et sur le rapport du ministre de l'intérieur et du ministre chargé de la santé.
 
 **Liens relatifs à cet article**
 
@@ -8545,9 +8545,9 @@ _Codifié par_:
 
   - Décret n°89-631 1989-09-04
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+  - Décret n°2006-665 du 7 juin 2006 - art. 19 (V) JORF 8 juin 2006 en vigueur le 30 juin 2006
 
 _Cite_:
 
