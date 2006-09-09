@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2006-06-30
+Version Consolidée au 2006-09-10
 ## Contenu: 
   - [Partie législative (art. L111-1 à L173-3)](#1)
     - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. L111-1 à L119-3)](#2)
@@ -64,7 +64,7 @@ Version Consolidée au 2006-06-30
         - [Section 2 : Enquêtes de circulation. (art. D111-2 à D111-3)](#61)
       - [Chapitre II : Emprise. (art. R*112-1 à R*112-3)](#62)
         - [Section 1 : Alignement. (art. R*112-1 à R*112-3)](#63)
-      - [Chapitre III : Utilisation. (art. R*113-1 à R*113-10)](#64)
+      - [Chapitre III : Utilisation. (art. R*113-1 à R113-11)](#64)
       - [Chapitre IV : Riveraineté. (art. R*114-1 à R*114-2)](#65)
         - [Section 1 : Servitudes de visibilité. (art. R*114-1 à R*114-2)](#66)
       - [Chapitre V : Travaux (art. R*115-1 à R*115-4)](#67)
@@ -4679,6 +4679,45 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+
+###### Article R113-11
+
+Le déplacement des installations et ouvrages mentionnés au deuxième alinéa de l'article L. 113-3 peut être demandé par le
+gestionnaire du domaine public routier aux exploitants de réseaux de télécommunications et de services publics de transport
+ou de distribution d'électricité ou de gaz lorsque la présence de ces installations et ouvrages fait courir aux usagers de la
+route un danger dont la réalité est établie dans les cas suivants :
+
+a) A la suite d'études réalisées à l'initiative du gestionnaire du domaine public routier afin d'améliorer les conditions de
+sécurité des usagers sur un itinéraire déterminé ;
+
+b) A l'occasion de travaux d'aménagement de la route ou de ses abords ;
+
+c) Lorsqu'il a été démontré par l'analyse des accidents survenus que la présence de ces installations et ouvrages a constitué
+un facteur aggravant.
+
+Quatre mois avant toute décision, le gestionnaire du domaine public routier notifie à l'occupant son intention de demander le
+déplacement des ouvrages et installations en cause. Dans ce délai, l'occupant peut faire valoir ses observations. A l'issue
+de cette période, le gestionnaire du domaine public routier notifie sa décision à l'occupant. Celle-ci est exécutoire à
+l'expiration d'un délai qui ne peut être inférieur à un mois à compter de sa notification à l'occupant.
+
+Si la décision prise en application de l'alinéa précédent n'est pas exécutée dans le délai prescrit, le gestionnaire du
+domaine public routier peut saisir le juge administratif aux fins de condamnation de l'occupant à réaliser sous astreinte les
+travaux demandés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°89-631 1989-09-04
+
+_Créé par_:
+
+  - Décret n°2006-1133 du 8 septembre 2006 - art. 1 () JORF 10 septembre 2006
+
+_Cite_:
+
+  - Code de la voirie routière - art. L113-3 (M)
 
 
 ### Chapitre IV : Riveraineté.<a id=65></a>
