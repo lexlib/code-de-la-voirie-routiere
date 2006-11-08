@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2006-09-10
+Version Consolidée au 2006-11-09
 ## Contenu: 
   - [Partie législative (art. L111-1 à L173-3)](#1)
     - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. L111-1 à L119-3)](#2)
@@ -70,61 +70,62 @@ Version Consolidée au 2006-09-10
       - [Chapitre V : Travaux (art. R*115-1 à R*115-4)](#67)
         - [Section unique : Coordination des travaux exécutés sur les voies publiques situées à l'intérieur des agglomérations. (art. R*115-1 à R*115-4)](#68)
       - [Chapitre VI : Police de la conservation. (art. R*116-1 à R*116-2)](#69)
-      - [Chapitre VIII : Sécurité d'ouvrages du réseau routier dont l'exploitation présente des risques particuliers pour la sécurité des personnes. (art. R*118-1-2 à R118-3-7)](#70)
-        - [Section 1 : Ouvrages dont l'exploitation présente des risques particuliers pour la sécurité des personnes (art. R*118-1-2 à R118-1-1)](#71)
-        - [Section 2 : Commission nationale d'évaluation de la sécurité des ouvrages routiers et agrément des experts (art. R*118-2-2 à R118-2-4)](#72)
-        - [Section 3 : Procédures et règles relatives à la sécurité des ouvrages routiers dont l'exploitation présente des risques particuliers pour la sécurité des personnes (art. R*118-3-1 à R118-3-7)](#73)
-      - [Chapitre IX : Equipements routiers. (art. R*119-1 à R119-11)](#74)
-        - [Section 1 : Champ d'application (art. R*119-1)](#75)
-        - [Section 2 : Evaluation et attestation de conformité (art. R*119-2 à R*119-4)](#76)
-          - [Sous-section 1 : Equipements soumis au marquage CE (art. R*119-2 à R*119-3)](#77)
-          - [Sous-section 2 : Equipements non soumis au marquage CE (art. R**119-5 à R*119-4)](#78)
-        - [Section 3 : Règles de mise en service (art. R*119-6 à R119-10)](#79)
-        - [Section 4 : Dispositions diverses (art. R119-11)](#80)
-    - [TITRE II : Voirie nationale. (art. R*121-1 à R*123-5)](#81)
-      - [Chapitre Ier : Dispositions communes aux autoroutes et aux routes nationales. (art. R*121-1)](#82)
-      - [Chapitre II : Autoroutes. (art. R*122-1 à R122-27)](#83)
-        - [Section 1 : Dispositions générales. (art. R*122-1 à R122-5-1)](#84)
-        - [Section 2 : Dispositions financières. (art. R*122-6 à R*122-26)](#85)
-          - [Sous-section 1 : Caisse nationale des autoroutes. (art. R*122-6 à R*122-15)](#86)
-          - [Sous-section 2 : Autoroutes de France. (art. R*122-16 à R*122-26)](#87)
-        - [Section 3 : Redevance domaniale. (art. R122-27)](#88)
-      - [Chapitre III : Routes nationales. (art. R*123-1 à R*123-5)](#89)
-        - [Section 1 : Classement et déclassement. (art. R*123-1 à R*123-2)](#90)
-        - [Section 2 : Alignement. (art. R*123-3 à R*123-4)](#91)
-        - [Section 3 : Disposition relative à la création de voies accédant aux routes nationales. (art. R*123-5)](#92)
-    - [TITRE III : Voirie départementale. (art. R*131-1 à R*131-11)](#93)
-      - [Chapitre unique. (art. R*131-1 à R*131-11)](#94)
-        - [Section 1 : Caractéristiques techniques du domaine public routier départemental. (art. R*131-1 à R*131-2)](#95)
-        - [Section 2 : Enquête publique relative au classement, au déclassement, à l'établissement des plans d'alignement et de nivellement, à l'ouverture, au redressement et à l'élargissement des routes départementales. (art. R*131-3 à R*131-8)](#96)
-        - [Section 3 : Dispositions relatives à la coordination des travaux exécutés sur les routes départementales. (art. R*131-9 à R*131-11)](#97)
-    - [TITRE IV : Voirie communale. (art. R*141-1 à R*141-22)](#98)
-      - [Chapitre unique (art. R*141-1 à R*141-22)](#99)
-        - [Section 1 : Emprise du domaine public routier communal. (art. R*141-1 à R*141-11)](#100)
-          - [Sous-section 1 : Alignement et caractéristiques techniques. (art. R*141-1 à R*141-3)](#101)
-          - [Sous-section 2 : Enquête publique relative au classement, à l'ouverture, au redressement, à la fixation de la largeur et au déclassement des voies communales. (art. R*141-4 à R*141-10)](#102)
-          - [Sous-section 3 : Publicité foncière. (art. R*141-11)](#103)
-        - [Section 3 : Coordination des travaux exécutés sur les voies communales situées à l'extérieur des agglomérations. (art. R*141-12)](#104)
-        - [Section 4 : Dispositions relatives aux travaux affectant le sol et le sous-sol des voies communales. (art. R*141-13 à R*141-21)](#105)
-        - [Section 5 : Dispositions applicables dans le cas où il existe un établissement public de coopération intercommunale. (art. R*141-22)](#106)
-    - [TITRE V : Voies à statuts particuliers. (art. R*151-1 à R*153-3)](#107)
-      - [Chapitre Ier : Routes express. (art. R*151-1 à R*151-7)](#108)
-      - [Chapitre II : Déviations. (art. R*152-2 à R152-1)](#109)
-      - [Chapitre III : Ouvrages d'art. (art. R*153-1 à R*153-3)](#110)
-        - [Section 1 : Dispositions générales. (art. R*153-1 à R*153-2)](#111)
-        - [Section 2: Dispositions particulières. (art. R*153-3)](#112)
-    - [TITRE VI : Dispositions applicables aux voies n'appartenant pas au domaine public. (art. R*161-1 à R*163-1)](#113)
-      - [Chapitre Ier : Chemins ruraux. (art. R*161-1 à R*161-2)](#114)
-      - [Chapitre II : Voies privées. (art. R*162-1 à R*162-2)](#115)
-        - [Section 1 : Dispositions générales. (art. R*162-1)](#116)
-        - [Section 3 : Autres voies privées. (art. R*162-2)](#117)
-      - [Chapitre III : Dispositions communes. (art. R*163-1)](#118)
-    - [TITRE VII : Dispositions particulières. (art. R*171-1 à R*173-2)](#119)
-      - [Chapitre Ier : Dispositions applicables à la ville de Paris. (art. R*171-1 à R*171-8)](#120)
-        - [Section 1 : Voies publiques. (art. R*171-1 à R*171-5)](#121)
-        - [Section 2 : Voies privées. (art. R*171-6 à R*171-7)](#122)
-        - [Section 3 : Coordination des travaux. (art. R*171-8)](#123)
-      - [Chapitre III : Dispositions diverses. (art. R*173-1 à R*173-2)](#124)
+      - [Chapitre VIII : Sécurité d'ouvrages du réseau routier dont l'exploitation présente des risques particuliers pour la sécurité des personnes. (art. R118-1-1 à R118-4-7)](#70)
+        - [Section 1 : Ouvrages dont l'exploitation présente des risques particuliers pour la sécurité des personnes (art. R118-1-1 à R118-1-2)](#71)
+        - [Section 2 : Commission nationale d'évaluation de la sécurité des ouvrages routiers et agrément des experts (art. R118-2-1 à R118-2-4)](#72)
+        - [Section 3 : Procédures et règles relatives à la sécurité des ouvrages routiers dont l'exploitation présente des risques particuliers pour la sécurité des personnes (art. R118-3-1 à R118-3-9)](#73)
+        - [Section 4 : Procédures et règles complémentaires relatives aux tunnels de plus de 500 mètres du réseau routier transeuropéen (art. R118-4-1 à R118-4-7)](#74)
+      - [Chapitre IX : Equipements routiers. (art. R*119-1 à R119-11)](#75)
+        - [Section 1 : Champ d'application (art. R*119-1)](#76)
+        - [Section 2 : Evaluation et attestation de conformité (art. R*119-2 à R*119-4)](#77)
+          - [Sous-section 1 : Equipements soumis au marquage CE (art. R*119-2 à R*119-3)](#78)
+          - [Sous-section 2 : Equipements non soumis au marquage CE (art. R**119-5 à R*119-4)](#79)
+        - [Section 3 : Règles de mise en service (art. R*119-6 à R119-10)](#80)
+        - [Section 4 : Dispositions diverses (art. R119-11)](#81)
+    - [TITRE II : Voirie nationale. (art. R*121-1 à R*123-5)](#82)
+      - [Chapitre Ier : Dispositions communes aux autoroutes et aux routes nationales. (art. R*121-1)](#83)
+      - [Chapitre II : Autoroutes. (art. R*122-1 à R122-27)](#84)
+        - [Section 1 : Dispositions générales. (art. R*122-1 à R122-5-1)](#85)
+        - [Section 2 : Dispositions financières. (art. R*122-6 à R*122-26)](#86)
+          - [Sous-section 1 : Caisse nationale des autoroutes. (art. R*122-6 à R*122-15)](#87)
+          - [Sous-section 2 : Autoroutes de France. (art. R*122-16 à R*122-26)](#88)
+        - [Section 3 : Redevance domaniale. (art. R122-27)](#89)
+      - [Chapitre III : Routes nationales. (art. R*123-1 à R*123-5)](#90)
+        - [Section 1 : Classement et déclassement. (art. R*123-1 à R*123-2)](#91)
+        - [Section 2 : Alignement. (art. R*123-3 à R*123-4)](#92)
+        - [Section 3 : Disposition relative à la création de voies accédant aux routes nationales. (art. R*123-5)](#93)
+    - [TITRE III : Voirie départementale. (art. R*131-1 à R*131-11)](#94)
+      - [Chapitre unique. (art. R*131-1 à R*131-11)](#95)
+        - [Section 1 : Caractéristiques techniques du domaine public routier départemental. (art. R*131-1 à R*131-2)](#96)
+        - [Section 2 : Enquête publique relative au classement, au déclassement, à l'établissement des plans d'alignement et de nivellement, à l'ouverture, au redressement et à l'élargissement des routes départementales. (art. R*131-3 à R*131-8)](#97)
+        - [Section 3 : Dispositions relatives à la coordination des travaux exécutés sur les routes départementales. (art. R*131-9 à R*131-11)](#98)
+    - [TITRE IV : Voirie communale. (art. R*141-1 à R*141-22)](#99)
+      - [Chapitre unique (art. R*141-1 à R*141-22)](#100)
+        - [Section 1 : Emprise du domaine public routier communal. (art. R*141-1 à R*141-11)](#101)
+          - [Sous-section 1 : Alignement et caractéristiques techniques. (art. R*141-1 à R*141-3)](#102)
+          - [Sous-section 2 : Enquête publique relative au classement, à l'ouverture, au redressement, à la fixation de la largeur et au déclassement des voies communales. (art. R*141-4 à R*141-10)](#103)
+          - [Sous-section 3 : Publicité foncière. (art. R*141-11)](#104)
+        - [Section 3 : Coordination des travaux exécutés sur les voies communales situées à l'extérieur des agglomérations. (art. R*141-12)](#105)
+        - [Section 4 : Dispositions relatives aux travaux affectant le sol et le sous-sol des voies communales. (art. R*141-13 à R*141-21)](#106)
+        - [Section 5 : Dispositions applicables dans le cas où il existe un établissement public de coopération intercommunale. (art. R*141-22)](#107)
+    - [TITRE V : Voies à statuts particuliers. (art. R*151-1 à R*153-3)](#108)
+      - [Chapitre Ier : Routes express. (art. R*151-1 à R*151-7)](#109)
+      - [Chapitre II : Déviations. (art. R*152-2 à R152-1)](#110)
+      - [Chapitre III : Ouvrages d'art. (art. R*153-1 à R*153-3)](#111)
+        - [Section 1 : Dispositions générales. (art. R*153-1 à R*153-2)](#112)
+        - [Section 2: Dispositions particulières. (art. R*153-3)](#113)
+    - [TITRE VI : Dispositions applicables aux voies n'appartenant pas au domaine public. (art. R*161-1 à R*163-1)](#114)
+      - [Chapitre Ier : Chemins ruraux. (art. R*161-1 à R*161-2)](#115)
+      - [Chapitre II : Voies privées. (art. R*162-1 à R*162-2)](#116)
+        - [Section 1 : Dispositions générales. (art. R*162-1)](#117)
+        - [Section 3 : Autres voies privées. (art. R*162-2)](#118)
+      - [Chapitre III : Dispositions communes. (art. R*163-1)](#119)
+    - [TITRE VII : Dispositions particulières. (art. R*171-1 à R*173-2)](#120)
+      - [Chapitre Ier : Dispositions applicables à la ville de Paris. (art. R*171-1 à R*171-8)](#121)
+        - [Section 1 : Voies publiques. (art. R*171-1 à R*171-5)](#122)
+        - [Section 2 : Voies privées. (art. R*171-6 à R*171-7)](#123)
+        - [Section 3 : Coordination des travaux. (art. R*171-8)](#124)
+      - [Chapitre III : Dispositions diverses. (art. R*173-1 à R*173-2)](#125)
 # Partie législative<a id=1></a>
 
 ## TITRE Ier : Dispositions communes aux voies du domaine public routier.<a id=2></a>
@@ -5003,41 +5004,6 @@ _Cité par_:
 
 #### Section 1 : Ouvrages dont l'exploitation présente des risques particuliers pour la sécurité des personnes<a id=71></a>
 
-###### Article R*118-1-2
-
-Des moyens de lutte contre l'incendie et de secours doivent être placés à proximité des tunnels à double sens de circulation
-dont la longueur est supérieure à cinq kilomètres et qui supportent un trafic journalier de plus de 2 000 véhicules en
-moyenne annuelle dans au moins un sens de circulation. Pour déterminer ce seuil de trafic, les véhicules dont le poids total
-autorisé en charge dépasse 3,5 tonnes sont comptés pour cinq véhicules.
-
-Un arrêté du ministre chargé de l'équipement, pris après avis de la Commission nationale d'évaluation de la sécurité des
-ouvrages routiers prévue à l'article R. 118-2-1, peut rendre applicables les mêmes dispositions à des tunnels à double sens
-de circulation, d'une longueur comprise entre trois et cinq kilomètres, quand l'importance ou la nature de leur trafic le
-justifie.
-
-Pour l'application du présent article, n'est pas considéré comme un tunnel à double sens de circulation un tunnel qui
-comporte plusieurs espaces confinés réservés chacun à un seul sens de circulation.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°89-631 1989-09-04
-
-_Créé par_:
-
-  - Décret n°2005-701 du 24 juin 2005 - art. 1 () JORF 25 juin 2005
-
-_Cité par_:
-
-  - Code des transports - art. R1613-3 (V)
-  - Code de la voirie routière - art. R118-3-2 (V)
-
-_Cite_:
-
-  - Code de la voirie routière - art. R118-2-1 (V)
-
-
 ###### Article R118-1-1
 
 Constituent des ouvrages dont l'exploitation présente des risques particuliers pour la sécurité des personnes au sens de
@@ -5048,15 +5014,18 @@ que soit son mode de construction, crée un espace confiné. Une section de rout
 couverture n'est pas un espace confiné dès lors que l'ouvrage de couverture comporte des ouvertures vers l'extérieur dont la
 surface est égale ou supérieure à 1 m2 par voie de circulation et par mètre de chaussée.
 
+La longueur d'un tunnel est celle de la voie de circulation la plus longue située sous un ouvrage de couverture. Un tunnel
+est considéré comme à double sens de circulation si l'espace confiné qu'il comporte est autorisé aux deux sens de
+circulation.
+
+Les services d'intervention sont constitués de tous les services locaux intervenant en cas d'accident, qu'ils soient publics
+ou privés, qu'ils fassent partie du personnel attaché à l'ouvrage ou non.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°89-631 1989-09-04
-
-_Créé par_:
-
-  - Décret n°2005-701 du 24 juin 2005 - art. 1 () JORF 25 juin 2005
 
 _Cité par_:
 
@@ -5069,38 +5038,26 @@ _Cité par_:
   - Code de la voirie routière - art. R118-3-6 (V)
   - Code de la voirie routière - art. R118-3-8 (V)
 
+_Modifié par_:
+
+  - Décret n°2006-1354 du 8 novembre 2006 - art. 1 () JORF 9 novembre 2006
+
 _Cite_:
 
   - Code de la voirie routière - art. L118-1 (V)
 
 
-#### Section 2 : Commission nationale d'évaluation de la sécurité des ouvrages routiers et agrément des experts<a id=72></a>
+###### Article R118-1-2
 
-###### Article R*118-2-2
+Des moyens de lutte contre l'incendie et de secours doivent être placés à proximité des tunnels à double sens de circulation
+dont la longueur est supérieure à cinq kilomètres et qui supportent un trafic journalier de plus de 2 000 véhicules en
+moyenne annuelle dans au moins un sens de circulation. Pour déterminer ce seuil de trafic, les véhicules dont le poids total
+autorisé en charge dépasse 3,5 tonnes sont comptés pour cinq véhicules.
 
-La Commission nationale d'évaluation de la sécurité des ouvrages routiers est composée de vingt et un membres comprenant,
-outre son président nommé par le ministre chargé de l'équipement :
-
-a) Six représentants de l'Etat dont un nommé par le ministre chargé de l'équipement, un par le ministre chargé des
-transports, un par le ministre chargé de la sécurité civile, un par le ministre chargé de la prévention des risques
-technologiques, un par le ministre chargé de la défense et un par le ministre chargé de la sécurité publique ;
-
-b) Quatre représentants des collectivités territoriales comportant sur leur territoire un ouvrage mentionné à l'article R.
-118-1-1, dont deux désignés par l'association des maires de France, un par l'association des départements de France et un par
-l'association des régions de France ;
-
-c) Dix personnalités qualifiées dont huit nommées conjointement par le ministre chargé de l'équipement et par le ministre
-chargé de la sécurité civile en raison de leur compétence technique en matière de tunnels routiers ou de sécurité et deux
-nommées par le ministre chargé des transports en qualité de représentants respectivement des transporteurs routiers et des
-associations oeuvrant pour la sécurité routière.
-
-Dans les catégories mentionnées aux a et b, des suppléants sont nommés ou désignés selon les mêmes modalités que les membres
-titulaires.
-
-Le mandat des membres de la commission appartenant aux catégories mentionnées aux b et c est d'une durée de trois ans
-renouvelable. En cas de démission ou d'incapacité d'un des membres de la commission, un remplaçant est nommé ou désigné dans
-les formes prévues ci-dessus et exerce son mandat pour le temps restant à courir jusqu'au prochain renouvellement de la
-commission.
+Un arrêté du ministre chargé de l'équipement, pris après avis de la Commission nationale d'évaluation de la sécurité des
+ouvrages routiers prévue à l'article R. 118-2-1, peut rendre applicables les mêmes dispositions à des tunnels à double sens
+de circulation, d'une longueur comprise entre trois et cinq kilomètres, quand l'analyse des risques résultant des dossiers de
+sécurité le justifie.
 
 **Liens relatifs à cet article**
 
@@ -5108,42 +5065,21 @@ _Codifié par_:
 
   - Décret n°89-631 1989-09-04
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2005-701 du 24 juin 2005 - art. 1 () JORF 25 juin 2005
+  - Décret n°2006-1354 du 8 novembre 2006 - art. 1 () JORF 9 novembre 2006
+
+_Cité par_:
+
+  - Code des transports - art. R1613-3 (V)
+  - Code de la voirie routière - art. R118-3-2 (V)
 
 _Cite_:
 
-  - Code de la voirie routière - art. R118-1-1 (M)
+  - Code de la voirie routière - art. R118-2-1 (V)
 
 
-###### Article R*118-2-3
-
-La Commission nationale d'évaluation de la sécurité des ouvrages routiers ne peut valablement émettre d'avis que si au moins
-la moitié de ses membres sont présents. Toutefois, en matière d'agrément d'expert ou d'organisme qualifié, la commission peut
-valablement délibérer en formation restreinte composée du président de la commission, de trois représentants de l'Etat, d'un
-représentant des collectivités territoriales et de trois personnalités qualifiées. Les membres de la formation restreinte
-sont désignés par leur collège respectif.
-
-Le secrétariat de la commission est assuré par le ministère chargé de l'équipement.
-
-La commission peut faire appel à des concours extérieurs pour des travaux ou avis complémentaires.
-
-Les frais de déplacement et de séjour supportés par les membres de la commission à l'occasion des réunions leur sont
-remboursés dans les conditions prévues par la réglementation applicables aux fonctionnaires de l'Etat. Les vacations des
-personnalités qualifiées et des concours extérieurs donnent lieu à rémunération dans des conditions fixées par arrêté
-conjoint des ministres chargés de l'équipement et du budget.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°89-631 1989-09-04
-
-_Créé par_:
-
-  - Décret n°2005-701 du 24 juin 2005 - art. 1 () JORF 25 juin 2005
-
+#### Section 2 : Commission nationale d'évaluation de la sécurité des ouvrages routiers et agrément des experts<a id=72></a>
 
 ###### Article R118-2-1
 
@@ -5188,6 +5124,83 @@ _Cite_:
   - Code de la voirie routière - art. R118-1-1
 
 
+###### Article R118-2-2
+
+La Commission nationale d'évaluation de la sécurité des ouvrages routiers est composée de vingt-trois membres comprenant,
+outre son président nommé par le ministre chargé de l'équipement :
+
+a) Six représentants de l'Etat dont un nommé par le ministre chargé de l'équipement, un par le ministre chargé des
+transports, un par le ministre chargé de la sécurité civile, un par le ministre chargé de la prévention des risques
+technologiques, un par le ministre chargé de la défense et un par le ministre chargé de la sécurité publique ;
+
+b) Quatre représentants des collectivités territoriales comportant sur leur territoire un ouvrage mentionné à l'article R.
+118-1-1, dont deux désignés par l'association des maires de France, un par l'association des départements de France et un par
+l'association des régions de France ;
+
+c) Douze personnalités qualifiées dont dix nommées conjointement par le ministre chargé de l'équipement et par le ministre
+chargé de la sécurité civile en raison de leur compétence technique en matière de tunnels routiers ou de sécurité et deux
+nommées par le ministre chargé des transports en qualité de représentants respectivement des transporteurs routiers et des
+associations oeuvrant pour la sécurité routière.
+
+Dans les catégories mentionnées aux a et b, des suppléants sont nommés ou désignés selon les mêmes modalités que les membres
+titulaires.
+
+Le mandat des membres de la commission appartenant aux catégories mentionnées aux b et c est d'une durée de trois ans
+renouvelable. En cas de démission ou d'incapacité d'un des membres de la commission, un remplaçant est nommé ou désigné dans
+les formes prévues ci-dessus et exerce son mandat pour le temps restant à courir jusqu'au prochain renouvellement de la
+commission.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°89-631 1989-09-04
+
+_Modifié par_:
+
+  - Décret n°2006-1354 du 8 novembre 2006 - art. 1 () JORF 9 novembre 2006
+
+_Abrogé par_:
+
+  - Décret n°2016-38 du 22 janvier 2016 - art. 1
+
+_Cite_:
+
+  - Code de la voirie routière - art. R118-1-1
+
+
+###### Article R118-2-3
+
+La Commission nationale d'évaluation de la sécurité des ouvrages routiers ne peut valablement émettre d'avis que si au moins
+la moitié de ses membres sont présents. Toutefois, en matière d'agrément d'expert ou d'organisme qualifié, la commission peut
+valablement délibérer en formation restreinte composée du président de la commission, de trois représentants de l'Etat, d'un
+représentant des collectivités territoriales et de trois personnalités qualifiées. Les membres de la formation restreinte
+sont désignés par leur collège respectif.
+
+Le secrétariat de la commission est assuré par le ministère chargé de l'équipement.
+
+La commission peut faire appel à des concours extérieurs pour des travaux ou avis complémentaires.
+
+Les frais de déplacement et de séjour supportés par les membres de la commission à l'occasion des réunions leur sont
+remboursés dans les conditions prévues par la réglementation applicables aux fonctionnaires de l'Etat. Les personnalités
+qualifiées et les autres personnes apportant leur concours aux travaux de la commission sont rémunérées dans les conditions
+fixées par arrêté conjoint des ministres chargés de l'équipement et du budget.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°89-631 1989-09-04
+
+_Modifié par_:
+
+  - Décret n°2006-1354 du 8 novembre 2006 - art. 1 () JORF 9 novembre 2006
+
+_Abrogé par_:
+
+  - Décret n°2016-38 du 22 janvier 2016 - art. 1
+
+
 ###### Article R118-2-4
 
 L'agrément des experts et organismes qualifiés chargés d'établir les rapports de sécurité prévus aux articles L. 118-1 et L.
@@ -5227,14 +5240,9 @@ _Cite_:
 
 #### Section 3 : Procédures et règles relatives à la sécurité des ouvrages routiers dont l'exploitation présente des risques particuliers pour la sécurité des personnes<a id=73></a>
 
-###### Article R*118-3-1
+###### Article R118-3-1
 
-I. - Le dossier préliminaire établi par le maître d'ouvrage en application du premier alinéa de l'article L. 118-1 présente,
-compte tenu de la nature de l'itinéraire, de la configuration de l'ouvrage, de ses abords, des caractéristiques du trafic et
-des possibilités d'intervention des moyens de secours extérieurs, les mesures de prévention et les moyens de sauvegarde
-destinés à assurer la sécurité des personnes au cours de l'exploitation.
-
-A cette fin, le dossier préliminaire comprend :
+I. - Le dossier préliminaire visé à l'article L. 118-1 comprend :
 
 1° La description, assortie de plans, de l'ouvrage projeté dans ses diverses composantes, y compris ses accès ;
 
@@ -5280,10 +5288,6 @@ _Codifié par_:
 
   - Décret n°89-631 1989-09-04
 
-_Créé par_:
-
-  - Décret n°2005-701 du 24 juin 2005 - art. 1 () JORF 25 juin 2005
-
 _Cité par_:
 
   - Décret n°2005-701 du 24 juin 2005 - art. 2 (V)
@@ -5291,52 +5295,49 @@ _Cité par_:
   - Code de la voirie routière - art. R118-4-3 (V)
   - Code de la voirie routière - art. R118-4-6 (V)
 
+_Modifié par_:
+
+  - Décret n°2006-1354 du 8 novembre 2006 - art. 1 () JORF 9 novembre 2006
+
 _Cite_:
 
   - Code de la voirie routière - art. L118-1 (V)
 
 
-###### Article R*118-3-2
+###### Article R118-3-2
 
 La mise en service d'un ouvrage nouveau mentionné à l'article R. 118-1-1 ou de la partie d'un ouvrage existant qui fait
 l'objet d'une modification substantielle est subordonnée à la délivrance d'une autorisation par le préfet du département dans
-lequel est implanté l'ouvrage. L'autorisation de mise en service est délivrée au vu d'un dossier de sécurité adressé par le
-maître d'ouvrage en quatre exemplaires et comportant :
+lequel est implanté l'ouvrage. L'autorisation de mise en service est délivrée au vu d'un dossier de sécurité accompagné du
+rapport de sécurité actualisé de l'expert ou de l'organisme qualifié agréé, adressés par le maître d'ouvrage en quatre
+exemplaires et comportant :
 
 a) L'actualisation des descriptions, analyses et études figurant dans le dossier préliminaire, notamment pour tenir compte
 des modifications résultant des travaux réalisés ;
 
-b) Les prescriptions techniques d'exploitation de l'ouvrage ;
+b) Le règlement de circulation dans l'ouvrage ;
 
-c) Un plan d'intervention et de sécurité établi en liaison avec les services publics de secours ;
+c) Un plan d'intervention et de sécurité établi en liaison avec les services d'intervention ;
 
 d) La description du dispositif permanent permettant d'enregistrer et d'analyser les incidents et les accidents
 significatifs ;
 
-e) Le dossier d'intervention ultérieure sur l'ouvrage établi pour l'application de l'article R. 238-38 du code du travail ;
-
-f) Pour les ouvrages définis à l'article R. 118-1-2, la description des moyens de lutte contre l'incendie et de secours mis
-en place à proximité de l'ouvrage et les modalités et les délais de leur intervention sur place ;
-
-g) Les compléments apportés, le cas échéant, au rapport de sécurité par l'expert ou l'organisme qualifié agréé pour tenir
-compte des modifications apportées par rapport au dossier préliminaire.
+e) Pour les ouvrages définis à l'article R. 118-1-2, la description des moyens de lutte contre l'incendie et de secours mis
+en place à proximité de l'ouvrage et les modalités et les délais de leur intervention sur place.
 
 Le préfet dispose de trois mois à compter de la réception du dossier pour délivrer, après avis de la commission consultative
 départementale de sécurité et d'accessibilité, l'autorisation de mise en service. Le délai d'instruction est porté à quatre
 mois si le préfet sollicite l'avis de la Commission nationale d'évaluation de la sécurité des ouvrages routiers.
 
 L'autorisation peut être assortie de conditions restrictives d'utilisation de l'ouvrage ou de prescriptions particulières
-relatives à l'exploitation. Elle est délivrée pour une durée de six ans.
+relatives à l'exploitation. Elle est délivrée pour une durée de six ans. Une copie de l'autorisation de mise en service est
+adressée aux services d'intervention.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°89-631 1989-09-04
-
-_Créé par_:
-
-  - Décret n°2005-701 du 24 juin 2005 - art. 1 () JORF 25 juin 2005
 
 _Cité par_:
 
@@ -5347,43 +5348,42 @@ _Cité par_:
   - Code de la voirie routière - art. R118-3-9 (V)
   - Code de la voirie routière - art. R118-4-3 (V)
 
+_Modifié par_:
+
+  - Décret n°2006-1354 du 8 novembre 2006 - art. 1 () JORF 9 novembre 2006
+
 _Cite_:
 
   - Code de la voirie routière - art. R*118-1-2 (M)
   - Code de la voirie routière - art. R118-1-1 (M)
-  - Code du travail - art. R238-38 (V)
 
 
-###### Article R*118-3-3
+###### Article R118-3-3
 
 Au plus tard cinq mois avant l'expiration de la période de validité de l'autorisation, le maître d'ouvrage adresse en quatre
 exemplaires au préfet un dossier comportant :
 
-a) Le dossier de sécurité actualisé ;
+a)Le dossier de sécurité décrit à l'article R. 118-3-2 actualisé et complété par un relevé des incidents et accidents
+significatifs survenus au cours de la période écoulée, assorti de leur analyse, et la liste des exercices de sécurité
+effectués conformément à l'article R. 118-3-8 avec les enseignements qui en ont été tirés ;
 
 b) Un rapport de sécurité établi par l'expert ou l'organisme qualifié agréé, indépendant du maître d'ouvrage et du
 gestionnaire, dans lequel il donne son appréciation sur les conditions d'exploitation et l'état de l'ouvrage et de ses
-équipements ;
+équipements ainsi que sur la pertinence des mesures de sécurité.
 
-c) Un relevé des incidents et accidents significatifs survenus au cours de la période écoulée, assorti de leur analyse ;
+Le préfet dispose de trois mois à compter de la réception du dossier pour renouveler, après avis de la commission
+consultative départementale de sécurité et d'accessibilité, l'autorisation de mise en service. Le délai d'instruction est
+porté à quatre mois si le préfet sollicite l'avis de la Commission nationale d'évaluation de la sécurité des ouvrages
+routiers. L'autorisation est renouvelée pour une durée de six ans à compter de la fin de la période précédente. Elle peut
+être assortie de conditions restrictives d'utilisation de l'ouvrage ou de prescriptions particulières d'exploitation.
 
-d) La liste des exercices de sécurité effectués annuellement et les enseignements qui en ont été tirés.
-
-Dans le délai de trois mois suivant le dépôt du dossier, le préfet se prononce sur la demande de renouvellement. Le délai est
-majoré d'un mois si le préfet consulte la commission consultative départementale de sécurité et d'accessibilité et de deux
-mois s'il consulte la Commission nationale d'évaluation des ouvrages routiers. L'autorisation est renouvelée pour une durée
-de six ans à compter de la fin de la période précédente. Elle peut être assortie de conditions restrictives d'utilisation de
-l'ouvrage ou de prescriptions particulières d'exploitation.
+Une copie de la décision de renouvellement de l'autorisation de mise en service est adressée aux services d'intervention.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°89-631 1989-09-04
-
-_Créé par_:
-
-  - Décret n°2005-701 du 24 juin 2005 - art. 1 () JORF 25 juin 2005
 
 _Cité par_:
 
@@ -5393,39 +5393,22 @@ _Cité par_:
   - Code de la voirie routière - art. R118-3-9 (V)
   - Code de la voirie routière - art. R118-4-3 (V)
 
+_Modifié par_:
 
-###### Article R*118-3-4
-
-En cas de modification importante des conditions d'exploitation, d'évolution significative des risques ou après un incident
-ou accident grave, le maître d'ouvrage est tenu de déposer une nouvelle demande d'autorisation de mise en service dans les
-conditions prévues à l'article R. 118-3-2. Jusqu'à ce qu'il soit statué sur cette demande, l'autorisation en cours de
-validité reste en vigueur, sauf décision de suspension prononcée par le préfet.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°89-631 1989-09-04
-
-_Créé par_:
-
-  - Décret n°2005-701 du 24 juin 2005 - art. 1 () JORF 25 juin 2005
+  - Décret n°2006-1354 du 8 novembre 2006 - art. 1 () JORF 9 novembre 2006
 
 _Cite_:
 
   - Code de la voirie routière - art. R*118-3-2 (M)
+  - Code de la voirie routière - art. R118-3-8 (V)
 
 
-###### Article R*118-3-5
+###### Article R118-3-4
 
-Lorsque le préfet prescrit, en application de l'article L. 118-2, l'établissement d'un diagnostic de sécurité d'un ouvrage en
-service, le maître d'ouvrage lui communique, dans le délai qui lui est imparti, le diagnostic demandé, accompagné des
-documents prévus aux a, b, c et d de l'article R. 118-3-3.
-
-Selon les modalités définies au dernier alinéa du même article R. 118-3-3, le préfet peut, après avoir recueilli les
-observations du gestionnaire et du maître de l'ouvrage, prononcer le retrait de l'autorisation ou assortir l'autorisation en
-cours de validité de nouvelles conditions restrictives d'utilisation de l'ouvrage ou de nouvelles prescriptions particulières
-d'exploitation.
+En cas de modification importante des conditions d'exploitation, d'évolution significative des risques ou après un incident
+ou accident grave, le maître d'ouvrage est tenu de déposer une demande de renouvellement de l'autorisation de mise en service
+dans les conditions prévues à l'article R. 118-3-3. Jusqu'à ce qu'il soit statué sur cette demande, l'autorisation en cours
+de validité reste en vigueur, sauf décision de suspension prononcée par le préfet.
 
 **Liens relatifs à cet article**
 
@@ -5433,9 +5416,35 @@ _Codifié par_:
 
   - Décret n°89-631 1989-09-04
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2005-701 du 24 juin 2005 - art. 1 () JORF 25 juin 2005
+  - Décret n°2006-1354 du 8 novembre 2006 - art. 1 () JORF 9 novembre 2006
+
+_Cite_:
+
+  - Code de la voirie routière - art. R*118-3-3 (M)
+
+
+###### Article R118-3-5
+
+Lorsque le préfet prescrit, en application de l'article L. 118-2, l'établissement d'un diagnostic de sécurité d'un ouvrage en
+service, le maître d'ouvrage lui communique, dans le délai qui lui est imparti, les documents prévus aux a et b de l'article
+R. 118-3-3. L'expert ou organisme qualifié agréé complète le rapport de sécurité prévu au b par le diagnostic demandé.
+
+Le préfet renouvelle l'autorisation de mise en service selon les modalités définies au dernier alinéa du même article R.
+118-3-3. Il peut également, après avoir recueilli les observations du gestionnaire et du maître de l'ouvrage, assortir le
+renouvellement de l'autorisation de nouvelles conditions restrictives d'utilisation de l'ouvrage ou de nouvelles
+prescriptions particulières d'exploitation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°89-631 1989-09-04
+
+_Modifié par_:
+
+  - Décret n°2006-1354 du 8 novembre 2006 - art. 1 () JORF 9 novembre 2006
 
 _Cite_:
 
@@ -5443,11 +5452,11 @@ _Cite_:
   - Code de la voirie routière - art. R*118-3-3 (M)
 
 
-###### Article R*118-3-6
+###### Article R118-3-6
 
 Un arrêté conjoint du ministre chargé de l'équipement et des transports et du ministre chargé de la sécurité civile désigne,
 pour chacun des ouvrages mentionnés à l'article R. 118-1-1 qui s'étendent sur plusieurs départements, le préfet compétent
-pour émettre l'avis sur les dossiers préliminaires et prendre les décisions relatives aux autorisations de mise en service.
+pour intervenir comme autorité administrative chargée de la sécurité.
 
 **Liens relatifs à cet article**
 
@@ -5455,9 +5464,9 @@ _Codifié par_:
 
   - Décret n°89-631 1989-09-04
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2005-701 du 24 juin 2005 - art. 1 () JORF 25 juin 2005
+  - Décret n°2006-1354 du 8 novembre 2006 - art. 1 () JORF 9 novembre 2006
 
 _Cite_:
 
@@ -5480,9 +5489,331 @@ _Créé par_:
   - Décret n°2005-701 du 24 juin 2005 - art. 1 () JORF 25 juin 2005
 
 
-### Chapitre IX : Equipements routiers.<a id=74></a>
+###### Article R118-3-8
 
-#### Section 1 : Champ d'application<a id=75></a>
+Le maître de l'ouvrage mentionné à l'article R. 118-1-1 et les services d'intervention organisent des exercices conjoints
+pour le personnel du tunnel et les services d'intervention. Ces exercices sont réalisés chaque année. Toutefois, lorsque
+plusieurs ouvrages ont le même gestionnaire, relèvent des mêmes services d'intervention et sont situés à proximité immédiate
+les uns des autres, l'exercice peut n'être réalisé que dans l'un d'entre eux.
+
+Ces exercices sont basés sur des scénarios d'incident définis au regard des risques encourus dans le tunnel. Ils permettent
+notamment de mesurer les temps nécessaires aux services d'intervention pour arriver sur les lieux et donnent lieu à une
+évaluation conjointe.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°89-631 1989-09-04
+
+_Créé par_:
+
+  - Décret n°2006-1354 du 8 novembre 2006 - art. 1 () JORF 9 novembre 2006
+
+_Cité par_:
+
+  - Arrêté du 18 avril 2007 - art. 4 (V)
+  - Code de la voirie routière - art. R118-3-3 (V)
+  - Code de la voirie routière - art. R118-4-3 (V)
+
+_Cite_:
+
+  - Code de la voirie routière - art. R118-1-1 (M)
+
+
+###### Article R118-3-9
+
+Un arrêté conjoint des ministres chargés de l'équipement et de la sécurité civile précise le contenu des pièces composant le
+dossier préliminaire mentionné à l'article R. 118-3-1 et celui des pièces composant le dossier de sécurité mentionné aux
+articles R. 118-3-2 et R. 118-3-3, ainsi que les modalités de tenue à jour et d'actualisation de ce dernier dossier.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°89-631 1989-09-04
+
+_Créé par_:
+
+  - Décret n°2006-1354 du 8 novembre 2006 - art. 1 () JORF 9 novembre 2006
+
+_Cite_:
+
+  - Code de la voirie routière - art. R*118-3-1 (M)
+  - Code de la voirie routière - art. R*118-3-2 (M)
+  - Code de la voirie routière - art. R*118-3-3 (M)
+
+
+#### Section 4 : Procédures et règles complémentaires relatives aux tunnels de plus de 500 mètres du réseau routier transeuropéen<a id=74></a>
+
+###### Article R118-4-1
+
+Les dispositions de la présente section s'appliquent aux tunnels de plus de 500 mètres du réseau routier transeuropéen ci-
+dessous énumérés :
+
+Tunnel de la Chamoise ; sur l'autoroute A 40, département de l'Ain ;
+
+Tunnel de Saint-Germain-de-Joux ; sur l'autoroute A 40, département de l'Ain ;
+
+Tunnel de Châtillon ; sur l'autoroute A 40, département de l'Ain ;
+
+Tunnel de La Baume ; sur l'autoroute A 51, département des Alpes-de-Haute-Provence ;
+
+Tunnel de Las Planas ; sur l'autoroute A 8, département des Alpes-Maritimes ;
+
+Tunnel du col de l'Arme ; sur l'autoroute A 8, département des Alpes-Maritimes ;
+
+Tunnel de La Coupière ; sur l'autoroute A 8, département des Alpes-Maritimes ;
+
+Tunnel de Canta Galet ; sur l'autoroute A 8, département des Alpes-Maritimes ;
+
+Tunnel de Pessicart ; sur l'autoroute A 8, département des Alpes-Maritimes ;
+
+Tunnel de Castellar ; sur l'autoroute A 8, département des Alpes-Maritimes ;
+
+Tunnel de Foix ; sur la RN 20, dans le département de l'Ariège ;
+
+Tunnel de Saint-Béat ; sur la RN 125, dans le département de la Haute-Garonne ;
+
+Tunnel du Pas de l'Escalette ; sur l'autoroute A 75, département de l'Hérault ;
+
+Tunnel de Petit Brion ; sur l'autoroute A 51, département de l'Isère ;
+
+Tunnel du Sinard ; sur l'autoroute A 51, département de l'Isère ;
+
+Tranchée couverte de Firminy ; sur la RN 88, département de la Loire ;
+
+Tunnel de Montjézieu ; sur l'autoroute A 75, département de la Lozère ;
+
+Tranchée couverte d'Angers ; sur l'autoroute A 11, département de Maine-et-Loire ;
+
+Tunnel de Hardelot ; sur l'autoroute A 16, département du Pas-de-Calais ;
+
+Tunnel de Puymorens ; sur la RN 20, département des Pyrénées-Orientales ;
+
+Tunnel de Fourvière ; communauté urbaine de Lyon, département du Rhône ;
+
+Tunnel de l'Epine ; sur l'autoroute A 43, département de la Savoie ;
+
+Tunnel de Dullin ; sur l'autoroute A 43, département de la Savoie ;
+
+Tunnel d'Orelle ; sur l'autoroute A 43, département de la Savoie ;
+
+Tunnel de Hurtières ; sur l'autoroute A 43, département de la Savoie ;
+
+Tunnel de l'Aiguebelle ; sur l'autoroute A 43, département de la Savoie ;
+
+Tunnel des Monts ; sur la RN 201, département de la Savoie ;
+
+Tunnel de Vuache ; sur l'autoroute A 40, département de la Haute-Savoie ;
+
+Tunnel du mont Sion ; sur l'autoroute A 41, département de la Haute-Savoie ;
+
+Tunnel des Chavants ; sur la RN 205, département de la Haute-Savoie ;
+
+Tunnel de la Grand-Mare ; sur la RN 28, département de la Seine-Maritime ;
+
+Tunnel de la traversée de Toulon ; sur l'autoroute A 50, département du Var.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°89-631 1989-09-04
+
+_Cité par_:
+
+  - Décret n°2005-701 du 24 juin 2005 - art. 2 (V)
+  - Arrêté du 8 novembre 2006 - art. 1 (V)
+  - Arrêté du 8 novembre 2006 - art. 4 (V)
+  - Arrêté du 18 avril 2007 - art. 3 (V)
+
+_Créé par_:
+
+  - Décret n°2006-1354 du 8 novembre 2006 - art. 2 () JORF 9 novembre 2006
+
+
+###### Article R118-4-2
+
+Le maître de l'ouvrage transmet au préfet le nom de l'agent de sécurité prévu à l'article L. 118-5 qu'il entend désigner et
+indique les mesures qui sont prises pour garantir l'indépendance fonctionnelle de cet agent.
+
+Dans un délai de deux mois à compter de cette transmission, le préfet donne son accord sur la désignation de l'agent. A
+défaut de réponse dans ce délai, il est réputé avoir accepté cette désignation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°89-631 1989-09-04
+
+_Créé par_:
+
+  - Décret n°2006-1354 du 8 novembre 2006 - art. 2 () JORF 9 novembre 2006
+
+_Cite_:
+
+  - Code de la voirie routière - art. L118-5 (V)
+
+
+###### Article R118-4-3
+
+L'agent de sécurité :
+
+a) Emet un avis sur les mesures de prévention et les moyens de sauvegarde envisagés par le dossier préliminaire prévu à
+l'article R. 118-3-1 ;
+
+b) Emet un avis sur le dossier de sécurité prévu aux articles R. 118-3-2 et R. 118-3-3. Son avis est joint à ce dossier lors
+de sa transmission au préfet ;
+
+c) Emet un avis, que le maître de l'ouvrage transmet au préfet et aux services d'intervention, sur toute modification de
+l'ouvrage ne présentant pas un caractère substantiel et sur toute modification des conditions d'exploitation ne les affectant
+pas de façon importante ;
+
+d) Assure la coordination avec les services d'intervention, notamment lors de l'élaboration des schémas opérationnels de ces
+services ;
+
+e) Participe à l'organisation et à l'évaluation des interventions d'urgence ;
+
+f) Participe à la définition des principes de sécurité ainsi qu'à la définition des caractéristiques de la structure, des
+équipements et de l'exploitation, tant en ce qui concerne les nouveaux tunnels que la transformation des tunnels existants ;
+
+g) Vérifie que des programmes de formation sont établis et mis en oeuvre pour le personnel d'exploitation et les services
+d'intervention ;
+
+h) Participe à l'organisation et à l'évaluation des exercices prévus à l'article R. 118-3-8 ;
+
+i) Vérifie que des procédures d'entretien et de réparation de la structure et des équipements des ouvrages sont établies et
+mises en oeuvre ;
+
+j) Participe à l'évaluation de tout incident ou accident significatif.
+
+Le maître de l'ouvrage communique à l'agent de sécurité tous les documents et informations utiles à l'accomplissement de sa
+mission.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°89-631 1989-09-04
+
+_Créé par_:
+
+  - Décret n°2006-1354 du 8 novembre 2006 - art. 2 () JORF 9 novembre 2006
+
+_Cite_:
+
+  - Code de la voirie routière - art. R*118-3-1 (M)
+  - Code de la voirie routière - art. R*118-3-2 (M)
+  - Code de la voirie routière - art. R*118-3-3 (M)
+  - Code de la voirie routière - art. R118-3-8 (V)
+
+
+###### Article R118-4-4
+
+Le maître de l'ouvrage est tenu de dresser un compte rendu de tout incident ou accident significatif au regard de la sécurité
+et de le transmettre au préfet, à l'agent de sécurité et aux services d'intervention dans un délai maximal d'un mois. Il
+transmet dans les mêmes conditions tout éventuel rapport d'analyse, dans le mois de son élaboration.
+
+Un arrêté conjoint des ministres chargés de l'équipement et de la sécurité civile établit la liste des incidents et accidents
+considérés comme significatifs au regard de la sécurité et les éléments que doit contenir le compte rendu ainsi que les
+modalités de transmission de ce compte rendu et des rapports éventuels.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°89-631 1989-09-04
+
+_Créé par_:
+
+  - Décret n°2006-1354 du 8 novembre 2006 - art. 2 () JORF 9 novembre 2006
+
+
+###### Article R118-4-5
+
+Sans préjudice d'autres dispositions, les ouvrages visés dans la présente section doivent satisfaire aux exigences de
+sécurité minimales énumérées par un arrêté conjoint du ministre chargé de l'équipement et du ministre chargé de la sécurité
+civile. Le même arrêté fixe les conditions dans lesquelles il peut être dérogé à ces exigences en cas de recours soit à des
+solutions de substitution en raison d'impossibilités techniques, soit à des procédés de sécurité innovants.
+
+**Nota:**
+
+L'article R. 118-4-5 du code de la voirie routière s'applique aux ouvrages ouverts à la circulation à compter du 30 avril
+2006. Pour les ouvrages ouverts à la circulation avant cette date, le maître d'ouvrage adresse au préfet, dans un délai de
+trois mois à compter de la publication du présent décret, une évaluation de la conformité de l'ouvrage aux dispositions de
+l'article R. 118-4-5, l'avis d'un expert ou organisme qualifié agréé ainsi que, le cas échéant, ses prévisions pour la mise
+en conformité de l'ouvrage avant le 30 avril 2014.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°89-631 1989-09-04
+
+_Créé par_:
+
+  - Décret n°2006-1354 du 8 novembre 2006 - art. 2 () JORF 9 novembre 2006
+
+_Cité par_:
+
+  - Décret n°2006-1354 du 8 novembre 2006 - art. 3 (V)
+  - Code de la voirie routière - art. R118-4-6 (V)
+
+
+###### Article R118-4-6
+
+Si une dérogation aux exigences de sécurité minimales prévues à l'article R. 118-4-5 rend nécessaire une consultation de la
+Commission européenne avant l'engagement de travaux de construction ou de modification substantielle, le préfet notifie au
+maître d'ouvrage que le délai de réponse prévu à l'article R. 118-3-1 est suspendu. Il transmet le dossier au ministre chargé
+de l'équipement et y joint l'avis de la Commission nationale d'évaluation de la sécurité des ouvrages routiers. Dans le délai
+de deux mois après qu'il a reçu du ministre la décision de la Commission européenne, le préfet notifie son avis au maître
+d'ouvrage.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°89-631 1989-09-04
+
+_Créé par_:
+
+  - Décret n°2006-1354 du 8 novembre 2006 - art. 2 () JORF 9 novembre 2006
+
+_Cité par_:
+
+  - Arrêté du 8 novembre 2006 - art. 4 (V)
+
+_Cite_:
+
+  - Code de la voirie routière - art. R*118-3-1 (M)
+  - Code de la voirie routière - art. R118-4-5 (V)
+
+
+###### Article R118-4-7
+
+Les analyses des risques contenues dans le dossier préliminaire et le dossier de sécurité décrits aux articles R. 118-3-1 à
+R. 118-3-3 sont réalisées par un organisme jouissant d'une indépendance fonctionnelle vis-à-vis du maître d'ouvrage, du
+gestionnaire et du maître d'oeuvre éventuel.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°89-631 1989-09-04
+
+_Créé par_:
+
+  - Décret n°2006-1354 du 8 novembre 2006 - art. 2 () JORF 9 novembre 2006
+
+_Cite_:
+
+  - Code de la voirie routière R118-3-1 à R118-3-3
+
+
+### Chapitre IX : Equipements routiers.<a id=75></a>
+
+#### Section 1 : Champ d'application<a id=76></a>
 
 ###### Article R*119-1
 
@@ -5533,9 +5864,9 @@ _Modifié par_:
   - Décret n°2004-472 du 1 juin 2004 - art. 2 () JORF 2 juin 2004
 
 
-#### Section 2 : Evaluation et attestation de conformité<a id=76></a>
+#### Section 2 : Evaluation et attestation de conformité<a id=77></a>
 
-##### Sous-section 1 : Equipements soumis au marquage CE<a id=77></a>
+##### Sous-section 1 : Equipements soumis au marquage CE<a id=78></a>
 
 ###### Article R*119-2
 
@@ -5602,7 +5933,7 @@ _Cité par_:
   - Arrêté du 29 juin 2012 - art. 1 (V)
 
 
-##### Sous-section 2 : Equipements non soumis au marquage CE<a id=78></a>
+##### Sous-section 2 : Equipements non soumis au marquage CE<a id=79></a>
 
 ###### Article R**119-5
 
@@ -5735,7 +6066,7 @@ _Modifié par_:
   - TXT_SOURCE: Directive 98-34 CE 1998-06-22
 
 
-#### Section 3 : Règles de mise en service<a id=79></a>
+#### Section 3 : Règles de mise en service<a id=80></a>
 
 ###### Article R*119-6
 
@@ -5895,7 +6226,7 @@ _Cite_:
   - TXT_SOURCE: Directive 98-34 CE 1998-06-22
 
 
-#### Section 4 : Dispositions diverses<a id=80></a>
+#### Section 4 : Dispositions diverses<a id=81></a>
 
 ###### Article R119-11
 
@@ -5924,9 +6255,9 @@ _Cite_:
   - Code de la voirie routière R**119-5, R*119-10
 
 
-## TITRE II : Voirie nationale.<a id=81></a>
+## TITRE II : Voirie nationale.<a id=82></a>
 
-### Chapitre Ier : Dispositions communes aux autoroutes et aux routes nationales.<a id=82></a>
+### Chapitre Ier : Dispositions communes aux autoroutes et aux routes nationales.<a id=83></a>
 
 ###### Article R*121-1
 
@@ -5953,9 +6284,9 @@ _Anciens textes_:
   - Code du domaine de l'Etat r53 renvoi
 
 
-### Chapitre II : Autoroutes.<a id=83></a>
+### Chapitre II : Autoroutes.<a id=84></a>
 
-#### Section 1 : Dispositions générales.<a id=84></a>
+#### Section 1 : Dispositions générales.<a id=85></a>
 
 ###### Article R*122-1
 
@@ -6135,9 +6466,9 @@ _Créé par_:
   - Décret n°96-1058 du 2 décembre 1996 - art. 8 ()
 
 
-#### Section 2 : Dispositions financières.<a id=85></a>
+#### Section 2 : Dispositions financières.<a id=86></a>
 
-##### Sous-section 1 : Caisse nationale des autoroutes.<a id=86></a>
+##### Sous-section 1 : Caisse nationale des autoroutes.<a id=87></a>
 
 ###### Article R*122-6
 
@@ -6392,7 +6723,7 @@ _Créé par_:
   - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
 
 
-##### Sous-section 2 : Autoroutes de France.<a id=87></a>
+##### Sous-section 2 : Autoroutes de France.<a id=88></a>
 
 ###### Article R*122-16
 
@@ -6733,7 +7064,7 @@ _Cite_:
   - Code de la voirie routière - art. R*122-21 (M)
 
 
-#### Section 3 : Redevance domaniale.<a id=88></a>
+#### Section 3 : Redevance domaniale.<a id=89></a>
 
 ###### Article R122-27
 
@@ -6786,9 +7117,9 @@ _Nouveaux textes_:
   - Code de la voirie routière - art. R122-48 (V)
 
 
-### Chapitre III : Routes nationales.<a id=89></a>
+### Chapitre III : Routes nationales.<a id=90></a>
 
-#### Section 1 : Classement et déclassement.<a id=90></a>
+#### Section 1 : Classement et déclassement.<a id=91></a>
 
 ###### Article R*123-1
 
@@ -6838,7 +7169,7 @@ _Cite_:
   - Code de la voirie routière - art. L123-3 (V)
 
 
-#### Section 2 : Alignement.<a id=91></a>
+#### Section 2 : Alignement.<a id=92></a>
 
 ###### Article R*123-3
 
@@ -6905,7 +7236,7 @@ _Cite_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R12-1 (V)
 
 
-#### Section 3 : Disposition relative à la création de voies accédant aux routes nationales.<a id=92></a>
+#### Section 3 : Disposition relative à la création de voies accédant aux routes nationales.<a id=93></a>
 
 ###### Article R*123-5
 
@@ -6930,11 +7261,11 @@ _Anciens textes_:
   - Décret-loi 1938-05-24 art. 4 (partie)
 
 
-## TITRE III : Voirie départementale.<a id=93></a>
+## TITRE III : Voirie départementale.<a id=94></a>
 
-### Chapitre unique.<a id=94></a>
+### Chapitre unique.<a id=95></a>
 
-#### Section 1 : Caractéristiques techniques du domaine public routier départemental.<a id=95></a>
+#### Section 1 : Caractéristiques techniques du domaine public routier départemental.<a id=96></a>
 
 ###### Article R*131-1
 
@@ -6982,7 +7313,7 @@ _Modifié par_:
   - Décret n°93-1133 du 22 septembre 1993 - art. 1 () JORF 30 septembre 1993
 
 
-#### Section 2 : Enquête publique relative au classement, au déclassement, à l'établissement des plans d'alignement et de nivellement, à l'ouverture, au redressement et à l'élargissement des routes départementales.<a id=96></a>
+#### Section 2 : Enquête publique relative au classement, au déclassement, à l'établissement des plans d'alignement et de nivellement, à l'ouverture, au redressement et à l'élargissement des routes départementales.<a id=97></a>
 
 ###### Article R*131-3
 
@@ -7137,7 +7468,7 @@ _Créé par_:
   - Décret n°93-1133 du 22 septembre 1993 - art. 2 () JORF 30 septembre 1993
 
 
-#### Section 3 : Dispositions relatives à la coordination des travaux exécutés sur les routes départementales.<a id=97></a>
+#### Section 3 : Dispositions relatives à la coordination des travaux exécutés sur les routes départementales.<a id=98></a>
 
 ###### Article R*131-9
 
@@ -7238,13 +7569,13 @@ _Anciens textes_:
   - Code de la voirie routière R131-5
 
 
-## TITRE IV : Voirie communale.<a id=98></a>
+## TITRE IV : Voirie communale.<a id=99></a>
 
-### Chapitre unique<a id=99></a>
+### Chapitre unique<a id=100></a>
 
-#### Section 1 : Emprise du domaine public routier communal.<a id=100></a>
+#### Section 1 : Emprise du domaine public routier communal.<a id=101></a>
 
-##### Sous-section 1 : Alignement et caractéristiques techniques.<a id=101></a>
+##### Sous-section 1 : Alignement et caractéristiques techniques.<a id=102></a>
 
 ###### Article R*141-1
 
@@ -7316,7 +7647,7 @@ _Créé par_:
   - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
 
 
-##### Sous-section 2 : Enquête publique relative au classement, à l'ouverture, au redressement, à la fixation de la largeur et au déclassement des voies communales.<a id=102></a>
+##### Sous-section 2 : Enquête publique relative au classement, à l'ouverture, au redressement, à la fixation de la largeur et au déclassement des voies communales.<a id=103></a>
 
 ###### Article R*141-4
 
@@ -7514,7 +7845,7 @@ _Créé par_:
   - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
 
 
-##### Sous-section 3 : Publicité foncière.<a id=103></a>
+##### Sous-section 3 : Publicité foncière.<a id=104></a>
 
 ###### Article R*141-11
 
@@ -7536,7 +7867,7 @@ _Cité par_:
   - Code de la voirie routière - art. R172-1 (V)
 
 
-#### Section 3 : Coordination des travaux exécutés sur les voies communales situées à l'extérieur des agglomérations.<a id=104></a>
+#### Section 3 : Coordination des travaux exécutés sur les voies communales situées à l'extérieur des agglomérations.<a id=105></a>
 
 ###### Article R*141-12
 
@@ -7567,7 +7898,7 @@ _Cite_:
   - Code de la voirie routière - art. R*115-4 (V)
 
 
-#### Section 4 : Dispositions relatives aux travaux affectant le sol et le sous-sol des voies communales.<a id=105></a>
+#### Section 4 : Dispositions relatives aux travaux affectant le sol et le sous-sol des voies communales.<a id=106></a>
 
 ###### Article R*141-13
 
@@ -7828,7 +8159,7 @@ _Cité par_:
   - Code de la voirie routière - art. R*141-18 (V)
 
 
-#### Section 5 : Dispositions applicables dans le cas où il existe un établissement public de coopération intercommunale.<a id=106></a>
+#### Section 5 : Dispositions applicables dans le cas où il existe un établissement public de coopération intercommunale.<a id=107></a>
 
 ###### Article R*141-22
 
@@ -7846,9 +8177,9 @@ _Créé par_:
   - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
 
 
-## TITRE V : Voies à statuts particuliers.<a id=107></a>
+## TITRE V : Voies à statuts particuliers.<a id=108></a>
 
-### Chapitre Ier : Routes express.<a id=108></a>
+### Chapitre Ier : Routes express.<a id=109></a>
 
 ###### Article R*151-1
 
@@ -8062,7 +8393,7 @@ _Créé par_:
   - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
 
 
-### Chapitre II : Déviations.<a id=109></a>
+### Chapitre II : Déviations.<a id=110></a>
 
 ###### Article R*152-2
 
@@ -8130,9 +8461,9 @@ _Cite_:
   - Code de la route. - art. L110-3 (M)
 
 
-### Chapitre III : Ouvrages d'art.<a id=110></a>
+### Chapitre III : Ouvrages d'art.<a id=111></a>
 
-#### Section 1 : Dispositions générales.<a id=111></a>
+#### Section 1 : Dispositions générales.<a id=112></a>
 
 ###### Article R*153-1
 
@@ -8210,7 +8541,7 @@ _Cite_:
   - Code de la voirie routière - art. L153-5 (M)
 
 
-#### Section 2: Dispositions particulières.<a id=112></a>
+#### Section 2: Dispositions particulières.<a id=113></a>
 
 ###### Article R*153-3
 
@@ -8238,9 +8569,9 @@ _Créé par_:
   - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
 
 
-## TITRE VI : Dispositions applicables aux voies n'appartenant pas au domaine public.<a id=113></a>
+## TITRE VI : Dispositions applicables aux voies n'appartenant pas au domaine public.<a id=114></a>
 
-### Chapitre Ier : Chemins ruraux.<a id=114></a>
+### Chapitre Ier : Chemins ruraux.<a id=115></a>
 
 ###### Article R*161-1
 
@@ -8289,9 +8620,9 @@ _Cite_:
   - Code de la voirie routière R*113-1, R*115-1 à R*115-4, R*141-12 à R*141-21
 
 
-### Chapitre II : Voies privées.<a id=115></a>
+### Chapitre II : Voies privées.<a id=116></a>
 
-#### Section 1 : Dispositions générales.<a id=116></a>
+#### Section 1 : Dispositions générales.<a id=117></a>
 
 ###### Article R*162-1
 
@@ -8312,7 +8643,7 @@ _Cite_:
   - Code de la voirie routière - art. R*113-1 (V)
 
 
-#### Section 3 : Autres voies privées.<a id=117></a>
+#### Section 3 : Autres voies privées.<a id=118></a>
 
 ###### Article R*162-2
 
@@ -8339,7 +8670,7 @@ _Cite_:
   - Code de la voirie routière L162-5 Code de l'urbanisme R318-10, R318-11, R318-12
 
 
-### Chapitre III : Dispositions communes.<a id=118></a>
+### Chapitre III : Dispositions communes.<a id=119></a>
 
 ###### Article R*163-1
 
@@ -8366,11 +8697,11 @@ _Cite_:
   - Code de la voirie routière - art. R*111-1 (M)
 
 
-## TITRE VII : Dispositions particulières.<a id=119></a>
+## TITRE VII : Dispositions particulières.<a id=120></a>
 
-### Chapitre Ier : Dispositions applicables à la ville de Paris.<a id=120></a>
+### Chapitre Ier : Dispositions applicables à la ville de Paris.<a id=121></a>
 
-#### Section 1 : Voies publiques.<a id=121></a>
+#### Section 1 : Voies publiques.<a id=122></a>
 
 ###### Article R*171-1
 
@@ -8501,7 +8832,7 @@ _Anciens textes_:
   - Décret-loi 1935-10-30 art. 9 (partie)
 
 
-#### Section 2 : Voies privées.<a id=122></a>
+#### Section 2 : Voies privées.<a id=123></a>
 
 ###### Article R*171-6
 
@@ -8553,7 +8884,7 @@ _Anciens textes_:
   - Loi n°1930-05-15 art. 3 al. 1 (partie)
 
 
-#### Section 3 : Coordination des travaux.<a id=123></a>
+#### Section 3 : Coordination des travaux.<a id=124></a>
 
 ###### Article R*171-8
 
@@ -8579,7 +8910,7 @@ _Cite_:
   - Code de la voirie routière - art. R*115-2 (V)
 
 
-### Chapitre III : Dispositions diverses.<a id=124></a>
+### Chapitre III : Dispositions diverses.<a id=125></a>
 
 ###### Article R*173-1
 
