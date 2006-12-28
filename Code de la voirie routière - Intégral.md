@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2006-11-09
+Version Consolidée au 2006-12-29
 ## Contenu: 
   - [Partie législative (art. L111-1 à L173-3)](#1)
     - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. L111-1 à L119-3)](#2)
@@ -60,7 +60,7 @@ Version Consolidée au 2006-11-09
   - [Partie réglementaire (art. R*111-1 à R*173-2)](#57)
     - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. R*111-1 à R119-11)](#58)
       - [Chapitre Ier : Equipements routiers et enquêtes de circulation. (art. R*111-1 à D111-3)](#59)
-        - [Section 1 : Equipements routiers. (art. R*111-1)](#60)
+        - [Section 1 : Equipements routiers. (art. R*111-1 à R111-2)](#60)
         - [Section 2 : Enquêtes de circulation. (art. D111-2 à D111-3)](#61)
       - [Chapitre II : Emprise. (art. R*112-1 à R*112-3)](#62)
         - [Section 1 : Alignement. (art. R*112-1 à R*112-3)](#63)
@@ -4329,6 +4329,32 @@ _Cité par_:
   - Code de la voirie routière - art. R*119-4 (V)
   - Code de la voirie routière - art. R*119-6 (V)
   - Code de la voirie routière - art. R*163-1 (V)
+
+
+###### Article R111-2
+
+Les systèmes de télépéage mis en service à partir du 1er janvier 2007 utilisent une ou plusieurs des technologies suivantes
+pour l'exécution des transactions de télépéage :
+
+a) La localisation par satellite ;
+
+b) Les communications mobiles selon la norme GSM-GPRS (référence GSM TS 03.60/23.060) ;
+
+c) Les micro-ondes de 5,8 GHz.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°89-631 1989-09-04
+
+_Créé par_:
+
+  - Décret n°2006-1711 du 22 décembre 2006 - art. 1 () JORF 29 décembre 2006
+
+_Cité par_:
+
+  - Arrêté du 11 juillet 2013 - art. 1 (V)
 
 
 #### Section 2 : Enquêtes de circulation.<a id=61></a>
