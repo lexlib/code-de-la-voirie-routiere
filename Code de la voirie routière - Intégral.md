@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2006-12-29
+Version Consolidée au 2007-05-11
 ## Contenu: 
   - [Partie législative (art. L111-1 à L173-3)](#1)
     - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. L111-1 à L119-3)](#2)
@@ -85,7 +85,7 @@ Version Consolidée au 2006-12-29
     - [TITRE II : Voirie nationale. (art. R*121-1 à R*123-5)](#82)
       - [Chapitre Ier : Dispositions communes aux autoroutes et aux routes nationales. (art. R*121-1)](#83)
       - [Chapitre II : Autoroutes. (art. R*122-1 à R122-27)](#84)
-        - [Section 1 : Dispositions générales. (art. R*122-1 à R122-5-1)](#85)
+        - [Section 1 : Dispositions générales. (art. R*122-1 à R122-5-2)](#85)
         - [Section 2 : Dispositions financières. (art. R*122-6 à R*122-26)](#86)
           - [Sous-section 1 : Caisse nationale des autoroutes. (art. R*122-6 à R*122-15)](#87)
           - [Sous-section 2 : Autoroutes de France. (art. R*122-16 à R*122-26)](#88)
@@ -6482,6 +6482,28 @@ _Cite_:
 _Créé par_:
 
   - Décret n°96-1058 du 2 décembre 1996 - art. 8 ()
+
+
+###### Article R122-5-2
+
+Les cahiers des charges des délégations de missions du service public autoroutier prévoient les conditions dans lesquelles
+est déterminé le montant actualisé des excédents financiers reversé au prorata de leurs apports respectifs aux collectivités
+territoriales et aux établissements publics de coopération intercommunale en application du dernier alinéa de l'article L.
+122-4.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°89-631 1989-09-04
+
+_Créé par_:
+
+  - Décret n°2007-777 du 10 mai 2007 - art. 1 () JORF 11 mai 2007
+
+_Cite_:
+
+  - Code de la voirie routière - art. L122-4 (M)
 
 
 #### Section 2 : Dispositions financières.<a id=86></a>
