@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2007-05-11
+Version Consolidée au 2007-12-22
 ## Contenu: 
   - [Partie législative (art. L111-1 à L173-3)](#1)
     - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. L111-1 à L119-3)](#2)
@@ -4168,9 +4168,8 @@ _Cite_:
 
 ###### Article L173-1
 
-Les dispositions des articles L. 171-2 à L. 171-11 relatifs à l'établissement sur les bâtiments ou sur les fonds riverains de
-la voie publique des supports, ouvrages et canalisations nécessaires à l'éclairage public peuvent être rendues applicables
-aux villes qui en font la demande. La décision est prise par décret en Conseil d'Etat.
+Les articles L. 171-2 à L. 171-11 sont applicables, sur délibération de leur assemblée, aux communes et aux établissements
+publics de coopération intercommunale compétents en matière de voirie ou d'éclairage public ou de transport en commun.
 
 **Liens relatifs à cet article**
 
@@ -4178,17 +4177,13 @@ _Anciens textes_:
 
   - Décret-loi 1935-10-30 art. 14 al. 2
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
-
-_Créé par_:
-
-  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
+  - Loi n°2007-1787 du 20 décembre 2007 - art. 23
 
 _Cite_:
 
-  - Code de la voirie routière L171-2 à L171-11
+  - Code de la voirie routière - art. L171-2 (V)
 
 
 ###### Article L173-2
