@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2007-12-22
+Version Consolidée au 2007-12-28
 ## Contenu: 
   - [Partie législative (art. L111-1 à L173-3)](#1)
     - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. L111-1 à L119-3)](#2)
@@ -419,19 +419,16 @@ _Anciens textes_:
 
 ###### Article L113-2
 
-En dehors des cas prévus aux articles L. 113-3 à L. 113-7, l'occupation du domaine public routier n'est autorisée que si elle
-a fait l'objet, soit d'une permission de voirie dans le cas où elle donne lieu à emprise, soit d'un permis de stationnement
-dans les autres cas. Ces autorisations sont délivrées à titre précaire et révocable.
+En dehors des cas prévus aux articles L. 113-3 à L. 113-7 et de l'installation par l'Etat des équipements visant à améliorer
+la sécurité routière, l'occupation du domaine public routier n'est autorisée que si elle a fait l'objet, soit d'une
+permission de voirie dans le cas où elle donne lieu à emprise, soit d'un permis de stationnement dans les autres cas. Ces
+autorisations sont délivrées à titre précaire et révocable.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
-
-_Créé par_:
-
-  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
+  - Loi n°2007-1822 du 24 décembre 2007 - art. 40 (V)
 
 _Cité par_:
 
@@ -440,8 +437,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la voirie routière - art. L113-3 (M)
-  - Code de la voirie routière - art. L113-7 (V)
+  - Code de la voirie routière - art. L113-3 (V)
 
 
 ###### Article L113-3
