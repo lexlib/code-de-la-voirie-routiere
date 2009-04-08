@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2008-12-29
+Version Consolidée au 2009-04-09
 ## Contenu: 
   - [Partie législative (art. L111-1 à L173-3)](#1)
     - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. L111-1 à L119-3)](#2)
@@ -108,8 +108,8 @@ Version Consolidée au 2008-12-29
         - [Section 3 : Coordination des travaux exécutés sur les voies communales situées à l'extérieur des agglomérations. (art. R*141-12)](#105)
         - [Section 4 : Dispositions relatives aux travaux affectant le sol et le sous-sol des voies communales. (art. R*141-13 à R*141-21)](#106)
         - [Section 5 : Dispositions applicables dans le cas où il existe un établissement public de coopération intercommunale. (art. R*141-22)](#107)
-    - [TITRE V : Voies à statuts particuliers. (art. R*151-1 à R*153-3)](#108)
-      - [Chapitre Ier : Routes express. (art. R*151-1 à R*151-7)](#109)
+    - [TITRE V : Voies à statuts particuliers. (art. R*151-2 à R*153-3)](#108)
+      - [Chapitre Ier : Routes express. (art. R*151-2 à R151-1)](#109)
       - [Chapitre II : Déviations. (art. R*152-2 à R152-1)](#110)
       - [Chapitre III : Ouvrages d'art. (art. R*153-1 à R*153-3)](#111)
         - [Section 1 : Dispositions générales. (art. R*153-1 à R*153-2)](#112)
@@ -8018,89 +8018,44 @@ _Créé par_:
 
 ### Chapitre Ier : Routes express.<a id=109></a>
 
-###### Article R*151-1
-
-Le décret prévu à l'article L. 151-2 est pris :
-
-a) Sur le rapport du ministre chargé de la voirie routière nationale, lorsqu'il s'agit de routes ou de sections de routes
-appartenant au domaine public routier de l'Etat ;
-
-b) Sur le rapport du ministre de l'intérieur lorsqu'il s'agit de routes ou de sections de routes appartenant au domaine
-public routier des départements ou des communes.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°70-759 1970-08-18 art. 1 (partie)
-
-_Codifié par_:
-
-  - Décret n°89-631 1989-09-04
-
-_Créé par_:
-
-  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
-
-_Cite_:
-
-  - Code de la voirie routière - art. L151-2 (M)
-
-
 ###### Article R*151-2
 
-Le décret conférant à une route ou section de route le caractère de route express fixe la liste des catégories de véhicules
-ou d'usagers auxquelles tout ou partie de la route express seront en permanence interdits.
+L'arrêté conférant à une route ou section de route le caractère de route express fixe la liste des catégories de véhicules ou
+d'usagers auxquelles tout ou partie de la route express seront en permanence interdits.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°70-759 1970-08-18 art. 2 al. 1
-
-_Codifié par_:
-
-  - Décret n°89-631 1989-09-04
-
-_Créé par_:
-
-  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+  - Décret n°2009-382 du 6 avril 2009 - art. 1
 
 
 ###### Article R*151-3
 
-L'enquête préalable au décret conférant le caractère de route express est effectuée dans les conditions prévues aux articles
+L'enquête préalable à l'arrêté conférant le caractère de route express est effectuée dans les conditions prévues aux articles
 R. 11-3 à R. 11-17 du code de l'expropriation pour cause d'utilité publique. Toutefois, le dossier soumis à enquête comprend,
-outre les documents énumérés audit article R. 11-3 :
+outre les documents énumérés audit article R. 11-3 : 
 
-1° Un plan général de la route indiquant les limites entre lesquelles le caractère de route express doit lui être conféré ;
+1° Un plan général de la route indiquant les limites entre lesquelles le caractère de route express doit lui être conféré ; 
 
 2° L'indication des dispositions prévues pour l'aménagement des points d'accès à la route express et pour le rétablissement
-des communications ;
+des communications ; 
 
 3° La liste des catégories de véhicules ou d'usagers auxquelles tout ou partie de la route express seront en permanence
-interdits.
+interdits. 
 
 Lorsqu'il y a lieu à expropriation, l'enquête publique peut être effectuée conjointement avec l'enquête préalable à la
 déclaration d'utilité publique des travaux. Le dossier soumis à l'enquête est constitué conformément à l'alinéa précédent.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°70-759 du 18 août 1970 - art. 3 (Ab)
-
-_Codifié par_:
-
-  - Décret n°89-631 1989-09-04
-
-_Créé par_:
-
-  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+  - Décret n°2009-382 du 6 avril 2009 - art. 1
 
 _Cite_:
 
-  - Code de l'expropriation  pour cause d'utilité publique R11-3 à R11-17
+  - Code de l'expropriation pour cause d'utilité publique - art. R11-3
 
 
 ###### Article R*151-4
@@ -8137,46 +8092,31 @@ _Cite_:
 ###### Article R*151-5
 
 I. - La décision de création ou de suppression d'un point d'accès prévue à l'article L. 151-4 sur une route existante est
-prise après enquête publique et avis des départements et des communes intéressés :
-
-1° Par un arrêté du ministre chargé de la voirie routière nationale lorsque la route express appartient au domaine public de
-l'Etat ;
-
-2° Par un arrêté du ministre de l'intérieur lorsque la route express appartient au domaine public d'un département ou d'une
-commune.
+prise par arrêté préfectoral après enquête publique et avis des départements et des communes intéressés. 
 
 II. - L'enquête publique est effectuée dans les formes prévues aux articles R. 11-3 à R. 11-17 du code de l'expropriation
 pour cause d'utilité publique. Toutefois, le dossier soumis à enquête comprend, outre les documents énumérés au I de
 l'article R. 11-3 dudit code, l'indication de l'emplacement des accès et la description des aménagements projetés ainsi que
 les dispositions envisagées pour assurer le rétablissement des communications.
 
-S'il y a lieu à déclaration d'utilité publique, les deux enquêtes sont confondues.
+S'il y a lieu à déclaration d'utilité publique, les deux enquêtes sont confondues. 
 
 III. - Lorsque la création ou la suppression de points d'accès sur une route express existante n'est pas compatible avec les
-prescriptions d'un plan d'occupation des sols rendu public ou approuvé, ou d'un document d'urbanisme en tenant lieu et qu'il
-n'est pas fait application de l'article L. 123-8 du code de l'urbanisme, la décision concernant les accès ne peut être prise
+prescriptions d'un plan local d'urbanisme rendu public ou approuvé, ou d'un document d'urbanisme en tenant lieu et qu'il
+n'est pas fait application de l'article L. 123-16 du code de l'urbanisme, la décision concernant les accès ne peut être prise
 qu'après l'approbation de la modification du plan d'occupation des sols ou du document d'urbanisme en tenant lieu.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°70-759 1970-08-18 art. 5
-
-_Codifié par_:
-
-  - Décret n°89-631 1989-09-04
-
-_Créé par_:
-
-  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+  - Décret n°2009-382 du 6 avril 2009 - art. 1
 
 _Cite_:
 
-  - Code de la voirie routière - art. L151-4 (V)
-  - Code de l'urbanisme - art. L123-8 (M)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-3 (M)
-  - Code de l'expropriation pour cause d'utilité publique R11-3 à R11-17, R11-3
+  - Code de la voirie routière - art. L151-4
+  - Code de l'urbanisme - art. L123-16
+  - Code de l'expropriation pour cause d'utilité publique - art. R11-3
 
 
 ###### Article R*151-6
@@ -8207,27 +8147,35 @@ _Créé par_:
 
 ###### Article R*151-7
 
-Les servitudes destinées à éviter les abus de la publicité prévues à l'article L. 151-3 sont celles de l'article 9 du décret
-n° 76-148 du 11 février 1976.
+Les servitudes destinées à éviter les abus de la publicité prévues à l'article L. 151-3 sont celles de l'article R. 418-7 du
+code de la route.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°76-148 1976-02-11 art. 9 renvoi
+  - Décret n°2009-382 du 6 avril 2009 - art. 1
 
 _Cite_:
 
-  - Décret n°76-148 du 11 février 1976 - art. 9 (Ab)
-  - Code de la voirie routière - art. L151-3 (V)
+  - Code de la voirie routière - art. L151-3
+  - Code de la route. - art. R418-7 (V)
 
-_Codifié par_:
 
-  - Décret n°89-631 1989-09-04
+###### Article R151-1
 
-_Créé par_:
+Pour les voies appartenant au domaine public de l'Etat mentionnées à l'article L. 151-2, le caractère de route express est
+conféré par un arrêté du ministre chargé de la voirie routière nationale.
 
-  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2009-382 du 6 avril 2009 - art. 1
+
+_Cite_:
+
+  - Code de la voirie routière - art. L151-2
 
 
 ### Chapitre II : Déviations.<a id=110></a>
