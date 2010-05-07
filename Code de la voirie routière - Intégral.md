@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2010-01-01
+Version Consolidée au 2010-05-08
 ## Contenu: 
   - [Partie législative (art. L111-1 à L173-3)](#1)
     - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. L111-1 à L119-3)](#2)
@@ -1853,33 +1853,17 @@ Par dérogation à l'article L. 112-8, en cas de déclassement d'une section de 
 chargé de la voirie routière nationale ou, par délégation, le représentant de l'Etat dans le département peut remettre
 gratuitement, avant toute cession des terrains déclassés, une bande de terrain pour créer un chemin nécessaire à la desserte
 des propriétés riveraines, sur lequel sont applicables les dispositions du chapitre III du titre II du livre Ier du code
-rural.
+rural et de la pêche maritime.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-981 1973-10-18 art. 6
-
-_Codifié par_:
-
-  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
-
-_Créé par_:
-
-  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
 
 _Cité par_:
 
   - Loi n°89-413 du 22 juin 1989 - art. 3 (V)
 
-_Modifié par_:
-
-  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
-
 _Cite_:
 
-  - Code de la voirie routière L112-8 Code rural livre I titre II chapitre III
+  - Code de la voirie routière - art. L112-8 (V)
 
 
 ###### Article L123-5
@@ -3046,23 +3030,19 @@ _Créé par_:
 ###### Article L161-1
 
 Les chemins ruraux appartiennent au domaine privé de la commune. Ils sont affectés à la circulation publique et soumis aux
-dispositions du chapitre Ier du titre II du livre Ier du code rural.
+dispositions du chapitre Ier du titre II du livre Ier du code rural et de la pêche maritime.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
-
-_Créé par_:
-
-  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
 
 _Cité par_:
 
   - Décret n°2002-1209 du 27 septembre 2002 - art. 5 (V)
   - Décret n°2016-922 du 5 juillet 2016 (V)
   - Code de la route. - art. L110-2 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 **Liens**:
 
@@ -8297,7 +8277,7 @@ _Créé par_:
 ###### Article R*161-1
 
 Sont applicables aux chemins ruraux les dispositions du décret n° 64-527 du 5 juin 1964 et du décret n° 69-897 du 18
-septembre 1969 pris en application du chapitre Ier du titre II du livre Ier du code rural.
+septembre 1969 pris en application du chapitre Ier du titre II du livre Ier du code rural et de la pêche maritime.
 
 **Liens relatifs à cet article**
 
@@ -8306,18 +8286,9 @@ _Cite_:
   - Décret n°64-527 1964-06-05
   - Décret n°69-897 1969-09-18
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°68-897 1969-09-18 renvoi
-  - Décrets 64-527 1964-06-05 renvoi
-
-_Codifié par_:
-
-  - Décret n°89-631 1989-09-04
-
-_Créé par_:
-
-  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 
 ###### Article R*161-2
