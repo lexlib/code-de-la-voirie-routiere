@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2012-01-01
+Version Consolidée au 2012-01-21
 ## Contenu: 
   - [Partie législative (art. L111-1 à L173-3)](#1)
     - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. L111-1 à L119-10)](#2)
@@ -6079,18 +6079,21 @@ II.-Ne peuvent être munis du marquage prévu au I du présent article que les �
 la procédure prévue aux III et IV du présent article ou les équipements dont la conformité à des normes ou à d'autres
 spécifications techniques a été attestée à l'issue de l'une des procédures définies comme suit : 
 
-a) La conformité des équipements à des normes et, le cas échéant, à des spécifications complémentaires qui a été évaluée, par
-des organismes agréés, sur la base d'essais de type et d'une surveillance de la production, est attestée par la délivrance de
-la marque NF " Equipements de la route " par un organisme certificateur habilité, dans les conditions fixées par l'article 15
-du décret n° 84-74 du 26 janvier 1984 ;
+a) La conformité des équipements à des normes et, le cas échéant, à des spécifications complémentaires, qui a été évaluée sur
+la base d'essais de type et d'une surveillance de la production, est attestée par la délivrance d'un certificat de conformité
+par un organisme certificateur accrédité à cet effet, dans les conditions définies par les arrêtés mentionnés à l'article R.
+119-4.
 
 b) La conformité des équipements à des réglementations techniques, qui a été évaluée dans les mêmes conditions qu'au a ci-
-dessus, est attestée par la délivrance par le ministre chargé de l'équipement, dans les conditions fixées par l'arrêté
-interministériel prévu au IV du présent article, d'une homologation accordée pour une année renouvelable ; 
+dessus, est attestée par la délivrance d'une homologation par le ministre chargé de l'équipement ou par un organisme
+accrédité à cet effet, désigné par un arrêté du ministre chargé de l'équipement mentionné au deuxième alinéa du c. Les
+conditions de délivrance et de renouvellement de l'homologation particulière à chaque type d'équipement sont fixées par cet
+arrêté.
 
 c) La conformité des équipements à des normes ou à des réglementations techniques, qui a été évaluée sur la base d'essais de
-type réalisés par un laboratoire agréé et d'un contrôle de la production réalisé par le fabricant, est attestée par une
-déclaration établie par ce dernier dans les conditions fixées par l'arrêté interministériel prévu au IV du présent article. 
+type réalisés par un laboratoire accrédité à cet effet désigné par un arrêté du ministre chargé de l'équipement mentionné à
+l'alinéa suivant et d'un contrôle de la production réalisé par le fabricant, est attestée par une déclaration établie par ce
+dernier dans les conditions fixées par l'arrêté interministériel prévu au IV du présent article. 
 
 Les arrêtés mentionnés à l'article R. * 119-4 fixent, pour chaque type d'équipements, celle des procédures prévues aux a, b
 et c ci-dessus qui lui est applicable ainsi que les modalités administratives et techniques particulières à cette procédure
@@ -6098,8 +6101,8 @@ pour ce type d'équipements.
 
 Ces arrêtés fixent également les niveaux d'exigence relatifs aux caractéristiques et aux performances des produits. Ces
 niveaux d'exigence sont définis, selon le mode d'évaluation et d'attestation de conformité prévu, par référence soit aux
-normes françaises publiées au Journal officiel de la République française ou à d'autres normes garantissant un niveau de
-sécurité équivalent, soit à des spécifications techniques fixées dans les mêmes conditions. 
+normes françaises ou à d'autres normes garantissant un niveau de sécurité équivalent, soit à des spécifications techniques
+fixées dans les mêmes conditions. 
 
 III.-Les équipements routiers fabriqués dans d'autres Etats membres de l'Union européenne ou dans d'autres Etats parties à
 l'accord sur l'Espace économique européen, conformément aux règles techniques ou aux normes en vigueur dans ces Etats, et
@@ -6122,12 +6125,12 @@ regard, notamment, du respect des normes des séries NF EN 45000 et EN ISO 17000
 
 _Cite_:
 
-  - Décret n°84-74 du 26 janvier 1984 - art. 15 (V)
-  - Code de la voirie routière - art. R*119-4 (V)
+  - Décret n°84-74 du 26 janvier 1984 - art. 15
+  - Code de la voirie routière - art. R*119-4
 
 _Codifié par_:
 
-  - Décret n°89-631 1989-09-04
+  - Décret n°89-631 du 4 septembre 1989
 
 _Cité par_:
 
@@ -6157,11 +6160,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2004-472 du 1 juin 2004 - art. 4 () JORF 2 juin 2004
-
-**Liens**:
-
-  - TXT_SOURCE: Directive 98-34 CE 1998-06-22
+  - Décret n°2012-58 du 18 janvier 2012 - art. 2
 
 
 ###### Article R*119-4
@@ -6199,29 +6198,23 @@ _Modifié par_:
 
 ###### Article R*119-6
 
-Les types d'équipements inscrits dans les arrêtés prévus aux articles R.* 119-2, R.* 119-4 et R.* 119-9 font, en tant que de
-besoin, l'objet de prescriptions d'emploi et de règles techniques de mise en oeuvre fixées par arrêté conjoint du ministre
-chargé de l'équipement et du ministre de l'intérieur.
+Les prescriptions d'emploi et les règles techniques de mise en œuvre des types d'équipements définis à l'article R. 111-1
+ayant une incidence sur la sécurité des usagers de la route sont définies par arrêté conjoint du ministre chargé de
+l'équipement et du ministre de l'intérieur.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - TXT_SOURCE: Directive 98-34 CE 1998-06-22
-
 _Codifié par_:
 
-  - Décret n°89-631 1989-09-04
+  - Décret n°89-631 du 4 septembre 1989
 
 _Modifié par_:
 
-  - Décret n°2004-472 du 1 juin 2004 - art. 5 () JORF 2 juin 2004
+  - Décret n°2012-58 du 18 janvier 2012 - art. 3
 
 _Cite_:
 
-  - Code de la voirie routière - art. R*119-2 (V)
-  - Code de la voirie routière - art. R*119-4 (M)
-  - Code de la voirie routière - art. R*119-9 (M)
+  - Code de la voirie routière - art. R*111-1
 
 
 ###### Article R*119-7
@@ -6322,16 +6315,17 @@ _Cité par_:
 
 ###### Article R119-10
 
-Par dérogation aux dispositions des articles R.* 119-8 et R.* 119-9, des dispositifs innovants ou expérimentaux peuvent être
-mis en service sur certaines sections des voies du domaine public routier dans les conditions d'expérimentation et d'aptitude
-en service fixées par le ministre chargé de l'équipement. Des autorisations d'emploi à titre expérimental sont, dans ce cas,
-accordées aux fabricants ou importateurs par le ministre chargé de l'équipement à la demande des gestionnaires de ces voies.
+Par dérogation aux dispositions des articles R. * 119-8 et R. * 119-9, des dispositifs innovants ou expérimentaux peuvent
+être mis en service sur certaines sections des voies du domaine public routier dans les conditions d'expérimentation et
+d'aptitude en service fixées par le ministre chargé de l'équipement. Des autorisations d'emploi à titre expérimental sont,
+dans ce cas, accordées aux fabricants ou importateurs ou à des gestionnaires de voirie par le ministre chargé de l'équipement
+à la demande des gestionnaires de ces voies.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°89-631 1989-09-04
+  - Décret n°89-631 du 4 septembre 1989
 
 _Cité par_:
 
@@ -6342,45 +6336,42 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2004-472 du 1 juin 2004 - art. 8 () JORF 2 juin 2004
+  - Décret n°2012-58 du 18 janvier 2012 - art. 4
 
 _Cite_:
 
-  - Code de la voirie routière - art. R*119-8 (M)
-  - Code de la voirie routière - art. R*119-9 (M)
-
-**Liens**:
-
-  - TXT_SOURCE: Directive 98-34 CE 1998-06-22
+  - Code de la voirie routière - art. R*119-8
+  - Code de la voirie routière - art. R*119-9
 
 
 #### Section 4 : Dispositions diverses<a id=87></a>
 
 ###### Article R119-11
 
-L'homologation, l'attestation d'équivalence et l'agrément prévus respectivement au b du II, au III et au IV de l'article R.**
-119-5, ainsi que l'autorisation d'emploi à titre exceptionnel prévue à l'article R.* 119-10, peuvent être suspendus pour une
-durée ne pouvant excéder un an ou annulés dans les mêmes formes que pour leur délivrance lorsque les conditions qui ont
+L'homologation, l'attestation d'équivalence et l'agrément prévus respectivement au b du II, au III et au IV de l'article R.
+** 119-5, ainsi que l'autorisation d'emploi à titre expérimental prévue à l'article R. * 119-10, peuvent être suspendus pour
+une durée ne pouvant excéder un an ou annulés dans les mêmes formes que pour leur délivrance lorsque les conditions qui ont
 permis cette délivrance ne sont plus réunies.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°89-631 1989-09-04
+  - Décret n°89-631 du 4 septembre 1989
 
 _Cité par_:
 
   - Décret n°97-1191 du 19 décembre 1997 - art. ANNEXE (V)
   - Décret n°97-1198 du 19 décembre 1997 - art. Annexe (M)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2002-1251 du 10 octobre 2002 - art. 2 ()
+  - Décret n°2012-58 du 18 janvier 2012 - art. 5
 
 _Cite_:
 
-  - Code de la voirie routière R**119-5, R*119-10
+  - Code de la voirie routière - art. R*119-5
+  - Code de la voirie routière - art. R119-10
 
 
 ###### Article R119-12
