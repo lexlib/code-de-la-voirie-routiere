@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2012-01-21
+Version Consolidée au 2012-03-08
 ## Contenu: 
   - [Partie législative (art. L111-1 à L173-3)](#1)
     - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. L111-1 à L119-10)](#2)
@@ -64,7 +64,7 @@ de marchandises par route (art. L119-5 à L119-8)](#21)
       - [Chapitre II : Dispositions relatives aux départements d'outre-mer. (art. L172-1)](#60)
       - [Chapitre III : Dispositions diverses. (art. L173-1 à L173-3)](#61)
   - [Partie réglementaire (art. R*111-1 à R*173-2)](#62)
-    - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. R*111-1 à R119-12)](#63)
+    - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. R*111-1 à R*119-37)](#63)
       - [Chapitre Ier : Equipements routiers et enquêtes de circulation. (art. R*111-1 à D111-3)](#64)
         - [Section 1 : Equipements routiers. (art. R*111-1 à R111-2)](#65)
         - [Section 2 : Enquêtes de circulation. (art. D111-2 à D111-3)](#66)
@@ -89,50 +89,57 @@ de marchandises par route (art. L119-5 à L119-8)](#21)
           - [Sous-section 2 : Equipements non soumis au marquage CE (art. R**119-5 à R*119-4)](#85)
         - [Section 3 : Règles de mise en service (art. R*119-6 à R119-10)](#86)
         - [Section 4 : Dispositions diverses (art. R119-11 à R119-12)](#87)
-    - [TITRE II : Voirie nationale. (art. R*121-1 à R*123-5)](#88)
-      - [Chapitre Ier : Dispositions communes aux autoroutes et aux routes nationales. (art. R*121-1)](#89)
-      - [Chapitre II : Autoroutes. (art. R*122-1 à R122-27)](#90)
-        - [Section 1 : Dispositions générales. (art. R*122-1 à R122-5-2)](#91)
-        - [Section 2 : Dispositions financières. (art. R*122-6 à R*122-26)](#92)
-          - [Sous-section 1 : Caisse nationale des autoroutes. (art. R*122-6 à R*122-15)](#93)
-          - [Sous-section 2 : Autoroutes de France. (art. R*122-16 à R*122-26)](#94)
-        - [Section 3 : Redevance domaniale. (art. R122-27)](#95)
-      - [Chapitre III : Routes nationales. (art. R*123-1 à R*123-5)](#96)
-        - [Section 1 : Classement et déclassement. (art. R*123-1 à R*123-2)](#97)
-        - [Section 2 : Alignement. (art. R*123-3 à R*123-4)](#98)
-        - [Section 3 : Disposition relative à la création de voies accédant aux routes nationales. (art. R*123-5)](#99)
-    - [TITRE III : Voirie départementale. (art. R*131-1 à R*131-11)](#100)
-      - [Chapitre unique. (art. R*131-1 à R*131-11)](#101)
-        - [Section 1 : Caractéristiques techniques du domaine public routier départemental. (art. R*131-1 à R*131-2)](#102)
-        - [Section 2 : Enquête publique relative au classement, au déclassement, à l'établissement des plans d'alignement et de nivellement, à l'ouverture, au redressement et à l'élargissement des routes départementales. (art. R*131-3 à R*131-8)](#103)
-        - [Section 3 : Dispositions relatives à la coordination des travaux exécutés sur les routes départementales. (art. R*131-9 à R*131-11)](#104)
-    - [TITRE IV : Voirie communale. (art. R*141-1 à R*141-22)](#105)
-      - [Chapitre unique (art. R*141-1 à R*141-22)](#106)
-        - [Section 1 : Emprise du domaine public routier communal. (art. R*141-1 à R*141-11)](#107)
-          - [Sous-section 1 : Alignement et caractéristiques techniques. (art. R*141-1 à R*141-3)](#108)
-          - [Sous-section 2 : Enquête publique relative au classement, à l'ouverture, au redressement, à la fixation de la largeur et au déclassement des voies communales. (art. R*141-4 à R*141-10)](#109)
-          - [Sous-section 3 : Publicité foncière. (art. R*141-11)](#110)
-        - [Section 3 : Coordination des travaux exécutés sur les voies communales situées à l'extérieur des agglomérations. (art. R*141-12)](#111)
-        - [Section 4 : Dispositions relatives aux travaux affectant le sol et le sous-sol des voies communales. (art. R*141-13 à R*141-21)](#112)
-        - [Section 5 : Dispositions applicables dans le cas où il existe un établissement public de coopération intercommunale. (art. R*141-22)](#113)
-    - [TITRE V : Voies à statuts particuliers. (art. R*151-2 à R*153-3)](#114)
-      - [Chapitre Ier : Routes express. (art. R*151-2 à R151-1)](#115)
-      - [Chapitre II : Déviations. (art. R*152-2 à R152-1)](#116)
-      - [Chapitre III : Ouvrages d'art. (art. R*153-1 à R*153-3)](#117)
-        - [Section 1 : Dispositions générales. (art. R*153-1)](#118)
-        - [Section 2: Dispositions particulières. (art. R*153-3)](#119)
-    - [TITRE VI : Dispositions applicables aux voies n'appartenant pas au domaine public. (art. R*161-1 à R*163-1)](#120)
-      - [Chapitre Ier : Chemins ruraux. (art. R*161-1 à R*161-2)](#121)
-      - [Chapitre II : Voies privées. (art. R*162-1 à R*162-2)](#122)
-        - [Section 1 : Dispositions générales. (art. R*162-1)](#123)
-        - [Section 3 : Autres voies privées. (art. R*162-2)](#124)
-      - [Chapitre III : Dispositions communes. (art. R*163-1)](#125)
-    - [TITRE VII : Dispositions particulières. (art. R*171-1 à R*173-2)](#126)
-      - [Chapitre Ier : Dispositions applicables à la ville de Paris. (art. R*171-1 à R*171-8)](#127)
-        - [Section 1 : Voies publiques. (art. R*171-1 à R*171-5)](#128)
-        - [Section 2 : Voies privées. (art. R*171-6 à R*171-7)](#129)
-        - [Section 3 : Coordination des travaux. (art. R*171-8)](#130)
-      - [Chapitre III : Dispositions diverses. (art. R*173-1 à R*173-2)](#131)
+      - [Chapitre X : Dispositions relatives au péage (art. R*119-13 à R*119-37)](#88)
+        - [Section 1 : Service européen de télépéage (art. R*119-13 à R*119-31)](#89)
+          - [Sous-section 1 : Les obligations des percepteurs de péage enregistrés en France (art. R*119-13 à R*119-20)](#90)
+          - [Sous-section 2 : Les obligations des prestataires du service européen de télépéage enregistrés en France (art. R*119-21 à R*119-28)](#91)
+          - [Sous-section 3 : Les obligations des utilisateurs du service européen de télépéage (art. R*119-29 à R*119-31)](#92)
+        - [Section 2 : Péages applicables aux véhicules de transport de marchandises par route (art. R*119-32 à R*119-33)](#93)
+        - [Section 3 : Péages applicables aux véhicules de transport de personnes par route (art. R*119-34 à R*119-37)](#94)
+    - [TITRE II : Voirie nationale. (art. R*121-1 à R*123-5)](#95)
+      - [Chapitre Ier : Dispositions communes aux autoroutes et aux routes nationales. (art. R*121-1)](#96)
+      - [Chapitre II : Autoroutes. (art. R*122-1 à R122-27)](#97)
+        - [Section 1 : Dispositions générales. (art. R*122-1 à R122-5-2)](#98)
+        - [Section 2 : Dispositions financières. (art. R*122-6 à R*122-26)](#99)
+          - [Sous-section 1 : Caisse nationale des autoroutes. (art. R*122-6 à R*122-15)](#100)
+          - [Sous-section 2 : Autoroutes de France. (art. R*122-16 à R*122-26)](#101)
+        - [Section 3 : Redevance domaniale. (art. R122-27)](#102)
+      - [Chapitre III : Routes nationales. (art. R*123-1 à R*123-5)](#103)
+        - [Section 1 : Classement et déclassement. (art. R*123-1 à R*123-2)](#104)
+        - [Section 2 : Alignement. (art. R*123-3 à R*123-4)](#105)
+        - [Section 3 : Disposition relative à la création de voies accédant aux routes nationales. (art. R*123-5)](#106)
+    - [TITRE III : Voirie départementale. (art. R*131-1 à R*131-11)](#107)
+      - [Chapitre unique. (art. R*131-1 à R*131-11)](#108)
+        - [Section 1 : Caractéristiques techniques du domaine public routier départemental. (art. R*131-1 à R*131-2)](#109)
+        - [Section 2 : Enquête publique relative au classement, au déclassement, à l'établissement des plans d'alignement et de nivellement, à l'ouverture, au redressement et à l'élargissement des routes départementales. (art. R*131-3 à R*131-8)](#110)
+        - [Section 3 : Dispositions relatives à la coordination des travaux exécutés sur les routes départementales. (art. R*131-9 à R*131-11)](#111)
+    - [TITRE IV : Voirie communale. (art. R*141-1 à R*141-22)](#112)
+      - [Chapitre unique (art. R*141-1 à R*141-22)](#113)
+        - [Section 1 : Emprise du domaine public routier communal. (art. R*141-1 à R*141-11)](#114)
+          - [Sous-section 1 : Alignement et caractéristiques techniques. (art. R*141-1 à R*141-3)](#115)
+          - [Sous-section 2 : Enquête publique relative au classement, à l'ouverture, au redressement, à la fixation de la largeur et au déclassement des voies communales. (art. R*141-4 à R*141-10)](#116)
+          - [Sous-section 3 : Publicité foncière. (art. R*141-11)](#117)
+        - [Section 3 : Coordination des travaux exécutés sur les voies communales situées à l'extérieur des agglomérations. (art. R*141-12)](#118)
+        - [Section 4 : Dispositions relatives aux travaux affectant le sol et le sous-sol des voies communales. (art. R*141-13 à R*141-21)](#119)
+        - [Section 5 : Dispositions applicables dans le cas où il existe un établissement public de coopération intercommunale. (art. R*141-22)](#120)
+    - [TITRE V : Voies à statuts particuliers. (art. R*151-2 à R*153-3)](#121)
+      - [Chapitre Ier : Routes express. (art. R*151-2 à R151-1)](#122)
+      - [Chapitre II : Déviations. (art. R*152-2 à R152-1)](#123)
+      - [Chapitre III : Ouvrages d'art. (art. R*153-1 à R*153-3)](#124)
+        - [Section 1 : Dispositions générales. (art. R*153-1)](#125)
+        - [Section 2: Dispositions particulières. (art. R*153-3)](#126)
+    - [TITRE VI : Dispositions applicables aux voies n'appartenant pas au domaine public. (art. R*161-1 à R*163-1)](#127)
+      - [Chapitre Ier : Chemins ruraux. (art. R*161-1 à R*161-2)](#128)
+      - [Chapitre II : Voies privées. (art. R*162-1 à R*162-2)](#129)
+        - [Section 1 : Dispositions générales. (art. R*162-1)](#130)
+        - [Section 3 : Autres voies privées. (art. R*162-2)](#131)
+      - [Chapitre III : Dispositions communes. (art. R*163-1)](#132)
+    - [TITRE VII : Dispositions particulières. (art. R*171-1 à R*173-2)](#133)
+      - [Chapitre Ier : Dispositions applicables à la ville de Paris. (art. R*171-1 à R*171-8)](#134)
+        - [Section 1 : Voies publiques. (art. R*171-1 à R*171-5)](#135)
+        - [Section 2 : Voies privées. (art. R*171-6 à R*171-7)](#136)
+        - [Section 3 : Coordination des travaux. (art. R*171-8)](#137)
+      - [Chapitre III : Dispositions diverses. (art. R*173-1 à R*173-2)](#138)
 # Partie législative<a id=1></a>
 
 ## TITRE Ier : Dispositions communes aux voies du domaine public routier.<a id=2></a>
@@ -6393,9 +6400,502 @@ _Cite_:
   - Code de la voirie routière - art. L119-4
 
 
-## TITRE II : Voirie nationale.<a id=88></a>
+### Chapitre X : Dispositions relatives au péage<a id=88></a>
 
-### Chapitre Ier : Dispositions communes aux autoroutes et aux routes nationales.<a id=89></a>
+#### Section 1 : Service européen de télépéage<a id=89></a>
+
+##### Sous-section 1 : Les obligations des percepteurs de péage enregistrés en France<a id=90></a>
+
+###### Article R*119-13
+
+Les dispositions de la présente sous-section s'appliquent à l'ensemble des percepteurs de péage, personnes morales de droit
+public ou de droit privé, qui prélèvent des péages pour la circulation des véhicules dans un secteur de service européen de
+télépéage inscrit sur le registre prévu au II de l'article L. 119-4.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-313 du 5 mars 2012 - art. 1
+
+_Cite_:
+
+  - Code de la voirie routière - art. L119-4
+
+
+###### Article R*119-14
+
+Les percepteurs de péage établissent et tiennent à jour une déclaration de secteur de service européen de télépéage fixant
+les conditions générales d'accès des prestataires du service européen de télépéage à leurs secteurs à péage conformément à
+l'annexe I de la décision 2009/750/ CE de la Commission du 6 octobre 2009 relative à la définition du service européen de
+télépéage et à ses aspects techniques.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-313 du 5 mars 2012 - art. 1
+
+_Cité par_:
+
+  - Code de la voirie routière - art. R*119-26 (V)
+
+
+###### Article R*119-15
+
+Les percepteurs de péage acceptent, sans discrimination, tout prestataire du service européen de télépéage demandant à
+fournir ce service dans les secteurs de service européen de télépéage sous leur responsabilité dès lors que celui-ci respecte
+les conditions générales énoncées dans la déclaration de secteur de service européen de télépéage visée à l'article R. *
+119-14. 
+
+Les percepteurs de péage tiennent une liste, aisément accessible au public sur leur site internet, de tous les prestataires
+du service européen de télépéage avec lesquels ils ont passé un contrat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-313 du 5 mars 2012 - art. 1
+
+
+###### Article R*119-16
+
+Les percepteurs de péage acceptent dans les secteurs de service européen de télépéage sous leur responsabilité tout
+équipement embarqué d'identification et de perception du péage opérationnel des prestataires du service européen de télépéage
+avec lesquels ils sont liés par des relations contractuelles, qui a été certifié conformément à l'annexe IV de la décision
+2009/750/ CE de la Commission du 6 octobre 2009 relative à la définition du service européen de télépéage et à ses aspects
+techniques et qui ne figure pas sur une liste d'équipements embarqués d'identification et de perception du péage invalidés
+tenue par les prestataires du service européen de télépéage, visée au troisième alinéa de l'article R. * 119-24.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-313 du 5 mars 2012 - art. 1
+
+_Cité par_:
+
+  - Code de la voirie routière - art. R*119-17 (V)
+
+_Cite_:
+
+  - Code de la voirie routière - art. R*119-24 (V)
+
+
+###### Article R*119-17
+
+En cas de dysfonctionnement du service européen de télépéage imputable au percepteur de péage, celui-ci fournit un service en
+mode dégradé permettant aux véhicules dotés de l'équipement visé à l'article R. * 119-16 de circuler en sécurité, en
+subissant un retard minime et sans qu'il soit considéré que leurs conducteurs aient entendu se soustraire au péage.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-313 du 5 mars 2012 - art. 1
+
+_Cite_:
+
+  - Code de la voirie routière - art. R*119-16 (V)
+
+
+###### Article R*119-18
+
+Lorsqu'un secteur de service européen de télépéage ne remplit pas les conditions techniques et procédurales
+d'interopérabilité du service européen de télépéage fixées par la directive 2004/52/ CE du Parlement européen et du Conseil
+du 29 avril 2004 concernant l'interopérabilité des systèmes de télépéage routier dans la Communauté et la décision 2009/750/
+CE de la Commission du 6 octobre 2009 relative à la définition du service européen de télépéage et à ses aspects techniques,
+le percepteur de péage responsable prend, après analyse du problème avec les parties intéressées, toute mesure correctrice
+relevant de sa responsabilité afin d'assurer l'interopérabilité de son système de péage avec le service européen de
+télépéage. Il en informe alors le ministre chargé des transports afin que celui-ci mette à jour le registre prévu au II de
+l'article L. 119-4.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-313 du 5 mars 2012 - art. 1
+
+_Cite_:
+
+  - Code de la voirie routière - art. L119-4
+
+
+###### Article R*119-19
+
+Les percepteurs de péage déterminent la classification des véhicules soumis à un péage en fonction des paramètres de l'annexe
+VI de la décision 2009/750/CE de la Commission européenne relative à la définition du service européen de télépéage et à ses
+aspects techniques. 
+
+Le péage demandé par les percepteurs de péage aux utilisateurs du service européen de télépéage ne doit pas excéder le péage
+correspondant appliqué aux usagers habituels. 
+
+En cas de divergence entre la classification du véhicule utilisée par le prestataire de service européen de télépéage et
+celle déterminée par le percepteur de péage conformément aux dispositions du premier alinéa, c'est, sauf erreur dument
+établie, cette dernière classification qui prévaut.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-313 du 5 mars 2012 - art. 1
+
+
+###### Article R*119-20
+
+Dans les systèmes de péage par micro-ondes, les percepteurs de péage communiquent aux prestataires du service européen de
+télépéage, pour les utilisateurs de leurs services, des déclarations justifiées des péages dus.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-313 du 5 mars 2012 - art. 1
+
+
+##### Sous-section 2 : Les obligations des prestataires du service européen de télépéage enregistrés en France<a id=91></a>
+
+###### Article R*119-21
+
+Les dispositions de la présente sous-section s'appliquent à l'ensemble des prestataires du service européen de télépéage
+inscrits sur le registre mentionné à l'article 1er du décret n° 2011-813 du 5 juillet 2011 relatif aux conditions
+d'enregistrement en France des sociétés prestataires du service européen de télépéage.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2011-813 du 5 juillet 2011 - art. 1
+
+_Créé par_:
+
+  - Décret n°2012-313 du 5 mars 2012 - art. 1
+
+_Cité par_:
+
+  - Code de la voirie routière - art. R*119-22 (V)
+
+
+###### Article R*119-22
+
+Les prestataires du service européen de télépéage doivent conclure avec les percepteurs de péage des contrats de service
+européen de télépéage couvrant tous les secteurs de service européen de télépéage dans les vingt-quatre mois suivant leur
+inscription sur le registre mentionné à l'article R. * 119-21. 
+
+Ils garantissent la couverture de tous les secteurs de service européen de télépéage à tout moment. En cas de changement dans
+les secteurs de service européen de télépéage ou d'événement empêchant de couvrir tous les secteurs, les prestataires du
+service européen de télépéage doivent rétablir la couverture totale dans les six mois suivant les faits constatés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-313 du 5 mars 2012 - art. 1
+
+_Cite_:
+
+  - Code de la voirie routière - art. R*119-21 (V)
+
+_Cité par_:
+
+  - Code de la voirie routière - art. R*119-23 (V)
+
+
+###### Article R*119-23
+
+Les prestataires du service européen de télépéage concluent avec les utilisateurs du service européen de télépéage des
+contrats d'abonnement uniques pour les secteurs de télépéage qu'ils couvrent conformément à l'article R. * 119-22.
+
+Les contrats précisent si l'utilisateur demande à connaître au moins l'heure et l'endroit où les péages ont été encourus
+ainsi que la décomposition des péages relative à l'utilisateur. 
+
+Les prestataires du service européen de télépéage rendent publiques leurs conditions contractuelles vis-à-vis des
+utilisateurs du service européen de télépéage et leur communiquent les secteurs de service européen de télépéage qu'ils
+couvrent et tout changement qui y est apporté.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-313 du 5 mars 2012 - art. 1
+
+_Cite_:
+
+  - Code de la voirie routière - art. R*119-22 (V)
+
+
+###### Article R*119-24
+
+Les prestataires du service européen de télépéage assurent aux utilisateurs du service européen de télépéage un service et un
+soutien technique appropriés afin de garantir la personnalisation correcte de l'équipement embarqué d'identification et de
+perception du péage. Ils sont, à ce titre, responsables des paramètres fixes de classification du véhicule stockés dans
+l'équipement embarqué ou dans leur système informatique. Ils s'assurent que les paramètres variables de classification du
+véhicule, qui peuvent changer d'un trajet à l'autre ou sur un même trajet et dont l'introduction exige d'intervenir à
+l'intérieur du véhicule, sont aisément configurables par l'utilisateur. 
+
+Les prestataires du service européen de télépéage signalent à l'utilisateur du service européen de télépéage, dans les
+meilleurs délais possibles, tout cas de non-déclaration de péage concernant son compte en lui offrant, le cas échéant, la
+possibilité de régulariser la situation avant qu'une mesure coercitive ne soit prise. 
+
+Les prestataires du service européen de télépéage tiennent une liste à jour des équipements embarqués d'identification et de
+perception du péage invalidés liés à leurs contrats d'abonnement de service européen de télépéage avec des utilisateurs du
+service européen de télépéage. Ils ne peuvent plus, dans ce cas, être tenus pour responsable des péages encourus du fait de
+l'utilisation de ces équipements.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-313 du 5 mars 2012 - art. 1
+
+_Cité par_:
+
+  - Code de la voirie routière - art. R*119-16 (V)
+
+
+###### Article R*119-25
+
+La facturation des utilisateurs du service européen de télépéage par les prestataires du service européen de télépéage doit
+clairement distinguer le prix du service imputé par le prestataire du service européen de télépéage des péages dus.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-313 du 5 mars 2012 - art. 1
+
+
+###### Article R*119-26
+
+Lorsque le percepteur de péage l'exige dans le cadre de la déclaration de secteur mentionnée à l'article R. * 119-14, les
+prestataires du service européen de télépéage assurent le paiement pour toute déclaration de péage justifiée, mais aussi pour
+tout péage dû et non déclaré concernant tout compte d'utilisateur géré par ce prestataire du service européen de télépéage. 
+
+Le paiement d'un péage par l'utilisateur du service européen de télépéage au prestataire du service européen de télépéage
+éteint les obligations de paiement de l'utilisateur du service européen de télépéage vis-à-vis du percepteur de péage
+concerné.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-313 du 5 mars 2012 - art. 1
+
+_Cite_:
+
+  - Code de la voirie routière - art. R*119-14 (V)
+
+
+###### Article R*119-27
+
+Les prestataires du service européen de télépéage collaborent avec les percepteurs de péage pour réaliser à l'improviste des
+essais détaillés du système de péage qui impliquent des véhicules circulant ou ayant récemment circulé dans les secteurs de
+service européen de télépéage du percepteur de péage. Le nombre de véhicules soumis à ces essais pendant une année, pour un
+prestataire du service européen de télépéage particulier, doit être proportionné au trafic moyen annuel ou aux prévisions de
+trafic annuel du prestataire du service européen dans les secteurs du service européen de télépéage du percepteur de péage.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-313 du 5 mars 2012 - art. 1
+
+
+###### Article R*119-28
+
+Les prestataires du service européen de télépéage contrôlent leur niveau de service. Ils instaurent, à cet effet, des
+procédures opérationnelles auditées qui prévoient les mesures appropriées à prendre lorsque des problèmes de performance ou
+d'atteinte à l'intégrité du service européen de télépéage sont détectés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-313 du 5 mars 2012 - art. 1
+
+
+##### Sous-section 3 : Les obligations des utilisateurs du service européen de télépéage<a id=92></a>
+
+###### Article R*119-29
+
+Les dispositions de la présente sous-section s'appliquent aux personnes physiques ou morales qui souscrivent un contrat
+auprès d'un prestataire du service européen de télépéage inscrit sur le registre mentionné à l'article 1er du décret n°
+2011-813 du 5 juillet 2011 afin d'accéder au service européen de télépéage.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2011-813 du 5 juillet 2011 - art. 1
+
+_Créé par_:
+
+  - Décret n°2012-313 du 5 mars 2012 - art. 1
+
+
+###### Article R*119-30
+
+Les utilisateurs du service européen de télépéage s'engagent à ce que toutes les données qu'ils communiquent au prestataire
+du service européen de télépéage les concernant ainsi que les véhicules utilisés soient exactes. 
+
+Ils sont informés par le prestataire du service européen de télépéage du traitement de leurs données à caractère personnel
+conformément aux lois et règlements qui les régissent.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-313 du 5 mars 2012 - art. 1
+
+
+###### Article R*119-31
+
+Les utilisateurs du service européen de télépéage s'assurent que l'équipement embarqué d'identification et de perception du
+péage est opérationnel pendant que le véhicule circule dans un secteur de service européen de télépéage. 
+
+A cet effet, ils emploient l'équipement embarqué d'identification et de perception du péage conformément aux instructions du
+prestataire du service européen de télépéage, notamment en ce qui concerne la déclaration des paramètres variables du
+véhicule.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-313 du 5 mars 2012 - art. 1
+
+
+#### Section 2 : Péages applicables aux véhicules de transport de marchandises par route<a id=93></a>
+
+###### Article R*119-32
+
+Les véhicules de transport de marchandises par route non munis d'un équipement embarqué d'identification et de perception du
+péage reconnu par le percepteur de péage acquittent le tarif de péage modulé correspondant à la classe EURO au tarif le plus
+élevé en vigueur pour le trajet réellement effectué, sauf si leur conducteur peut produire un justificatif attestant de la
+classe EURO du véhicule.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-314 du 5 mars 2012 - art. 1
+
+
+###### Article R*119-33
+
+Lorsque le tarif de péage modulé correspondant à la classe EURO au tarif le plus élevé en vigueur pour le trajet réellement
+effectué a été appliqué en l'absence de justificatifs, le remboursement du trop-perçu correspondant à la différence entre le
+tarif de la classe EURO du véhicule et le tarif réellement acquitté peut être demandé, sur production de justificatifs, au
+percepteur de péage. Un arrêté du ministre chargé de la voirie nationale précise la liste des justificatifs nécessaires au
+remboursement du trop-perçu, ainsi que les modalités de remboursement. 
+
+Le percepteur de péage peut facturer au demandeur les frais relatifs à la transaction bancaire réalisée pour le remboursement
+mentionné au premier alinéa. 
+
+Chaque percepteur de péage informe, par tout moyen approprié, les usagers de son secteur de péage des dispositions
+applicables aux véhicules de transport de marchandises par route non munis d'un équipement embarqué d'identification et de
+perception du péage.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-314 du 5 mars 2012 - art. 1
+
+_Cité par_:
+
+  - Arrêté du 16 mars 2012 (V)
+  - Arrêté du 16 mars 2012 - art. 1 (V)
+
+
+#### Section 3 : Péages applicables aux véhicules de transport de personnes par route<a id=94></a>
+
+###### Article R*119-34
+
+Les péages applicables aux véhicules de transport de personnes par route sont modulés en fonction de la classe d'émission
+EURO du véhicule, au sens de l'annexe 0 de la directive 1999/62/ CE du Parlement européen et du Conseil du 17 juin 1999
+relative à la taxation des poids lourds pour l'utilisation de certaines infrastructures. Le péage modulé à acquitter ne peut
+être supérieur de plus de 100 % au péage appliqué aux véhicules équivalents qui respectent les normes d'émission les plus
+strictes. 
+
+Les péages applicables aux véhicules de transport de personnes par route peuvent également être modulés en fonction du moment
+de la journée, de la date et du jour de la semaine. Le péage modulé à acquitter ne doit pas être d'un montant supérieur de
+plus de 100 % à celui prévu au titre de la période bénéficiant du tarif le plus bas. Si cette dernière période bénéficie
+d'une exonération tarifaire, correspondant à une gratuité totale, la modulation prévue pour la période au tarif le plus élevé
+n'excède pas 50 % du montant du péage normalement applicable au véhicule en cause. 
+
+La structure de ces différentes modulations est examinée tous les ans et les modifications qui en découlent sont mises en
+œuvre l'année suivante. 
+
+Ces dispositions s'appliquent dès le renouvellement des contrats de délégation de service public mentionnés à l'article L.
+122-4 en cours. Elles ne s'appliquent pas aux contrats initiaux en vue desquels une consultation a été engagée avant le 1er
+avril 2012.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-315 du 5 mars 2012 - art. 1
+
+_Cite_:
+
+  - Code de la voirie routière - art. L122-4
+
+_Cité par_:
+
+  - Code de la voirie routière - art. R*119-37 (V)
+
+
+###### Article R*119-35
+
+Les véhicules de transport de personnes par route non munis d'un équipement embarqué d'identification et de perception du
+péage reconnu par le percepteur de péage acquittent le tarif de péage modulé correspondant à la classe EURO au tarif le plus
+élevé en vigueur pour le trajet réellement effectué, sauf si leur conducteur peut produire un justificatif attestant de la
+classe EURO du véhicule.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-315 du 5 mars 2012 - art. 1
+
+
+###### Article R*119-36
+
+Lorsque le tarif de péage modulé correspondant à la classe EURO au tarif le plus élevé en vigueur pour le trajet réellement
+effectué a été appliqué en l'absence de justificatifs, le remboursement du trop-perçu correspondant à la différence entre le
+tarif de la classe EURO du véhicule et le tarif réellement acquitté peut être demandé, sur production de justificatifs, au
+percepteur de péage. Un arrêté du ministre chargé de la voirie nationale précise la liste des justificatifs nécessaires au
+remboursement du trop-perçu, ainsi que les modalités de remboursement. 
+
+Le percepteur de péage peut facturer au demandeur les frais relatifs à la transaction bancaire réalisée pour le remboursement
+mentionné au premier alinéa.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-315 du 5 mars 2012 - art. 1
+
+
+###### Article R*119-37
+
+Chaque percepteur de péage informe, par tout moyen approprié, les usagers de son secteur de péage des dispositions des
+articles R. * 119-34 à R. * 119-36.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-315 du 5 mars 2012 - art. 1
+
+_Cite_:
+
+  - Code de la voirie routière - art. R*119-34 (V)
+
+
+## TITRE II : Voirie nationale.<a id=95></a>
+
+### Chapitre Ier : Dispositions communes aux autoroutes et aux routes nationales.<a id=96></a>
 
 ###### Article R*121-1
 
@@ -6422,9 +6922,9 @@ _Anciens textes_:
   - Code du domaine de l'Etat r53 renvoi
 
 
-### Chapitre II : Autoroutes.<a id=90></a>
+### Chapitre II : Autoroutes.<a id=97></a>
 
-#### Section 1 : Dispositions générales.<a id=91></a>
+#### Section 1 : Dispositions générales.<a id=98></a>
 
 ###### Article R*122-1
 
@@ -6667,9 +7167,9 @@ _Cite_:
   - Code de la voirie routière - art. L122-4 (M)
 
 
-#### Section 2 : Dispositions financières.<a id=92></a>
+#### Section 2 : Dispositions financières.<a id=99></a>
 
-##### Sous-section 1 : Caisse nationale des autoroutes.<a id=93></a>
+##### Sous-section 1 : Caisse nationale des autoroutes.<a id=100></a>
 
 ###### Article R*122-6
 
@@ -6924,7 +7424,7 @@ _Créé par_:
   - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
 
 
-##### Sous-section 2 : Autoroutes de France.<a id=94></a>
+##### Sous-section 2 : Autoroutes de France.<a id=101></a>
 
 ###### Article R*122-16
 
@@ -7265,7 +7765,7 @@ _Cite_:
   - Code de la voirie routière - art. R*122-21 (M)
 
 
-#### Section 3 : Redevance domaniale.<a id=95></a>
+#### Section 3 : Redevance domaniale.<a id=102></a>
 
 ###### Article R122-27
 
@@ -7318,9 +7818,9 @@ _Nouveaux textes_:
   - Code de la voirie routière - art. R122-48 (V)
 
 
-### Chapitre III : Routes nationales.<a id=96></a>
+### Chapitre III : Routes nationales.<a id=103></a>
 
-#### Section 1 : Classement et déclassement.<a id=97></a>
+#### Section 1 : Classement et déclassement.<a id=104></a>
 
 ###### Article R*123-1
 
@@ -7370,7 +7870,7 @@ _Cite_:
   - Code de la voirie routière - art. L123-3 (V)
 
 
-#### Section 2 : Alignement.<a id=98></a>
+#### Section 2 : Alignement.<a id=105></a>
 
 ###### Article R*123-3
 
@@ -7437,7 +7937,7 @@ _Cite_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R12-1 (V)
 
 
-#### Section 3 : Disposition relative à la création de voies accédant aux routes nationales.<a id=99></a>
+#### Section 3 : Disposition relative à la création de voies accédant aux routes nationales.<a id=106></a>
 
 ###### Article R*123-5
 
@@ -7462,11 +7962,11 @@ _Anciens textes_:
   - Décret-loi 1938-05-24 art. 4 (partie)
 
 
-## TITRE III : Voirie départementale.<a id=100></a>
+## TITRE III : Voirie départementale.<a id=107></a>
 
-### Chapitre unique.<a id=101></a>
+### Chapitre unique.<a id=108></a>
 
-#### Section 1 : Caractéristiques techniques du domaine public routier départemental.<a id=102></a>
+#### Section 1 : Caractéristiques techniques du domaine public routier départemental.<a id=109></a>
 
 ###### Article R*131-1
 
@@ -7514,7 +8014,7 @@ _Modifié par_:
   - Décret n°93-1133 du 22 septembre 1993 - art. 1 () JORF 30 septembre 1993
 
 
-#### Section 2 : Enquête publique relative au classement, au déclassement, à l'établissement des plans d'alignement et de nivellement, à l'ouverture, au redressement et à l'élargissement des routes départementales.<a id=103></a>
+#### Section 2 : Enquête publique relative au classement, au déclassement, à l'établissement des plans d'alignement et de nivellement, à l'ouverture, au redressement et à l'élargissement des routes départementales.<a id=110></a>
 
 ###### Article R*131-3
 
@@ -7669,7 +8169,7 @@ _Créé par_:
   - Décret n°93-1133 du 22 septembre 1993 - art. 2 () JORF 30 septembre 1993
 
 
-#### Section 3 : Dispositions relatives à la coordination des travaux exécutés sur les routes départementales.<a id=104></a>
+#### Section 3 : Dispositions relatives à la coordination des travaux exécutés sur les routes départementales.<a id=111></a>
 
 ###### Article R*131-9
 
@@ -7770,13 +8270,13 @@ _Anciens textes_:
   - Code de la voirie routière R131-5
 
 
-## TITRE IV : Voirie communale.<a id=105></a>
+## TITRE IV : Voirie communale.<a id=112></a>
 
-### Chapitre unique<a id=106></a>
+### Chapitre unique<a id=113></a>
 
-#### Section 1 : Emprise du domaine public routier communal.<a id=107></a>
+#### Section 1 : Emprise du domaine public routier communal.<a id=114></a>
 
-##### Sous-section 1 : Alignement et caractéristiques techniques.<a id=108></a>
+##### Sous-section 1 : Alignement et caractéristiques techniques.<a id=115></a>
 
 ###### Article R*141-1
 
@@ -7848,7 +8348,7 @@ _Créé par_:
   - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
 
 
-##### Sous-section 2 : Enquête publique relative au classement, à l'ouverture, au redressement, à la fixation de la largeur et au déclassement des voies communales.<a id=109></a>
+##### Sous-section 2 : Enquête publique relative au classement, à l'ouverture, au redressement, à la fixation de la largeur et au déclassement des voies communales.<a id=116></a>
 
 ###### Article R*141-4
 
@@ -8046,7 +8546,7 @@ _Créé par_:
   - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
 
 
-##### Sous-section 3 : Publicité foncière.<a id=110></a>
+##### Sous-section 3 : Publicité foncière.<a id=117></a>
 
 ###### Article R*141-11
 
@@ -8068,7 +8568,7 @@ _Cité par_:
   - Code de la voirie routière - art. R172-1 (V)
 
 
-#### Section 3 : Coordination des travaux exécutés sur les voies communales situées à l'extérieur des agglomérations.<a id=111></a>
+#### Section 3 : Coordination des travaux exécutés sur les voies communales situées à l'extérieur des agglomérations.<a id=118></a>
 
 ###### Article R*141-12
 
@@ -8099,7 +8599,7 @@ _Cite_:
   - Code de la voirie routière - art. R*115-4 (V)
 
 
-#### Section 4 : Dispositions relatives aux travaux affectant le sol et le sous-sol des voies communales.<a id=112></a>
+#### Section 4 : Dispositions relatives aux travaux affectant le sol et le sous-sol des voies communales.<a id=119></a>
 
 ###### Article R*141-13
 
@@ -8360,7 +8860,7 @@ _Cité par_:
   - Code de la voirie routière - art. R*141-18 (V)
 
 
-#### Section 5 : Dispositions applicables dans le cas où il existe un établissement public de coopération intercommunale.<a id=113></a>
+#### Section 5 : Dispositions applicables dans le cas où il existe un établissement public de coopération intercommunale.<a id=120></a>
 
 ###### Article R*141-22
 
@@ -8378,9 +8878,9 @@ _Créé par_:
   - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
 
 
-## TITRE V : Voies à statuts particuliers.<a id=114></a>
+## TITRE V : Voies à statuts particuliers.<a id=121></a>
 
-### Chapitre Ier : Routes express.<a id=115></a>
+### Chapitre Ier : Routes express.<a id=122></a>
 
 ###### Article R*151-2
 
@@ -8542,7 +9042,7 @@ _Cite_:
   - Code de la voirie routière - art. L151-2
 
 
-### Chapitre II : Déviations.<a id=116></a>
+### Chapitre II : Déviations.<a id=123></a>
 
 ###### Article R*152-2
 
@@ -8610,9 +9110,9 @@ _Cite_:
   - Code de la route. - art. L110-3 (M)
 
 
-### Chapitre III : Ouvrages d'art.<a id=117></a>
+### Chapitre III : Ouvrages d'art.<a id=124></a>
 
-#### Section 1 : Dispositions générales.<a id=118></a>
+#### Section 1 : Dispositions générales.<a id=125></a>
 
 ###### Article R*153-1
 
@@ -8638,7 +9138,7 @@ _Cite_:
   - Code de la voirie routière - art. L153-1
 
 
-#### Section 2: Dispositions particulières.<a id=119></a>
+#### Section 2: Dispositions particulières.<a id=126></a>
 
 ###### Article R*153-3
 
@@ -8666,9 +9166,9 @@ _Créé par_:
   - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
 
 
-## TITRE VI : Dispositions applicables aux voies n'appartenant pas au domaine public.<a id=120></a>
+## TITRE VI : Dispositions applicables aux voies n'appartenant pas au domaine public.<a id=127></a>
 
-### Chapitre Ier : Chemins ruraux.<a id=121></a>
+### Chapitre Ier : Chemins ruraux.<a id=128></a>
 
 ###### Article R*161-1
 
@@ -8708,9 +9208,9 @@ _Cite_:
   - Code de la voirie routière R*113-1, R*115-1 à R*115-4, R*141-12 à R*141-21
 
 
-### Chapitre II : Voies privées.<a id=122></a>
+### Chapitre II : Voies privées.<a id=129></a>
 
-#### Section 1 : Dispositions générales.<a id=123></a>
+#### Section 1 : Dispositions générales.<a id=130></a>
 
 ###### Article R*162-1
 
@@ -8731,7 +9231,7 @@ _Cite_:
   - Code de la voirie routière - art. R*113-1 (V)
 
 
-#### Section 3 : Autres voies privées.<a id=124></a>
+#### Section 3 : Autres voies privées.<a id=131></a>
 
 ###### Article R*162-2
 
@@ -8758,7 +9258,7 @@ _Cite_:
   - Code de la voirie routière L162-5 Code de l'urbanisme R318-10, R318-11, R318-12
 
 
-### Chapitre III : Dispositions communes.<a id=125></a>
+### Chapitre III : Dispositions communes.<a id=132></a>
 
 ###### Article R*163-1
 
@@ -8785,11 +9285,11 @@ _Cite_:
   - Code de la voirie routière - art. R*111-1 (M)
 
 
-## TITRE VII : Dispositions particulières.<a id=126></a>
+## TITRE VII : Dispositions particulières.<a id=133></a>
 
-### Chapitre Ier : Dispositions applicables à la ville de Paris.<a id=127></a>
+### Chapitre Ier : Dispositions applicables à la ville de Paris.<a id=134></a>
 
-#### Section 1 : Voies publiques.<a id=128></a>
+#### Section 1 : Voies publiques.<a id=135></a>
 
 ###### Article R*171-1
 
@@ -8920,7 +9420,7 @@ _Anciens textes_:
   - Décret-loi 1935-10-30 art. 9 (partie)
 
 
-#### Section 2 : Voies privées.<a id=129></a>
+#### Section 2 : Voies privées.<a id=136></a>
 
 ###### Article R*171-6
 
@@ -8972,7 +9472,7 @@ _Anciens textes_:
   - Loi n°1930-05-15 art. 3 al. 1 (partie)
 
 
-#### Section 3 : Coordination des travaux.<a id=130></a>
+#### Section 3 : Coordination des travaux.<a id=137></a>
 
 ###### Article R*171-8
 
@@ -8998,7 +9498,7 @@ _Cite_:
   - Code de la voirie routière - art. R*115-2 (V)
 
 
-### Chapitre III : Dispositions diverses.<a id=131></a>
+### Chapitre III : Dispositions diverses.<a id=138></a>
 
 ###### Article R*173-1
 
