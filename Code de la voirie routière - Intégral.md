@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2012-05-11
+Version Consolidée au 2012-07-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L173-3)](#1)
     - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. L111-1 à L119-10)](#2)
@@ -738,17 +738,13 @@ _Cite_:
 ###### Article L114-7
 
 Les riverains des voies publiques peuvent être contraints de respecter les règles de gestion forestière prévues à l'article
-L. 322-6 du code forestier.
+L. 131-8 du nouveau code forestier.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
-
-_Créé par_:
-
-  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
+  - Ordonnance n°2012-92 du 26 janvier 2012 - art. 5
 
 _Cité par_:
 
@@ -756,41 +752,31 @@ _Cité par_:
   - Code de la voirie routière - art. L162-3 (V)
   - Code de la voirie routière - art. L172-1 (V)
 
-**Liens**:
-
-  - TXT_ASSOCIE: Code de la voirie routière - art. L172-1 (V)
-
 _Cite_:
 
-  - Code forestier - art. L322-6 (Ab)
+  - Code forestier (nouveau) - art. L131-8 (V)
 
 
 ###### Article L114-8
 
 Les opérations de débroussaillement des abords des voies publiques peuvent être exécutées dans les conditions prévues aux
-articles L. 322-7 et L. 322-8 du code forestier.
+articles L. 134-10, L131-16 et L. 134-12 du nouveau code forestier.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
+  - Ordonnance n°2012-92 du 26 janvier 2012 - art. 5
 
-_Créé par_:
+_Cite_:
 
-  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
+  - Code forestier (nouveau) - art. L131-16 (V)
+  - Code forestier (nouveau) - art. L134-10 (V)
+  - Code forestier (nouveau) - art. L134-12 (V)
 
 _Cité par_:
 
   - Code de la voirie routière - art. L161-2 (V)
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code de la voirie routière - art. L172-1 (V)
-
-_Cite_:
-
-  - Code forestier - art. L322-7 (Ab)
 
 
 ### Chapitre V : Travaux.<a id=11></a>
