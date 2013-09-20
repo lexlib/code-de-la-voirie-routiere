@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2013-07-18
+Version Consolidée au 2013-09-21
 ## Contenu: 
   - [Partie législative (art. L111-1 à L173-3)](#1)
     - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. L111-1 à L119-10)](#2)
@@ -89,9 +89,9 @@ de marchandises par route (art. L119-5 à L119-8)](#21)
           - [Sous-section 2 : Equipements non soumis au marquage CE (art. R**119-5 à R*119-4)](#85)
         - [Section 3 : Règles de mise en service (art. R*119-6 à R119-10)](#86)
         - [Section 4 : Dispositions diverses (art. R119-11 à R119-12)](#87)
-      - [Chapitre X : Dispositions relatives au péage (art. R*119-13 à R*119-37)](#88)
-        - [Section 1 : Service européen de télépéage (art. R*119-13 à R*119-31)](#89)
-          - [Sous-section 1 : Les obligations des percepteurs de péage enregistrés en France (art. R*119-13 à R*119-20)](#90)
+      - [Chapitre X : Dispositions relatives au péage (art. D119-20-1 à R*119-37)](#88)
+        - [Section 1 : Service européen de télépéage (art. D119-20-1 à R*119-31)](#89)
+          - [Sous-section 1 : Les obligations des percepteurs de péage enregistrés en France (art. D119-20-1 à R*119-20)](#90)
           - [Sous-section 2 : Les obligations des prestataires du service européen de télépéage enregistrés en France (art. R*119-21 à R*119-28)](#91)
           - [Sous-section 3 : Les obligations des utilisateurs du service européen de télépéage (art. R*119-29 à R*119-31)](#92)
         - [Section 2 : Péages applicables aux véhicules de transport de marchandises par route (art. R*119-32 à R*119-33)](#93)
@@ -6426,6 +6426,23 @@ _Cite_:
 #### Section 1 : Service européen de télépéage<a id=89></a>
 
 ##### Sous-section 1 : Les obligations des percepteurs de péage enregistrés en France<a id=90></a>
+
+###### Article D119-20-1
+
+Les ouvrages mentionnés au second alinéa de l'article L. 119-2 sont ceux dont le chiffre d'affaires annuel est inférieur ou
+égal à 50 millions d'euros. Ce montant est réévalué chaque année en fonction de l'évolution de l'indice des prix à la
+consommation hors tabac constatée l'année précédente.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2013-840 du 18 septembre 2013 - art. 1
+
+_Cite_:
+
+  - Code de la voirie routière - art. L119-2
+
 
 ###### Article R*119-13
 
