@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2013-09-21
+Version Consolidée au 2013-11-29
 ## Contenu: 
   - [Partie législative (art. L111-1 à L173-3)](#1)
     - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. L111-1 à L119-10)](#2)
@@ -2010,26 +2010,22 @@ _Cité par_:
 ###### Article L123-3
 
 Le reclassement dans la voirie départementale ou communale d'une route ou section de route nationale déclassée est prononcé
-par l'autorité administrative lorsque la collectivité intéressée dûment consultée n'a pas, dans un délai de cinq mois, donné
-un avis défavorable.
+par l'autorité administrative lorsque la collectivité intéressée, dûment consultée, n'a pas, dans un délai de cinq mois,
+donné un avis défavorable. 
 
-En cas d'avis défavorable dans ce délai, le reclassement peut être prononcé par décret en Conseil d'Etat lorsque ce
-déclassement de la section de voie est motivé par l'ouverture d'une voie nouvelle ou le changement de tracé d'une voie
-existante.
+Si, dans ce délai, la collectivité territoriale donne un avis défavorable, le reclassement d'une route ou section de route
+nationale ne répondant pas aux critères définis à l'avant-dernier alinéa de l'article L. 121-1 peut être prononcé par décret
+en Conseil d'Etat. 
+
+Le reclassement donne droit à une compensation financière correspondant aux coûts des travaux nécessaires à la remise en état
+de la route ou section de route nationale, hors accotements en agglomération. Ces coûts sont évalués contradictoirement, à la
+date du reclassement, entre l'Etat et la collectivité territoriale ou, à défaut d'accord, fixés par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Loi n°69-7 1969-01-03 art. 6 Décret 73-981 1973-10-18 art. 4
-
 _Codifié par_:
 
-  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
-
-_Créé par_:
-
-  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
+  - Loi n°89-413 du 22 juin 1989
 
 _Cité par_:
 
@@ -2037,6 +2033,14 @@ _Cité par_:
   - Code de la voirie routière - art. L131-4 (M)
   - Code de la voirie routière - art. L141-3 (M)
   - Code de la voirie routière - art. R*123-2 (V)
+
+_Modifié par_:
+
+  - Loi n°2013-431 du 28 mai 2013 - art. 10 (V)
+
+_Cite_:
+
+  - Code de la voirie routière - art. L121-1 (V)
 
 
 ###### Article L123-4
