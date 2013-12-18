@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2013-11-29
+Version Consolidée au 2013-12-19
 ## Contenu: 
   - [Partie législative (art. L111-1 à L173-3)](#1)
     - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. L111-1 à L119-10)](#2)
@@ -94,7 +94,7 @@ de marchandises par route (art. L119-5 à L119-8)](#21)
           - [Sous-section 1 : Les obligations des percepteurs de péage enregistrés en France (art. D119-20-1 à R*119-20)](#90)
           - [Sous-section 2 : Les obligations des prestataires du service européen de télépéage enregistrés en France (art. R*119-21 à R*119-28)](#91)
           - [Sous-section 3 : Les obligations des utilisateurs du service européen de télépéage (art. R*119-29 à R*119-31)](#92)
-        - [Section 2 : Péages applicables aux véhicules de transport de marchandises par route (art. R*119-32 à R*119-33)](#93)
+        - [Section 2 : Péages applicables aux véhicules de transport de marchandises par route (art. D119-31-1 à R*119-33)](#93)
         - [Section 3 : Péages applicables aux véhicules de transport de personnes par route (art. R*119-34 à R*119-37)](#94)
     - [TITRE II : Voirie nationale. (art. R*121-1 à R*123-5)](#95)
       - [Chapitre Ier : Dispositions communes aux autoroutes et aux routes nationales. (art. R*121-1)](#96)
@@ -6807,6 +6807,44 @@ _Créé par_:
 
 
 #### Section 2 : Péages applicables aux véhicules de transport de marchandises par route<a id=93></a>
+
+###### Article D119-31-1
+
+Le montant acquitté au titre du péage modulé en application du II de l'article L. 119-7 ne peut être supérieur de plus de 100
+% au péage qui serait acquitté, dans les mêmes conditions, par les véhicules équivalents qui respectent les normes d'émission
+EURO les plus strictes.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2013-1167 du 14 décembre 2013 - art. 1
+
+_Cite_:
+
+  - Code de la voirie routière - art. L119-7
+
+
+###### Article D119-31-2
+
+Le montant acquitté au titre du péage modulé en application du IV de l'article L. 119-7 ne doit pas correspondre à un taux
+kilométrique supérieur de plus de 75 % au taux kilométrique moyen prévu à l'article 1er du décret n° 95-81 du 24 janvier 1995
+relatif aux péages autoroutiers, pour chaque classe de véhicules considérée. 
+
+Les périodes cumulées pendant lesquelles le péage modulé le plus élevé est perçu, en application du présent article,
+n'excèdent pas cinq heures par jour.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°95-81 du 24 janvier 1995
+  - Code de la voirie routière - art. L119-7
+
+_Créé par_:
+
+  - Décret n°2013-1167 du 14 décembre 2013 - art. 1
+
 
 ###### Article R*119-32
 
