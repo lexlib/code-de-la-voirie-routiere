@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2015-01-01
+Version Consolidée au 2015-03-22
 ## Contenu: 
   - [Partie législative (art. L111-1 à L173-3)](#1)
     - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. L111-1 à L119-10)](#2)
@@ -257,8 +257,8 @@ _Cité par_:
 
 ###### Article L112-3
 
-L'alignement individuel est délivré par le représentant de l'Etat dans le département, le président du conseil général ou le
-maire, selon qu'il s'agit d'une route nationale, d'une route départementale ou d'une voie communale.
+L'alignement individuel est délivré par le représentant de l'Etat dans le département, le président du conseil départemental
+ou le maire, selon qu'il s'agit d'une route nationale, d'une route départementale ou d'une voie communale. 
 
 Dans les agglomérations, lorsque le maire n'est pas compétent pour délivrer l'alignement, il doit obligatoirement être
 consulté.
@@ -271,11 +271,11 @@ consulté.
 
 _Codifié par_:
 
-  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
+  - Loi n°89-413 du 22 juin 1989
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
+  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 
 ###### Article L112-4
@@ -637,8 +637,8 @@ Ce plan est soumis à une enquête publique ouverte par l'autorité exécutive d
 l'établissement public de coopération intercommunale, propriétaire de la voie, et organisée conformément aux dispositions du
 code de l'expropriation pour cause d'utilité publique. 
 
-Il est approuvé par le représentant de l'Etat dans le département, le conseil général ou le conseil municipal, selon qu'il
-s'agit d'une route nationale, d'une route départementale ou d'une voie communale.
+Il est approuvé par le représentant de l'Etat dans le département, le conseil départemental  ou le conseil municipal, selon
+qu'il s'agit d'une route nationale, d'une route départementale ou d'une voie communale.
 
 **Nota:**
 
@@ -648,7 +648,7 @@ s'agit d'une route nationale, d'une route départementale ou d'une voie communal
 
 _Modifié par_:
 
-  - Loi n°2010-788 du 12 juillet 2010 - art. 242
+  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 _Cité par_:
 
@@ -940,7 +940,7 @@ _Anciens textes_:
 
 Les procès-verbaux des infractions à la police de la conservation du domaine public routier sont transmis au procureur de la
 République et, suivant l'appartenance de la voie au domaine public routier de l'Etat ou d'une collectivité territoriale, soit
-au représentant de l'Etat dans le département, soit au président du conseil général ou au maire.
+au représentant de l'Etat dans le département, soit au président du conseil départemental  ou au maire.
 
 **Nota:**
 
@@ -950,15 +950,11 @@ au représentant de l'Etat dans le département, soit au président du conseil g
 
 _Codifié par_:
 
-  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
+  - Loi n°89-413 du 22 juin 1989
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
-
-_Anciens textes_:
-
-  - Ordonnance 58-1351 1951-12-27 art. 4
+  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 
 ###### Article L116-4
@@ -2241,8 +2237,8 @@ _Cité par_:
 
 ###### Article L131-3
 
-Le président du conseil général exerce sur la voirie départementale les attributions mentionnées à l'article L3221-4 du code
-général des collectivités territoriales.
+Le président du conseil départemental exerce sur la voirie départementale les attributions mentionnées à l'article L. 3221-4
+du code général des collectivités territoriales.
 
 **Nota:**
 
@@ -2252,11 +2248,11 @@ général des collectivités territoriales.
 
 _Modifié par_:
 
-  - Loi n°96-142 du 21 février 1996 - art.12, v. init.
+  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 _Cite_:
 
-  - Code général des collectivités territoriales - art. L3221-4 (VT)
+  - Code général des collectivités territoriales - art. L3221-4 (V)
 
 _Cité par_:
 
@@ -2265,12 +2261,13 @@ _Cité par_:
 
 ###### Article L131-4
 
-Le classement et le déclassement des routes départementales relèvent du conseil général. Ce dernier est également compétent
-pour l'établissement des plans d'alignement et de nivellement, l'ouverture, le redressement et l'élargissement de ces routes.
+Le classement et le déclassement des routes départementales relèvent du conseil départemental . Ce dernier est également
+compétent pour l'établissement des plans d'alignement et de nivellement, l'ouverture, le redressement et l'élargissement de
+ces routes. 
 
-Les délibérations du conseil général concernant le classement ou le déclassement sont dispensées d'enquête publique préalable
-sauf lorsque l'opération envisagée a pour conséquence de porter atteinte aux fonctions de desserte ou de circulation assurées
-par la voie.
+Les délibérations du conseil départemental  concernant le classement ou le déclassement sont dispensées d'enquête publique
+préalable sauf lorsque l'opération envisagée a pour conséquence de porter atteinte aux fonctions de desserte ou de
+circulation assurées par la voie. 
 
 A défaut d'enquête relevant d'une autre réglementation et ayant porté sur ce classement ou déclassement, l'enquête rendue
 nécessaire en vertu du deuxième alinéa est ouverte par l'autorité exécutive de la collectivité territoriale ou de
@@ -2278,10 +2275,10 @@ l'établissement public de coopération intercommunale, propriétaire de la voie
 code de l'expropriation pour cause d'utilité publique. 
 
 Lorsque l'opération comporte une expropriation, l'enquête d'utilité publique tient lieu de l'enquête prévue à l'alinéa
-précédent.
+précédent. 
 
-Le conseil général est également compétent pour approuver les projets, les plans et les devis des travaux à exécuter pour la
-construction et la rectification des routes.
+Le conseil départemental  est également compétent pour approuver les projets, les plans et les devis des travaux à exécuter
+pour la construction et la rectification des routes.
 
 **Nota:**
 
@@ -2296,14 +2293,18 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-788 du 12 juillet 2010 - art. 242
+  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
+
+_Cite_:
+
+  - Code de la voirie routière
 
 
 ###### Article L131-5
 
-La délibération du conseil général décidant le redressement ou l'élargissement d'une voie existante emporte, lorsqu'elle est
-exécutoire, transfert au profit du département de la propriété des parcelles ou partie de parcelles non bâties situées à
-l'intérieur des limites fixées par le plan parcellaire, auquel elle se réfère et qui lui est annexé.
+La délibération du conseil départemental  décidant le redressement ou l'élargissement d'une voie existante emporte,
+lorsqu'elle est exécutoire, transfert au profit du département de la propriété des parcelles ou partie de parcelles non
+bâties situées à l'intérieur des limites fixées par le plan parcellaire, auquel elle se réfère et qui lui est annexé. 
 
 A défaut d'accord amiable, l'indemnité est fixée et payée comme en matière d'expropriation.
 
@@ -2313,21 +2314,17 @@ A défaut d'accord amiable, l'indemnité est fixée et payée comme en matière 
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°1938-10-25 art. 14
-
 _Codifié par_:
 
-  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
-
-_Créé par_:
-
-  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
+  - Loi n°89-413 du 22 juin 1989
 
 _Cité par_:
 
   - Loi n°89-413 du 22 juin 1989 - art. 3 (V)
+
+_Modifié par_:
+
+  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 
 ###### Article L131-6
@@ -2352,13 +2349,13 @@ _Cite_:
 
 ###### Article L131-7
 
-En dehors des agglomérations, le président du conseil général exerce, en matière de coordination des travaux affectant le sol
-et le sous-sol des routes départementales, les compétences attribuées au maire par l'article L. 115-1. 
+En dehors des agglomérations, le président du conseil départemental  exerce, en matière de coordination des travaux affectant
+le sol et le sous-sol des routes départementales, les compétences attribuées au maire par l'article L. 115-1. 
 
-Le conseil général exerce les mêmes attributions que celles dévolues au conseil municipal par l'article L. 141-11. 
+Le conseil départemental  exerce les mêmes attributions que celles dévolues au conseil municipal par l'article L. 141-11. 
 
-En cas d'urgence, le président du conseil général peut faire exécuter d'office, sans mise en demeure préalable et aux frais
-de l'occupant, les travaux qu'il juge nécessaires au maintien de la sécurité routière sur les routes départementales. 
+En cas d'urgence, le président du conseil départemental  peut faire exécuter d'office, sans mise en demeure préalable et aux
+frais de l'occupant, les travaux qu'il juge nécessaires au maintien de la sécurité routière sur les routes départementales. 
 
 Le représentant de l'Etat dans le département peut intervenir dans les mêmes conditions que celles prévues au septième alinéa
 de l'article L. 115-1.
@@ -2369,17 +2366,13 @@ de l'article L. 115-1.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Loi n°83-663 du 22 juillet 1983 - art. 122 (Ab)
-
 _Codifié par_:
 
-  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
+  - Loi n°89-413 du 22 juin 1989
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
+  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 _Cité par_:
 
@@ -2389,8 +2382,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la voirie routière - art. L115-1 (V)
-  - Code de la voirie routière - art. L141-11 (V)
+  - Code de la voirie routière - art. L115-1
+  - Code de la voirie routière - art. L141-11
 
 
 ###### Article L131-8
@@ -4154,19 +4147,19 @@ _Anciens textes_:
 
 Ainsi qu'il est dit à l'article L. 321-11 du code de l'environnement ci-après reproduit : 
 
-" Art.L. 321-11-A la demande de la majorité des communes ou des groupements de communes compétents en matière d'aménagement,
-d'urbanisme ou d'environnement d'une île maritime reliée au continent par un ouvrage d'art, le conseil général peut instituer
-un droit départemental de passage dû par les passagers de chaque véhicule terrestre à moteur empruntant cet ouvrage entre le
-continent et l'île. 
+" Art. L. 321-11-A la demande de la majorité des communes ou des groupements de communes compétents en matière d'aménagement,
+d'urbanisme ou d'environnement d'une île maritime reliée au continent par un ouvrage d'art, le conseil départemental  peut
+instituer un droit départemental de passage dû par les passagers de chaque véhicule terrestre à moteur empruntant cet ouvrage
+entre le continent et l'île. 
 
 Le droit mentionné au premier alinéa est établi et recouvré au profit du département. Il peut être perçu par l'exploitant de
 l'ouvrage en vue du reversement au département. 
 
-Le montant de ce droit est fixé par le conseil général après accord avec la majorité des communes et groupements de communes
-mentionnés au premier alinéa. 
+Le montant de ce droit est fixé par le conseil départemental  après accord avec la majorité des communes et groupements de
+communes mentionnés au premier alinéa. 
 
 Le montant du droit de passage est au plus égal au produit d'un montant forfaitaire de 20 par un coefficient, compris entre
-0, 2 et 3, en fonction de la classe du véhicule déterminée d'après sa silhouette, appréciée en tenant compte, s'il y a lieu,
+0,2 et 3, en fonction de la classe du véhicule déterminée d'après sa silhouette, appréciée en tenant compte, s'il y a lieu,
 de la présence d'une remorque tractée et de ses caractéristiques techniques. 
 
 Lorsqu'est perçu le droit départemental mentionné au premier alinéa, l'usage de l'ouvrage d'art entre le continent et l'île
@@ -4181,22 +4174,22 @@ puisse excéder trois fois le montant forfaitaire mentionné au quatrième alin�
 Le cas échéant, les frais de perception du droit départemental de passage et de la redevance pour services rendus s'imputent
 à due concurrence sur les produits de ceux-ci. 
 
-La délibération du conseil général sur le droit de passage peut prévoir des tarifs différents ou la gratuité, sans préjudice
-de la modulation éventuelle de la redevance d'usage, selon les diverses catégories d'usagers pour tenir compte soit d'une
-nécessité d'intérêt général en rapport avec les espaces naturels protégés, soit de la situation particulière de certains
-usagers et, notamment, de ceux qui ont leur domicile ou leur lieu de travail dans l'île concernée, ou leur domicile dans le
-département concerné, soit de l'accomplissement d'une mission de service public. 
+La délibération du conseil départemental  sur le droit de passage peut prévoir des tarifs différents ou la gratuité, sans
+préjudice de la modulation éventuelle de la redevance d'usage, selon les diverses catégories d'usagers pour tenir compte soit
+d'une nécessité d'intérêt général en rapport avec les espaces naturels protégés, soit de la situation particulière de
+certains usagers et, notamment, de ceux qui ont leur domicile ou leur lieu de travail dans l'île concernée, ou leur domicile
+dans le département concerné, soit de l'accomplissement d'une mission de service public. 
 
 Le produit du droit départemental de passage est inscrit au budget du département après déduction des coûts liés à sa
 perception ainsi que des coûts liés aux opérations de gestion et de protection des espaces naturels insulaires dont le
 département est le maître d'ouvrage ; les sommes correspondantes sont destinées au financement de mesures de protection et de
 gestion des espaces naturels insulaires ainsi que du développement de transports en commun fonctionnant avec des véhicules
-propres, dans le cadre d'une convention conclue entre le préfet, le conseil général et les communes et les groupements de
-communes. La fraction du produit revenant aux communes et groupements concernés en application de cette convention leur est
-reversée par le département. Les collectivités peuvent rétrocéder tout ou partie de ces sommes aux gestionnaires des espaces
-naturels protégés mentionnés au huitième alinéa, dans le cadre d'une convention conclue à cet effet. 
+propres, dans le cadre d'une convention conclue entre le préfet, le conseil départemental  et les communes et les groupements
+de communes. La fraction du produit revenant aux communes et groupements concernés en application de cette convention leur
+est reversée par le département. Les collectivités peuvent rétrocéder tout ou partie de ces sommes aux gestionnaires des
+espaces naturels protégés mentionnés au huitième alinéa, dans le cadre d'une convention conclue à cet effet. 
 
-Un décret en Conseil d'Etat précise les conditions d'application du présent article."
+Un décret en Conseil d'Etat précise les conditions d'application du présent article. "
 
 **Nota:**
 
@@ -4206,7 +4199,7 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent a
 
 _Modifié par_:
 
-  - Loi n°2009-1503 du 8 décembre 2009 - art. 37 (V)
+  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 _Nouveaux textes_:
 
@@ -4218,6 +4211,10 @@ _Cité par_:
   - Code de la voirie routière - art. R*173-3 (Ab)
   - Code de la voirie routière - art. R*173-4 (Ab)
   - Code de la voirie routière - art. R*173-5 (Ab)
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de l'environnement - art. L321-11
 
 
 # Partie réglementaire<a id=62></a>
@@ -4402,23 +4399,19 @@ _Cité par_:
 
 ###### Article R*112-3
 
-Des arrêtés portant règlement de voirie pris par le préfet, le président du conseil général ou le maire, selon qu'il s'agit
-d'une route nationale, d'une route départementale ou d'une voie communale, fixent les dimensions maximales des saillies
-autorisées.
-
-**Nota:**
-
-
+Des arrêtés portant règlement de voirie pris par le préfet, le président du conseil départemental ou le maire, selon qu'il
+s'agit d'une route nationale, d'une route départementale ou d'une voie communale, fixent les dimensions maximales des
+saillies autorisées.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°89-631 1989-09-04
+  - Décret n°89-631 du 4 septembre 1989
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 
 ### Chapitre III : Utilisation.<a id=69></a>
@@ -8025,23 +8018,19 @@ _Modifié par_:
 
 ###### Article R*131-2
 
-Le président du conseil général peut interdire d'une manière temporaire ou permanente l'usage de tout ou partie du réseau des
-routes départementales aux catégories de véhicules dont les caractéristiques sont incompatibles avec la constitution de ces
-routes, et notamment avec la résistance et la largeur de la chaussée ou des ouvrages d'art.
-
-**Nota:**
-
-
+Le président du conseil départemental peut interdire d'une manière temporaire ou permanente l'usage de tout ou partie du
+réseau des routes départementales aux catégories de véhicules dont les caractéristiques sont incompatibles avec la
+constitution de ces routes, et notamment avec la résistance et la largeur de la chaussée ou des ouvrages d'art.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°89-631 1989-09-04
+  - Décret n°89-631 du 4 septembre 1989
 
 _Modifié par_:
 
-  - Décret n°93-1133 du 22 septembre 1993 - art. 1 () JORF 30 septembre 1993
+  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 
 #### Section 2 : Enquête publique relative au classement, au déclassement, à l'établissement des plans d'alignement et de nivellement, à l'ouverture, au redressement et à l'élargissement des routes départementales.<a id=110></a>
@@ -8051,7 +8040,7 @@ _Modifié par_:
 L'enquête publique prévue au deuxième alinéa de l'article L. 131-4 s'effectue dans les conditions fixées par la présente
 section. 
 
-Un arrêté du président du conseil général désigne un commissaire enquêteur ou une commission d'enquête dont il nomme le
+Un arrêté du président du conseil départemental désigne un commissaire enquêteur ou une commission d'enquête dont il nomme le
 président. Les membres de la commission d'enquête sont en nombre impair. Le commissaire enquêteur ou les membres de la
 commission d'enquête sont choisis sur une liste départementale établie annuellement en application de l'article R. 111-4 du
 code de l'expropriation pour cause d'utilité publique. 
@@ -8063,10 +8052,6 @@ supérieure à deux mois ;
 
 2° Les heures et lieux où le public pourra prendre connaissance du dossier et formuler ses observations.
 
-**Nota:**
-
-
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -8075,7 +8060,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
+  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 _Cite_:
 
@@ -8086,24 +8071,20 @@ _Cite_:
 ###### Article R*131-4
 
 Quinze jours au moins avant l'ouverture de l'enquête et durant toute la durée de celle-ci, l'arrêté du président du conseil
-général est publié par voie d'affiches et éventuellement par tout autre procédé dans la ou les communes intéressées.
+départemental est publié par voie d'affiches et éventuellement par tout autre procédé dans la ou les communes intéressées. 
 
 Huit jours au moins avant l'ouverture de l'enquête, cet arrêté fait l'objet d'une insertion dans deux journaux locaux
 diffusés dans la ou les communes intéressées.
-
-**Nota:**
-
-
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°89-631 1989-09-04
+  - Décret n°89-631 du 4 septembre 1989
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°93-1133 du 22 septembre 1993 - art. 2 () JORF 30 septembre 1993
+  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 
 ###### Article R*131-5
@@ -8183,21 +8164,18 @@ _Créé par_:
 
 A l'expiration du délai d'enquête, le ou les registres d'enquête sont clos et signés par le commissaire enquêteur ou les
 membres de la commission d'enquête. Le commissaire enquêteur ou le président de la commission d'enquête transmet, dans le
-délai d'un mois, au président du conseil général le dossier et le ou les registres accompagnés de ses conclusions motivées.
-
-**Nota:**
-
-
+délai d'un mois, au président du conseil départemental le dossier et le ou les registres accompagnés de ses conclusions
+motivées.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°89-631 1989-09-04
+  - Décret n°89-631 du 4 septembre 1989
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°93-1133 du 22 septembre 1993 - art. 2 () JORF 30 septembre 1993
+  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 
 #### Section 3 : Dispositions relatives à la coordination des travaux exécutés sur les routes départementales.<a id=111></a>
@@ -8205,22 +8183,19 @@ _Créé par_:
 ###### Article R*131-9
 
 Lorsque les travaux relatifs à la voirie départementale doivent donner lieu à enquête publique en application de la loi du 12
-juillet 1983 et du décret n° 85-453 du 23 avril 1985, cette enquête est organisée par le président du conseil général
-conformément aux dispositions des chapitres Ier et II dudit décret.
+juillet 1983 et du décret n° 85-453 du 23 avril 1985, cette enquête est organisée par le président du conseil départemental
+conformément aux dispositions des chapitres Ier et II dudit décret. 
 
 Toutefois, lorsque ces travaux doivent donner lieu à déclaration d'utilité publique, l'enquête est organisée par le préfet
 dans les formes prévues pour les enquêtes relevant du premier alinéa de l'article L. 110-1 du code de l'expropriation pour
 cause d'utilité publique.
 
-**Nota:**
-
-
-
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°85-453 du 23 avril 1985 (Ab)
+  - Loi n°83-630 du 12 juillet 1983
+  - Décret n°85-453 du 23 avril 1985
   - Code de l'expropriation pour cause d'utilité pu... - art. L110-1 (V)
 
 _Codifié par_:
@@ -8229,72 +8204,56 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
+  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 
 ###### Article R*131-10
 
-A l'extérieur des agglomérations le président du conseil général exerce les compétences qu'il tient de l'article L. 131-7 en
-matière de coordination des travaux sur les routes départementales dans les mêmes conditions que celles fixées pour le maire
-aux articles R.* 115-1 à R.* 115-4.
-
-**Nota:**
-
-
+A l'extérieur des agglomérations le président du conseil départemental exerce les compétences qu'il tient de l'article L.
+131-7 en matière de coordination des travaux sur les routes départementales dans les mêmes conditions que celles fixées pour
+le maire aux articles R. * 115-1 à R. * 115-4.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°89-631 1989-09-04
+  - Décret n°89-631 du 4 septembre 1989
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°93-1133 du 22 septembre 1993 - art. 3 () JORF 30 septembre 1993
+  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 _Cite_:
 
-  - Code de la voirie routière - art. L131-7 (V)
-  - Code de la voirie routière L131-7, R*115-1 à R*115-4
-
-_Anciens textes_:
-
-  - Code de la voirie routière R131-4
+  - Code de la voirie routière
+  - Code de la voirie routière - art. L131-7
 
 
 ###### Article R*131-11
 
-Les dispositions des articles R.* 141-13 à R.* 141-21 relatives aux modalités d'exécution des travaux de réfection des voies
-communales et aux évaluations des frais en résultant sont applicables aux travaux de remblaiement des tranchées ouvertes dans
-les routes départementales et aux travaux de réfection de celles-ci, sous réserve des adaptations ci-après :
+Les dispositions des articles R. * 141-13 à R. * 141-21 relatives aux modalités d'exécution des travaux de réfection des
+voies communales et aux évaluations des frais en résultant sont applicables aux travaux de remblaiement des tranchées
+ouvertes dans les routes départementales et aux travaux de réfection de celles-ci, sous réserve des adaptations ci-après : 
 
-1° Le département est substitué à la commune ; le conseil général et le président du conseil général sont substitués
-respectivement au conseil municipal et au maire ;
+1° Le département est substitué à la commune ; le conseil départemental et le président du conseil départemental sont
+substitués respectivement au conseil municipal et au maire ; 
 
-2° Pour l'application de l'article R.* 141-20, les prix de référence sont ceux qui sont constatés dans les marchés passés par
-le département ou, à défaut, les prix constatés couramment dans le département.
-
-**Nota:**
-
-
+2° Pour l'application de l'article R. * 141-20, les prix de référence sont ceux qui sont constatés dans les marchés passés
+par le département ou, à défaut, les prix constatés couramment dans le département.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°89-631 1989-09-04
+  - Décret n°89-631 du 4 septembre 1989
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°93-1133 du 22 septembre 1993 - art. 3 () JORF 30 septembre 1993
+  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 _Cite_:
 
-  - Code de la voirie routière R*141-13 à R*141-21
-
-_Anciens textes_:
-
-  - Code de la voirie routière R131-5
+  - Code de la voirie routière
 
 
 ## TITRE IV : Voirie communale.<a id=112></a>
@@ -9544,18 +9503,18 @@ _Anciens textes_:
 Les règles relatives au droit départemental de passage prévu à l'article L. 173-3 sont fixées par les articles R. 321-5 à R.
 321-10 du code de l'environnement, ci-après reproduits : 
 
-" Art.R. 321-5-Peuvent faire l'objet de la perception du droit départemental de passage prévu par l'article L. 321-11 les
+" Art. R. 321-5-Peuvent faire l'objet de la perception du droit départemental de passage prévu par l'article L. 321-11 les
 véhicules terrestres à moteur qui empruntent un ouvrage d'art reliant une île maritime au continent en direction de cette
 île. 
 
-" Art.R. 321-6-Pour le calcul de la majorité mentionnée au premier alinéa de l'article L. 321-11, il est attribué une voix
+" Art. R. 321-6-Pour le calcul de la majorité mentionnée au premier alinéa de l'article L. 321-11, il est attribué une voix
 par commune n'appartenant pas à un groupement compétent en matière d'aménagement, d'urbanisme ou d'environnement et autant de
 voix pour chaque groupement de communes compétent en matière d'aménagement, d'urbanisme ou d'environnement que celui-ci
 comporte de communes membres. Lorsqu'un tel groupement comprend également des communes non situées sur l'île maritime
 concernée, celles-ci n'entrent pas dans le décompte des voix. 
 
-" Art.R. 321-7-Lorsque la majorité calculée selon les modalités définies à l'article R. 321-6 est acquise, le conseil général
-peut instituer par délibération un droit départemental de passage. 
+" Art. R. 321-7-Lorsque la majorité calculée selon les modalités définies à l'article R. 321-6 est acquise, le conseil
+départemental peut instituer par délibération un droit départemental de passage. 
 
 " Cette délibération précise, s'il y a lieu, les différences de tarifs visées au quatrième alinéa de l'article L. 321-11 et
 peut limiter la perception de ce droit de passage aux seules périodes d'afflux touristique. Dans ce cas, la délibération fait
@@ -9569,7 +9528,7 @@ saisine, une commune ou un groupement de communes ne s'est pas prononcé, il est
 des communes et groupements de communes est déterminée dans les mêmes conditions de calcul que celles définies à l'article R.
 321-6. 
 
-" Art.R. 321-8-I.-La convention, d'une durée de cinq ans renouvelable, prévue au cinquième alinéa de l'article L. 321-11,
+" Art. R. 321-8-I.-La convention, d'une durée de cinq ans renouvelable, prévue au cinquième alinéa de l'article L. 321-11,
 comprend : 
 
 " 1° Un programme technique de protection et de gestion des espaces naturels de l'île soumis préalablement pour avis à la
@@ -9584,14 +9543,14 @@ signataires de la convention.
 
 " II.-Un exemplaire de la convention peut être consulté dans chacune des communes et au siège des groupements concernés. 
 
-" Art.R. 321-9.-Le droit départemental de passage est recouvré : 
+" Art. R. 321-9.-Le droit départemental de passage est recouvré : 
 
 " 1° Soit directement par le comptable du département ou par un régisseur agissant pour son compte ; dans ce cas, le droit
 est perçu seul, ou ajouté à la redevance déjà perçue pour l'usage de l'ouvrage d'art ; 
 
 " 2° Soit par le concessionnaire de l'ouvrage dans des conditions définies par convention avec le département. 
 
-" Art.R. 321-10.-Le produit du droit départemental de passage est imputé par le département sur un compte budgétaire
+" Art. R. 321-10.-Le produit du droit départemental de passage est imputé par le département sur un compte budgétaire
 spécifique. Les sommes reversées par le département aux communes et aux groupements de communes désignés comme maîtres
 d'ouvrage dans la convention prévue à l'article R. 321-8 sont également imputées par ces collectivités et établissements
 publics locaux sur un compte budgétaire spécifique. 
@@ -9616,24 +9575,29 @@ d'aménagement.
 " Le reversement du produit du droit départemental de passage aux communes et groupements de communes est subordonné à
 l'entrée en vigueur de la convention mentionnée à l'article R. 321-8. "
 
-**Nota:**
-
-
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°89-631 1989-09-04
+  - Décret n°89-631 du 4 septembre 1989
 
 _Modifié par_:
 
-  - Décret n°2006-665 du 7 juin 2006 - art. 20 () JORF 8 juin 2006
+  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 _Cite_:
 
-  - Code de la voirie routière - art. L173-3 (M)
-  - Code de la voirie routière L173-3, L321-11, R321-6
-  - Code de l'environnement R321-5 à R321-10
+  - Code de la voirie routière
+  - Code de la voirie routière - art. L173-3
+  - Code de l'environnement
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de l'environnement - art. R321-10
+  - PILOTE_SUIVEUR: Code de l'environnement - art. R321-5
+  - PILOTE_SUIVEUR: Code de l'environnement - art. R321-6
+  - PILOTE_SUIVEUR: Code de l'environnement - art. R321-7
+  - PILOTE_SUIVEUR: Code de l'environnement - art. R321-8
+  - PILOTE_SUIVEUR: Code de l'environnement - art. R321-9
 
 
