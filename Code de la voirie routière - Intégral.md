@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2015-03-22
+Version Consolidée au 2015-08-09
 ## Contenu: 
   - [Partie législative (art. L111-1 à L173-3)](#1)
     - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. L111-1 à L119-10)](#2)
@@ -149,22 +149,26 @@ de marchandises par route (art. L119-5 à L119-8)](#21)
 ###### Article L111-1
 
 Le domaine public routier comprend l'ensemble des biens du domaine public de l'Etat, des départements et des communes
-affectés aux besoins de la circulation terrestre, à l'exception des voies ferrées.
+affectés aux besoins de la circulation terrestre, à l'exception des voies ferrées. 
 
 L'Etat veille à la cohérence et à l'efficacité du réseau routier dans son ensemble ; il veille en particulier à la sécurité,
 à la cohérence de l'exploitation et de l'information des usagers, à la connaissance statistique des réseaux et des trafics
-ainsi qu'au maintien, au développement et à la diffusion des règles de l'art.
+ainsi qu'au maintien, au développement et à la diffusion des règles de l'art. 
 
 Sur les réseaux relevant de leur compétence, les collectivités territoriales et leurs groupements définissent conjointement
 avec l'Etat les programmes de recherche et de développement des savoir-faire techniques dans le domaine routier. Ils sont
 associés à la définition des normes et définitions techniques correspondantes, adaptées à la spécificité de chacun des
-réseaux.
+réseaux. 
+
+La région peut contribuer au financement des voies et des axes routiers qui, par leurs caractéristiques, constituent des
+itinéraires d'intérêt régional et sont identifiés par le schéma régional d'aménagement, de développement durable et d'égalité
+des territoires prévu aux articles L. 4251-1 et suivants du code général des collectivités territoriales.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
+  - Loi n°89-413 du 22 juin 1989
 
 _Cité par_:
 
@@ -182,11 +186,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2004-809 du 13 août 2004 - art. 18 (V) JORF 17 août 2004
+  - Loi n°2015-991 du 7 août 2015 - art. 19
 
-_Nouveaux textes_:
+_Cite_:
 
-  - Code général de la propriété des personnes publiqu - art. L2111-14 (V)
+  - Code général des collectivités territoriales - art. L4251-1 (VD)
 
 
 ### Chapitre II : Emprise.<a id=4></a>
@@ -2374,6 +2378,23 @@ _Cite_:
 
   - Code de la voirie routière - art. L115-1
   - Code de la voirie routière - art. L141-11
+
+
+###### Article L131-7-1
+
+En  dehors des agglomérations, le président du conseil départemental  exerce, en matière d'entretien des plantations privées
+pouvant  constituer des menaces pour les voies départementales, les compétences  attribuées au maire par l'article L.
+2212-2-2 du code général des collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2015-991 du 7 août 2015 - art. 20
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L2212-2-2
 
 
 ###### Article L131-8
