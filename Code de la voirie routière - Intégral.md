@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2015-08-19
+Version Consolidée au 2016-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L173-3)](#1)
     - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. L111-1 à L119-10)](#2)
@@ -210,23 +210,17 @@ propriétés riveraines. Il est fixé soit par un plan d'alignement, soit par un
 
 Le plan d'alignement, auquel est joint un plan parcellaire, détermine après enquête publique ouverte par l'autorité exécutive
 de la collectivité territoriale ou de l'établissement public de coopération intercommunale, propriétaire de la voie, et
-organisée conformément aux dispositions du code de l'expropriation pour cause d'utilité publique la limite entre voie
+organisée conformément aux dispositions du code des relations entre le public et l'administration la limite entre voie
 publique et propriétés riveraines.
 
 L'alignement individuel est délivré au propriétaire conformément au plan d'alignement s'il en existe un. En l'absence d'un
 tel plan, il constate la limite de la voie publique au droit de la propriété riveraine.
 
-**Nota:**
-
-Ces dispositions s'appliquent aux projets, plans, programmes ou autres documents de planification pour lesquels l'arrêté
-d'ouverture et d'organisation de l'enquête publique est publié à compter du premier jour du sixième mois après la publication
-du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environnement.
-
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2010-788 du 12 juillet 2010 - art. 242
+  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art. 5
 
 _Cité par_:
 
@@ -643,9 +637,9 @@ définit ces servitudes.
 
 Ce plan est soumis à une enquête publique ouverte par l'autorité exécutive de la collectivité territoriale ou de
 l'établissement public de coopération intercommunale, propriétaire de la voie, et organisée conformément aux dispositions du
-code de l'expropriation pour cause d'utilité publique. 
+code des relations entre le public et l'administration. 
 
-Il est approuvé par le représentant de l'Etat dans le département, le conseil départemental  ou le conseil municipal, selon
+Il est approuvé par le représentant de l'Etat dans le département, le conseil départemental ou le conseil municipal, selon
 qu'il s'agit d'une route nationale, d'une route départementale ou d'une voie communale.
 
 **Nota:**
@@ -656,7 +650,7 @@ qu'il s'agit d'une route nationale, d'une route départementale ou d'une voie co
 
 _Modifié par_:
 
-  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
+  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art. 5
 
 _Cité par_:
 
@@ -2273,23 +2267,23 @@ _Cité par_:
 
 ###### Article L131-4
 
-Le classement et le déclassement des routes départementales relèvent du conseil départemental . Ce dernier est également
+Le classement et le déclassement des routes départementales relèvent du conseil départemental. Ce dernier est également
 compétent pour l'établissement des plans d'alignement et de nivellement, l'ouverture, le redressement et l'élargissement de
 ces routes. 
 
-Les délibérations du conseil départemental  concernant le classement ou le déclassement sont dispensées d'enquête publique
+Les délibérations du conseil départemental concernant le classement ou le déclassement sont dispensées d'enquête publique
 préalable sauf lorsque l'opération envisagée a pour conséquence de porter atteinte aux fonctions de desserte ou de
 circulation assurées par la voie. 
 
 A défaut d'enquête relevant d'une autre réglementation et ayant porté sur ce classement ou déclassement, l'enquête rendue
 nécessaire en vertu du deuxième alinéa est ouverte par l'autorité exécutive de la collectivité territoriale ou de
 l'établissement public de coopération intercommunale, propriétaire de la voie, et organisée conformément aux dispositions du
-code de l'expropriation pour cause d'utilité publique. 
+code des relations entre le public et l'administration. 
 
 Lorsque l'opération comporte une expropriation, l'enquête d'utilité publique tient lieu de l'enquête prévue à l'alinéa
 précédent. 
 
-Le conseil départemental  est également compétent pour approuver les projets, les plans et les devis des travaux à exécuter
+Le conseil départemental est également compétent pour approuver les projets, les plans et les devis des travaux à exécuter
 pour la construction et la rectification des routes.
 
 **Nota:**
@@ -2305,7 +2299,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
+  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art. 5
 
 _Cite_:
 
@@ -2515,22 +2509,16 @@ voie.
 A défaut d'enquête relevant d'une autre réglementation et ayant porté sur ce classement ou déclassement, l'enquête rendue
 nécessaire en vertu du deuxième alinéa est ouverte par l'autorité exécutive de la collectivité territoriale ou de
 l'établissement public de coopération intercommunale, propriétaire de la voie, et organisée conformément aux dispositions du
-code de l'expropriation pour cause d'utilité publique. 
+code des relations entre le public et l'administration. 
 
 L'enquête prévue à l'article L. 318-3 du code de l'urbanisme tient lieu de l'enquête prévue à l'alinéa précédent. Il en va de
 même de l'enquête d'utilité publique lorsque l'opération comporte une expropriation.
-
-**Nota:**
-
-Ces dispositions s'appliquent aux projets, plans, programmes ou autres documents de planification pour lesquels l'arrêté
-d'ouverture et d'organisation de l'enquête publique est publié à compter du premier jour du sixième mois après la publication
-du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2010-788 du 12 juillet 2010 - art. 242
+  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art. 5
 
 _Cité par_:
 
@@ -2538,7 +2526,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L318-3 (V)
+  - Code de l'urbanisme - art. L318-3 (VD)
 
 
 ###### Article L141-4
@@ -3602,19 +3590,13 @@ _Cité par_:
 A défaut d'accord amiable avec les propriétaires intéressés, la décision autorisant la pose de supports, de canalisations ou
 d'appareillages sur les propriétés privées est prise après enquête publique ouverte par l'autorité exécutive de la
 collectivité territoriale ou de l'établissement public de coopération intercommunale, propriétaire de la voie, et organisée
-conformément aux dispositions du code de l'expropriation pour cause d'utilité publique.
-
-**Nota:**
-
-Ces dispositions s'appliquent aux projets, plans, programmes ou autres documents de planification pour lesquels l'arrêté
-d'ouverture et d'organisation de l'enquête publique est publié à compter du premier jour du sixième mois après la publication
-du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environnement.
+conformément aux dispositions du code des relations entre le public et l'administration.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2010-788 du 12 juillet 2010 - art. 242
+  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art. 5
 
 _Cité par_:
 
@@ -8967,22 +8949,22 @@ S'il y a lieu à déclaration d'utilité publique, les deux enquêtes sont confo
 
 III.-Lorsque la création ou la suppression de points d'accès sur une route express existante n'est pas compatible avec les
 prescriptions d'un plan local d'urbanisme rendu public ou approuvé, ou d'un document d'urbanisme en tenant lieu et qu'il
-n'est pas fait application de l'article L. 123-14 du code de l'urbanisme, la décision concernant les accès ne peut être prise
-qu'après l'approbation de la modification du plan d'occupation des sols ou du document d'urbanisme en tenant lieu.
+n'est pas fait application de l'article    L. 153-54 du code de l'urbanisme, la décision concernant les accès ne peut être
+prise qu'après l'approbation de la modification du plan d'occupation des sols ou du document d'urbanisme en tenant lieu.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
+  - Décret n°2015-1783 du 28 décembre 2015 - art. 9
 
 _Cite_:
 
   - Code de la voirie routière - art. L151-4
   - Code de l'urbanisme - art. L123-14
-  - Code de l'expropriation pour cause d'utilité pu... - art. L110-2 (V)
-  - Code de l'expropriation pour cause d'utilité pu... - art. R122-1 (V)
-  - Code de l'expropriation pour cause d'utilité pu... - art. R122-4 (V)
+  - Code de l'expropriation pour cause d'utilité publique - art. L110-2
+  - Code de l'expropriation pour cause d'utilité publique - art. R122-1
+  - Code de l'expropriation pour cause d'utilité publique - art. R122-4
 
 
 ###### Article R*151-6
