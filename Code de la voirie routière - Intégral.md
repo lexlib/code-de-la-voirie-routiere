@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2016-02-01
+Version Consolidée au 2016-02-01 00:00:01 +0100
 ## Contenu: 
   - [Partie législative (art. L111-1 à L173-3)](#1)
     - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. L111-1 à L119-10)](#2)
@@ -26,13 +26,13 @@ de marchandises par route (art. L119-5 à L119-8)](#21)
         - [Section 3 : Péages applicables aux véhicules de transport de personnes (art. L119-9 à L119-10)](#22)
     - [TITRE II : Voirie nationale. (art. L121-1 à L123-8)](#23)
       - [Chapitre Ier : Dispositions communes aux autoroutes et aux routes nationales. (art. L121-1 à L121-3)](#24)
-      - [Chapitre II : Autoroutes. (art. L122-1 à L122-34)](#25)
+      - [Chapitre II : Autoroutes. (art. L122-1 à L122-32)](#25)
         - [Section 1 : Dispositions générales. (art. L122-1 à L122-5)](#26)
         - [Section 2 : Dispositions financières. (art. L122-6)](#27)
         - [Section 3 : Régulation des tarifs de péage. (art. L122-7 à L122-11)](#28)
         - [Section 4 : Régulation des marchés de travaux, fournitures et services du réseau autoroutier concédé. (art. L122-12 à L122-22)](#29)
         - [Section 5 : Installations annexes sur les autoroutes concédées. (art. L122-23 à L122-29)](#30)
-        - [Section 6 : Dispositions relatives à l'Autorité de régulation des activités ferroviaires et routières. (art. L122-30 à L122-34)](#31)
+        - [Section 6 : Dispositions relatives à l'Autorité de régulation des activités ferroviaires et routières. (art. L122-30 à L122-32)](#31)
       - [Chapitre III : Routes nationales. (art. L123-1 à L123-8)](#32)
         - [Section 1 : Classement et déclassement. (art. L123-2 à L123-5)](#33)
         - [Section 2 : Alignement. (art. L123-6 à L123-7)](#34)
@@ -2228,14 +2228,9 @@ projet d'avenant à un marché de travaux, fournitures ou services entraînant u
 un seuil défini par voie réglementaire est soumis pour avis à la commission des marchés. Le concessionnaire communique à la
 commission des marchés la liste des entreprises avec lesquelles il conclut des marchés qui entrent dans le champ des réserves
 mentionnées à l'article L. 122-16. Lorsqu'une société concessionnaire d'autoroute ne respecte pas la communication des
-informations prévues au présent alinéa, elle en informe l'Autorité de régulation des activités ferroviaires et routières, qui
-peut prononcer une sanction en application de l'article L. 2135-7 du code des transports.
+informations prévues au présent alinéa, elle en informe l'Autorité de régulation des activités ferroviaires et routières.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2015-990 du 6 août 2015 - art. 13
 
 _Cité par_:
 
@@ -2244,13 +2239,18 @@ _Cité par_:
   - Code de la voirie routière - art. L122-33 (VD)
   - Code de la voirie routière - art. R122-34 (VD)
   - Code de la voirie routière - art. R122-35 (V)
+  - Code des transports - art. L1264-7 (M)
+
+_Modifié par_:
+
+  - Ordonnance n°2016-79 du 29 janvier 2016 - art. 5
 
 _Cite_:
 
-  - Code de la voirie routière - art. L122-12 (VD)
-  - Code de la voirie routière - art. L122-16 (VD)
-  - Code de la voirie routière - art. L122-20 (VD)
-  - Code des transports - art. L2135-7 (VT)
+  - Code de la voirie routière - art. L122-12
+  - Code de la voirie routière - art. L122-16
+  - Code de la voirie routière - art. L122-20
+  - Code des transports - art. L2135-7
 
 
 ###### Article L122-18
@@ -2504,15 +2504,15 @@ _Cité par_:
 
 ###### Article L122-30
 
-Le contrôle administratif de l'Autorité de régulation des activités ferroviaires et routières s'exerce à l'égard des
-concessionnaires d'autoroutes dans les conditions prévues à la section 1 du chapitre V du titre III du livre Ier de la
-deuxième partie du code des transports.
+Les dispositions générales relatives au contrôle administratif de l'Autorité de régulation des activités ferroviaires et
+routières ainsi qu'aux sanctions administratives et pénales figurant au titre VI du livre II de la première partie du code
+des transports sont applicables aux concessionnaires d'autoroutes.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-990 du 6 août 2015 - art. 13
+  - Ordonnance n°2016-79 du 29 janvier 2016 - art. 5
 
 
 ###### Article L122-31
@@ -2523,87 +2523,48 @@ par une décision motivée, prévoir la transmission régulière d'informations 
 d'autoroutes et par les entreprises intervenant dans le secteur des marchés de travaux, fournitures et services sur le réseau
 autoroutier concédé. 
 
-A cette fin, les concessionnaires d'autoroutes et les entreprises intervenant dans le secteur des marchés de travaux,
-fournitures et services sur le réseau autoroutier concédé sont tenus de lui fournir toute information relative aux résultats
-financiers de la concession, aux coûts des capitaux investis sur le réseau, aux marchés de travaux, fournitures et services
-et aux autres services rendus à l'usager et tout élément statistique relatif à l'utilisation et à la fréquentation du réseau.
+Les concessionnaires d'autoroutes et les entreprises intervenant dans le secteur des marchés de travaux, fournitures et
+services sur le réseau autoroutier concédé sont tenus de lui fournir toute information relative aux résultats financiers de
+la concession, aux coûts des capitaux investis sur le réseau, aux marchés de travaux, fournitures et services et aux autres
+services rendus à l'usager et tout élément statistique relatif à l'utilisation et à la fréquentation du réseau.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2015-990 du 6 août 2015 - art. 13
 
 _Cité par_:
 
   - Ordonnance n°2016-79 du 29 janvier 2016 - art. 1
-  - Code de la voirie routière - art. L122-32 (VD)
+  - Code de la voirie routière - art. L122-32 (V)
   - Code des transports - art. L1264-7 (V)
   - Code des transports - art. L2135-7 (Ab)
+
+_Modifié par_:
+
+  - Ordonnance n°2016-79 du 29 janvier 2016 - art. 5
 
 
 ###### Article L122-32
 
-L'article L. 122-31 et les sections 1 à 3 du chapitre V du titre III du livre Ier de la deuxième partie du code des
-transports sont applicables, dans les mêmes conditions qu'aux concessionnaires d'autoroutes, aux sociétés suivantes : 
+L'article L. 122-31 et les sections 1 à 3 du chapitre IV du titre VI du livre II de la première partie du code des transports
+sont applicables, dans les mêmes conditions qu'aux concessionnaires d'autoroutes, aux sociétés suivantes :
 
-1° Les sociétés contrôlées par un concessionnaire, au sens des articles  L. 233-3  et  L. 233-4  du code de commerce ; 
+1° Les sociétés contrôlées par un concessionnaire, au sens des articles L. 233-3 et L. 233-4 du code de commerce ;
 
-2° Les sociétés qui contrôlent un concessionnaire, au sens des mêmes articles ; 
+2° Les sociétés qui contrôlent un concessionnaire, au sens des mêmes articles ;
 
 3° Toute société ayant pour objet principal la détention de titres de sociétés concessionnaires autoroutières ou le
 financement des sociétés qui les détiennent.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-990 du 6 août 2015 - art. 13
+  - Ordonnance n°2016-79 du 29 janvier 2016 - art. 5
 
 _Cite_:
 
   - Code de commerce - art. L233-3
   - Code de commerce - art. L233-4
-  - Code de la voirie routière - art. L122-31 (VD)
-
-
-###### Article L122-33
-
-Le fait de s'opposer, de quelque façon que ce soit, à l'exercice des fonctions des agents de l'Autorité de régulation des
-activités ferroviaires et routières dans l'exercice de leurs missions dans le secteur autoroutier est réprimé dans les
-conditions prévues à la section 3 du chapitre V du titre III du livre Ier de la deuxième partie du code des transports.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2015-990 du 6 août 2015 - art. 13
-
-_Abrogé par_:
-
-  - Ordonnance n°2016-79 du 29 janvier 2016 - art. 5
-
-_Cité par_:
-
-  - Code de la voirie routière - art. R122-38 (VD)
-  - Code des transports - art. L1264-7 (V)
-
-
-###### Article L122-34
-
-Les relations et les échanges relatifs au secteur autoroutier de l'Autorité de régulation des activités ferroviaires et
-routières avec, d'une part, l'Autorité de la concurrence et, d'autre part, les juridictions compétentes sont définis à la
-section 4 du chapitre V du titre III du livre Ier de la deuxième partie du code des transports.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2015-990 du 6 août 2015 - art. 13
-
-_Abrogé par_:
-
-  - Ordonnance n°2016-79 du 29 janvier 2016 - art. 5
+  - Code de la voirie routière - art. L122-31 (V)
 
 
 ### Chapitre III : Routes nationales.<a id=32></a>
