@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2016-07-29
+Version Consolidée au 2016-10-09
 ## Contenu: 
   - [Partie législative (art. L111-1 à L173-3)](#1)
     - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. L111-1 à L119-10)](#2)
@@ -18,7 +18,7 @@ Version Consolidée au 2016-07-29
       - [Chapitre VIII : Sécurité des ouvrages et des infrastructures (art. L118-1 à L118-7)](#15)
         - [Section 1 : Sécurité des ouvrages du réseau routier dont l'exploitation présente des risques particuliers pour la sécurité des personnes (art. L118-1 à L118-5)](#16)
         - [Section 2 : Gestion de la sécurité des infrastructures routières (art. L118-6 à L118-7)](#17)
-      - [Chapitre IX : Dispositifs d'information sur le réseau routier. (art. L119-1)](#18)
+      - [Chapitre IX : Dispositifs d'information sur le réseau routier. (art. L119-1 à L119-1-1)](#18)
       - [Chapitre X :  Dispositions relatives aux péages (art. L119-2 à L119-10)](#19)
         - [Section 1 : Service européen de télépéage (art. L119-2 à L119-4)](#20)
         - [Section 2 : Péages applicables aux véhicules de transport 
@@ -1378,6 +1378,33 @@ _Modifié par_:
 _Cite_:
 
   - Code général des collectivités territoriales - art. L1614-7
+
+
+###### Article L119-1-1
+
+Il  est institué, sous la responsabilité du ministre chargé de la sécurité  routière, une base de données nationale des
+vitesses maximales  autorisées sur le domaine public routier.
+
+Cette base de données a pour finalités de  fiabiliser les informations relatives à la circulation routière et de  développer
+des services innovants.
+
+Les gestionnaires du domaine public routier  communiquent à l'autorité prévue au premier alinéa les informations  relatives à
+la vitesse maximale autorisée en vigueur sur leurs réseaux  routiers, au travers d'un mode de transmission électronique qui
+est mis  gratuitement à leur disposition par l'Etat. Cette communication est  facultative pour les gestionnaires du domaine
+public routier des  collectivités territoriales de moins de 3 500 habitants.
+
+Un décret en Conseil d'Etat fixe la liste des informations à transmettre et les modalités de ces transmissions.
+
+**Nota:**
+
+Conformément au II de l'article 22 de la loi n° 2016-1321 du 7 octobre 2016,  le troisième alinéa de l'article L. 119-1-1
+entre en vigueur le 1er  janvier 2018 en tant qu'il concerne les collectivités territoriales et  leurs groupements.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 22 (V)
 
 
 ### Chapitre X :  Dispositions relatives aux péages<a id=19></a>
