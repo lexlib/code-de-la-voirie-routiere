@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2017-04-01
+Version Consolidée au 2017-05-12
 ## Contenu: 
   - [Partie législative (art. L111-1 à L173-3)](#1)
     - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. L111-1 à L119-10)](#2)
@@ -155,7 +155,8 @@ de marchandises par route (art. L119-5 à L119-8)](#21)
         - [Section 1 : Voies publiques. (art. R*171-1 à R*171-5)](#151)
         - [Section 2 : Voies privées. (art. R*171-6 à R*171-7)](#152)
         - [Section 3 : Coordination des travaux. (art. R*171-8)](#153)
-      - [Chapitre III : Dispositions diverses. (art. R*173-1 à R*173-2)](#154)
+      - [Chapitre II : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique, La Réunion et Mayotte (art. R172-1)](#154)
+      - [Chapitre III : Dispositions diverses. (art. R*173-1 à R*173-2)](#155)
 # Partie législative<a id=1></a>
 
 ## TITRE Ier : Dispositions communes aux voies du domaine public routier.<a id=2></a>
@@ -10951,7 +10952,37 @@ _Cite_:
   - Code de la voirie routière - art. R*115-2 (V)
 
 
-### Chapitre III : Dispositions diverses.<a id=154></a>
+### Chapitre II : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique, La Réunion et Mayotte<a id=154></a>
+
+###### Article R172-1
+
+I.-Le présent code est applicable à Mayotte sous réserve des adaptations prévues au II. 
+
+II.-Pour leur application à Mayotte les dispositions du présent code sont ainsi adaptées : 
+
+1° La référence au département est remplacée par la référence au Département de Mayotte ; 
+
+2° La référence au président du conseil général est remplacée par la référence au président du conseil départemental de
+Mayotte ; 
+
+3° La référence au préfet de région est remplacée par la référence au préfet de Mayotte ; 
+
+4° Les formalités de publicité foncière prévues aux articles R. * 112-2 et R. * 141-11 du présent code s'effectuent selon les
+règles particulières posées par le titre IV du livre V du code civil.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-943 du 10 mai 2017 - art. 1
+
+_Cite_:
+
+  - Code de la voirie routière - art. R*112-2 (V)
+  - Code de la voirie routière - art. R*141-11 (V)
+
+
+### Chapitre III : Dispositions diverses.<a id=155></a>
 
 ###### Article R*173-1
 
