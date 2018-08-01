@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2018-01-01
+Version Consolidée au 2018-08-02
 ## Contenu: 
   - [Partie législative (art. L111-1 à L173-3)](#1)
     - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. L111-1 à L119-10)](#2)
@@ -104,8 +104,8 @@ de marchandises par route (art. L119-5 à L119-8)](#21)
         - [Section 3 : Péages applicables aux véhicules de transport de personnes par route (art. R*119-34 à R*119-37)](#100)
     - [TITRE II : Voirie nationale. (art. R*121-1 à R*123-5)](#101)
       - [Chapitre Ier : Dispositions communes aux autoroutes et aux routes nationales. (art. R*121-1)](#102)
-      - [Chapitre II : Autoroutes. (art. R*122-1 à R122-48)](#103)
-        - [Section 1 : Dispositions générales. (art. R*122-1 à R122-5-5)](#104)
+      - [Chapitre II : Autoroutes. (art. R*122-2 à R122-48)](#103)
+        - [Section 1 : Dispositions générales. (art. R*122-2 à R122-5-5)](#104)
         - [Section 2 : Dispositions financières. (art. R*122-6 à R*122-26)](#105)
           - [Sous-section 1 : Caisse nationale des autoroutes. (art. R*122-6 à R*122-15)](#106)
           - [Sous-section 2 : Autoroutes de France. (art. R*122-16 à R*122-26)](#107)
@@ -7784,44 +7784,6 @@ _Anciens textes_:
 
 #### Section 1 : Dispositions générales.<a id=104></a>
 
-###### Article R*122-1
-
-Le classement dans la catégorie des autoroutes :
-
-D'une route nouvelle ou d'une route projetée ;
-
-D'une route nationale existante,
-
-est prononcé par décret en Conseil d'Etat, pris après enquête publique. Ce décret peut en même temps prononcer la déclaration
-d'utilité publique de la route ainsi classée ou d'une de ses sections.
-
-Le classement dans la catégorie des autoroutes des ouvrages annexes et des raccordements à d'autres voies publiques est
-prononcé par arrêté du préfet, pris après enquête publique, lorsque ces ouvrages sont créés sur une autoroute en service.
-L'ouverture de l'enquête publique est autorisée par le ministre chargé de la voirie routière nationale.
-
-Le classement dans la catégorie des autoroutes d'une route appartenant à une voirie autre que la voirie routière nationale
-est prononcé, selon le cas, dans les formes prévues au premier ou au deuxième alinéa ci-dessus lorsque la collectivité
-territoriale dont la voirie est intéressée, dûment consultée, n'a pas, dans un délai de cinq mois, donné un avis défavorable.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°56-1425 du 27 décembre 1956 - art. 1 (M)
-
-_Codifié par_:
-
-  - Décret n°89-631 1989-09-04
-
-_Créé par_:
-
-  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
-
-_Cité par_:
-
-  - Décret n°2020-1061 du 14 août 2020 - art. 1
-
-
 ###### Article R*122-2
 
 Le déclassement d'une autoroute est prononcé par décret. Toutefois, en cas de création d'un point d'accès nouveau sur un
@@ -7982,6 +7944,43 @@ autoroutier conformément aux dispositions législatives et réglementaires en l
 _Créé par_:
 
   - Décret n°2011-1962 du 23 décembre 2011 - art. 1
+
+
+###### Article R122-1
+
+Le classement dans la catégorie des autoroutes :
+
+D'une route nouvelle ou d'une route projetée ;
+
+D'une route nationale existante,
+
+est prononcé par décret, pris après enquête publique.
+
+Le classement dans la catégorie des autoroutes des ouvrages annexes et des raccordements à d'autres voies publiques est
+prononcé par arrêté du préfet, pris après enquête publique, lorsque ces ouvrages sont créés sur une autoroute en service.
+L'ouverture de l'enquête publique est autorisée par le ministre chargé de la voirie routière nationale.
+
+Le classement dans la catégorie des autoroutes d'une route appartenant à une voirie autre que la voirie routière nationale
+est prononcé, selon le cas, dans les formes prévues au premier ou au deuxième alinéa ci-dessus lorsque la collectivité
+territoriale dont la voirie est intéressée, dûment consultée, n'a pas, dans un délai de cinq mois, donné un avis défavorable.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°56-1425 du 27 décembre 1956 - art. 1 (M)
+
+_Codifié par_:
+
+  - Décret n°89-631 du 4 septembre 1989
+
+_Modifié par_:
+
+  - Décret n°2018-674 du 30 juillet 2018 - art. 5
+
+_Cité par_:
+
+  - Décret n°2020-1061 du 14 août 2020 - art. 1
 
 
 ###### Article R122-5-1
