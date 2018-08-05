@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2018-08-02
+Version Consolidée au 2018-08-06
 ## Contenu: 
   - [Partie législative (art. L111-1 à L173-3)](#1)
     - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. L111-1 à L119-10)](#2)
@@ -25,7 +25,7 @@ Version Consolidée au 2018-08-02
 de marchandises par route (art. L119-5 à L119-8)](#21)
         - [Section 3 : Péages applicables aux véhicules de transport de personnes (art. L119-9 à L119-10)](#22)
     - [TITRE II : Voirie nationale. (art. L121-1 à L123-8)](#23)
-      - [Chapitre Ier : Dispositions communes aux autoroutes et aux routes nationales. (art. L121-1 à L121-3)](#24)
+      - [Chapitre Ier : Dispositions communes aux autoroutes et aux routes nationales. (art. L121-1 à L121-4)](#24)
       - [Chapitre II : Autoroutes. (art. L122-1 à L122-33)](#25)
         - [Section 1 : Dispositions générales. (art. L122-1 à L122-5)](#26)
         - [Section 2 : Dispositions financières. (art. L122-6)](#27)
@@ -1740,6 +1740,19 @@ _Modifié par_:
 _Cite_:
 
   - Code de l'expropriation pour cause d'utilité publique - art. L522-1
+
+
+###### Article L121-4
+
+I. - Le Comité des usagers du réseau routier national comprend parmi ses membres un député et un sénateur.
+
+II. - Les missions, la composition, l'organisation et le fonctionnement du comité sont précisés par décret.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-699 du 3 août 2018 - art. 26
 
 
 ### Chapitre II : Autoroutes.<a id=25></a>
