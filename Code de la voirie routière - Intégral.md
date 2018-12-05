@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2018-08-06
+Version Consolidée au 2018-12-06
 ## Contenu: 
   - [Partie législative (art. L111-1 à L173-3)](#1)
     - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. L111-1 à L119-10)](#2)
@@ -2195,28 +2195,21 @@ _Modifié par_:
 
 ###### Article L122-13
 
-Les marchés de travaux, fournitures ou services régis par l'ordonnance n° 2015-899 du 23 juillet 2015 relative aux marchés
-publics, lorsqu'ils sont passés par un concessionnaire d'autoroute pour les besoins de la concession, sont également régis
-par les articles L. 122-14, L. 122-17, L. 122-20 et L. 122-21.
+Les marchés de travaux, fournitures ou services régis par le titre préliminaire, la première partie et les livres Ier et II
+de la deuxième partie du code de la commande publique, lorsqu'ils sont passés par un concessionnaire d'autoroute pour les
+besoins de la concession, sont également régis par les articles L. 122-14, L. 122-17, L. 122-20 et L. 122-21.
 
-Des seuils inférieurs à ceux mentionnés au 1° de l'article 42 de la même ordonnance peuvent être prévus par voie
-réglementaire pour la passation des marchés relevant du premier alinéa du présent article. 
+Des seuils inférieurs aux seuils européens mentionnés à l'article L. 2124-1 du code de la commande publique peuvent être
+prévus par voie réglementaire pour la passation des marchés relevant du premier alinéa du présent article.
 
 Pour l'application du premier alinéa de l'article L. 122-17 du présent code, un seuil spécifique peut être prévu pour les
-concessions pour les besoins desquelles les marchés relèvent du premier alinéa du présent article.
+contrats de concession pour les besoins desquelles les marchés relèvent du premier alinéa du présent article.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Ordonnance n°2005-649 du 6 juin 2005
-  - Code de la voirie routière - art. L122-14
-  - Code de la voirie routière - art. L122-17
-  - Code de la voirie routière - art. L122-20
-
 _Modifié par_:
 
-  - Loi n°2016-1691 du 9 décembre 2016 - art. 41
+  - Ordonnance n°2018-1074 du 26 novembre 2018 - art. 11
 
 _Cité par_:
 
@@ -2226,6 +2219,12 @@ _Cité par_:
   - Code de la voirie routière - art. R122-36 (M)
   - Code de la voirie routière - art. R122-39 (VD)
   - Code de la voirie routière - art. R122-40 (VD)
+
+_Cite_:
+
+  - Code de la voirie routière - art. L122-14
+  - Code de la voirie routière - art. L122-17
+  - Code de la voirie routière - art. L122-20
 
 
 ###### Article L122-14
@@ -2250,18 +2249,14 @@ _Cité par_:
 
 ###### Article L122-15
 
-Les articles 45 à 49 de l'ordonnance n° 2015-899 du 23 juillet 2015 relative aux marchés publics sont applicables aux marchés
-régis par la présente section.
+Les articles L. 2141-1 à L. 2141-13 du code de la commande publique sont applicables aux marchés régis par la présente
+section.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Ordonnance n°2015-899 du 23 juillet 2015 - art. 45
-
 _Modifié par_:
 
-  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 76
+  - Ordonnance n°2018-1074 du 26 novembre 2018 - art. 11
 
 
 ###### Article L122-16
@@ -2336,23 +2331,22 @@ _Cite_:
 
 ###### Article L122-18
 
-Les procédures de passation des marchés définis à l'article L. 122-12 sont celles prévues par l'ordonnance n° 2015-899 du 23
-juillet 2015 relative aux marchés publics.
+Les procédures de passation des marchés définis à l'article L. 122-12 sont celles prévues par la première partie et les
+livres Ier et II de la deuxième partie du code de la commande publique.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance n°2015-899 du 23 juillet 2015
-  - Code de la voirie routière - art. L122-12 (VD)
-
-_Modifié par_:
-
-  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 76
 
 _Cité par_:
 
   - Décret n°2016-552 du 3 mai 2016 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2018-1074 du 26 novembre 2018 - art. 11
+
+_Cite_:
+
+  - Code de la voirie routière - art. L122-12
 
 
 ###### Article L122-19
@@ -2458,18 +2452,14 @@ _Cité par_:
 
 Les contrats passés par le concessionnaire d'autoroute en vue de faire assurer par un tiers la construction, l'exploitation
 et l'entretien des installations annexes à caractère commercial situées sur le réseau autoroutier concédé sont régis par la
-présente section, sans préjudice de l'application de l'ordonnance n° 2016-65 du 29 janvier 2016 relative aux contrats de
-concession pour les concessionnaires qui en relèvent.
+présente section, sans préjudice de l'application du titre préliminaire et du livre Ier de la troisième partie du code de la
+commande publique pour les concessionnaires qui en relèvent.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Ordonnance n°2016-65 du 29 janvier 2016
-
 _Modifié par_:
 
-  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 76
+  - Ordonnance n°2018-1074 du 26 novembre 2018 - art. 11
 
 _Cité par_:
 
