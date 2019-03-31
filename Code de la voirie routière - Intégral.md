@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2018-12-06
+Version Consolidée au 2019-04-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L173-3)](#1)
     - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. L111-1 à L119-10)](#2)
@@ -2136,21 +2136,16 @@ _Créé par_:
 Tout marché de travaux, fournitures ou services passé par un concessionnaire d'autoroute pour les besoins de la concession
 est régi par la présente section, à l'exception des marchés : 
 
-1° Régis par l'ordonnance n° 2015-899 du 23 juillet 2015 relative aux marchés publics sous réserve de l'article L. 122-13 ; 
+1° Régis par le titre préliminaire, la première partie et les livres Ier et II de la deuxième partie du code de la commande
+publique sous réserve de l'article L. 122-13 ; 
 
-2° Conclus avant la date de mise en service complète des ouvrages ou aménagements prévus au cahier des charges initial de la
-délégation ; 
+2° Conclus avant la date de mise en service complète des ouvrages ou aménagements prévus au cahier des charges initial du
+contrat de concession ; 
 
-3° Ou présentant les caractéristiques des contrats mentionnés du 1° au 18° de l'article 14 de l'ordonnance n° 2015-899 du 23
-juillet 2015 relative aux marchés publics.
+3° Ou présentant les caractéristiques des contrats mentionnés aux articles L. 2512-1 à L. 2513-5 du code de la commande
+publique.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance n°2005-649 du 6 juin 2005
-  - Ordonnance n°2015-899 du 23 juillet 2015 - art. 14
-  - Code de la voirie routière - art. L122-13
 
 _Cité par_:
 
@@ -2158,7 +2153,7 @@ _Cité par_:
   - Code de la voirie routière - art. L122-14 (VD)
   - Code de la voirie routière - art. L122-17 (V)
   - Code de la voirie routière - art. L122-18 (V)
-  - Code de la voirie routière - art. L122-20 (V)
+  - Code de la voirie routière - art. L122-20 (VD)
   - Code de la voirie routière - art. L122-21 (VD)
   - Code de la voirie routière - art. R122-28 (VD)
   - Code de la voirie routière - art. R122-33 (V)
@@ -2169,7 +2164,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1691 du 9 décembre 2016 - art. 41
+  - Ordonnance n°2018-1074 du 26 novembre 2018 - art. 11
+
+_Cite_:
+
+  - Code de la voirie routière - art. L122-13 (V)
+  - Code de la commande publique - art. L2512-1
 
 
 ###### Article L122-13
@@ -8586,8 +8586,7 @@ _Nouveaux textes_:
 
 La présente sous-section est applicable aux marchés mentionnés à l'article L. 122-12, y compris lorsque ces marchés sont
 passés avec des opérateurs économiques avec lesquels le concessionnaire s'est groupé pour obtenir le contrat de concession ou
-avec des entreprises qui leur sont liées au sens du  II de l'article 19 de l'ordonnance n° 2015-899 du 23 juillet 2015
-relative aux marchés publics.
+avec des entreprises qui leur sont liées au sens     de l'article L. 2511-8 du code de la commande publique.
 
 **Liens relatifs à cet article**
 
@@ -8596,34 +8595,34 @@ _Cite_:
   - Ordonnance n°2015-899 du 23 juillet 2015 - art. 19
   - Code de la voirie routière - art. L122-12
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-552 du 3 mai 2016 - art. 1
+  - Décret n°2018-1075 du 3 décembre 2018 - art. 9
 
 
 ###### Article R122-29
 
-Pour l'application des articles R. 122-30 et R. 122-31, la valeur estimée du besoin des marchés est calculée conformément aux
-articles 20 à 23 du décret n° 2016-360 du 25 mars 2016 relatif aux marchés publics.
+Pour l'application des articles R. 122-30 et R. 122-31, la valeur estimée du besoin des marchés est calculée conformément
+aux articles R. 2121-1 à R. 2121-9 et au 2° de l'article R. 2123-1 du code de la commande publique.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°2016-360 du 25 mars 2016 - art. 20 (V)
-  - Code de la voirie routière - art. R122-30 (V)
+  - Décret n°2016-360 du 25 mars 2016 - art. 20 (VT)
+  - Code de la voirie routière - art. R122-30 (VD)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-552 du 3 mai 2016 - art. 1
+  - Décret n°2018-1075 du 3 décembre 2018 - art. 9
 
 
 ###### Article R122-30
 
 Ne sont pas soumis à l'obligation de publicité et de mise en concurrence prévue à l'article L. 122-16 les marchés suivants : 
 
-1° Marchés répondant aux caractéristiques énumérées à l'article 29 et aux I et II de l'article 30 du décret n° 2016-360 du 25
-mars 2016 relatif aux marchés publics ; 
+1° Marchés répondant aux caractéristiques énumérées    
+   aux articles R. 2122-1 à R. 2122-11 et au 4° de l'article R. 2123-1 du code de la commande publique ; 
 
 2° Marchés de fournitures ou services autres que ceux mentionnés au 1° dont la valeur estimée du besoin est inférieure à 240
 000 € HT ; 
@@ -8635,17 +8634,17 @@ préjudice de l'obligation de publication prévue au 1° du IV de l'article R. 1
 
 _Cite_:
 
-  - Décret n°2016-360 du 25 mars 2016 - art. 30
-  - Décret n°2016-360 du 25 mars 2016 - art. 29 (V)
+  - Décret n°2016-360 du 25 mars 2016 - art. 29 (VT)
+  - Décret n°2016-360 du 25 mars 2016 - art. 30 (VT)
   - Code de la voirie routière - art. L122-16
 
 _Modifié par_:
 
-  - Décret n°2017-1816 du 28 décembre 2017 - art. 1
+  - Décret n°2018-1075 du 3 décembre 2018 - art. 9
 
 _Cité par_:
 
-  - Code de la voirie routière - art. R122-29 (V)
+  - Code de la voirie routière - art. R122-29 (VD)
   - Code de la voirie routière - art. R122-31 (VD)
   - Code de la voirie routière - art. R122-32 (VD)
   - Code de la voirie routière - art. R122-39 (VD)
@@ -8656,54 +8655,53 @@ _Cité par_:
 I.-Les marchés ne relevant pas de l'article R. 122-30 font l'objet d'une publicité permettant la présentation de plusieurs
 offres concurrentes dans les conditions prévues aux II à VI.
 
-Pour l'application des dispositions du décret n° 2016-360 du 25 mars 2016 relatif aux marchés publics, les marchés mentionnés
-au premier alinéa sont assimilés à des marchés publics, le concessionnaire d'autoroute est assimilé à un pouvoir adjudicateur
-et les références aux seuils de procédures formalisées renvoient aux seuils définis aux 2° et 3° de l'article R. 122-30.
+Pour l'application des dispositions des livres Ier et II de la deuxième partie du code de la commande publique, les marchés
+mentionnés au premier alinéa sont assimilés à des marchés publics, le concessionnaire d'autoroute est assimilé à un pouvoir
+adjudicateur et les références aux seuils de procédures formalisées renvoient aux seuils définis aux 2° et 3° de l'article R.
+122-30.
 
-II.-Le marché est préparé dans les conditions prévues au titre II de la première partie du décret du 25 mars 2016
-susmentionné, à l'exception de son chapitre III.
+II.-Le marché est préparé dans les conditions prévues au titre Ier du livre Ier de la deuxième partie du même code.
 
-III.-Le concessionnaire passe ses marchés selon l'une des procédures formalisées énumérées au I de l'article 25 du décret du
-25 mars 2016 susmentionné.
+III.-Le concessionnaire passe ses marchés selon l'une des procédures formalisées prévues au chapitre IV du titre II du livre
+Ier de la deuxième partie du même code.
 
 Le concessionnaire d'autoroute peut utiliser la procédure concurrentielle avec négociation ou le dialogue compétitif dans les
 cas suivants :
 
-1° Pour les marchés de travaux, de fournitures ou services, dans les cas énumérés au II de l'article 25 du décret
-susmentionné ;
+1° Pour les marchés de travaux, de fournitures ou services, dans les cas énumérés à l'article R. 2124-3 du même code ;
 
 2° Pour les autres marchés de travaux, lorsque la valeur estimée du besoin est inférieure à 2 millions d'euros HT.
 
-IV.-La publicité préalable est organisée dans les conditions prévues par les articles 31, 33, 36 et 37 du décret du 25 mars
-2016 susmentionné, sous réserve des adaptations suivantes :
+IV.-La publicité préalable est organisée dans les conditions prévues aux articles R. 2131-1, R. 2131-2, R. 2131-4 à R.
+2131-6, R. 2131-10, R. 2131-11 et R. 2131-16 à R. 2131-20 du même code, sous réserve des adaptations suivantes :
 
 1° La programmation de l'ensemble des investissements prévus par le contrat de concession pour les cinq années à venir est
-publiée sur le profil d'acheteur défini au troisième alinéa du I de l'article 31 du décret susmentionné ;
+publiée sur le profil d'acheteur défini à l'article R. 2132-3 du même code ;
 
 2° Pour les marchés de travaux dont la valeur estimée du besoin est supérieure ou égale à 2 millions d'euros HT :
 
-a) L'avis de préinformation prévu au I de l'article 31 du décret susmentionné est obligatoire. Cet avis est envoyé à la
-publication au moins trois mois et au plus tôt douze mois avant la date d'envoi de l'avis d'appel à la concurrence ;
+a) L'avis de préinformation prévu à l'article R. 2131-1 du même code est obligatoire. Cet avis est envoyé à la publication au
+moins trois mois et au plus tôt douze mois avant la date d'envoi de l'avis d'appel à la concurrence ;
 
-b) Le II de l'article 31 et l'article 37 du même décret ne sont pas applicables.
+b) Les articles R. 2131-4 à R. 2131-6, R. 2131-10 et R. 2131-11 du même code ne sont pas applicables.
 
-V.-Les procédures de passation sont régies par les chapitres IV à VII du titre III de la première partie du décret du 25 mars
-2016 susmentionné.
+V.-Les procédures de passation sont régies par le chapitre II du titre III, les titres IV à VII du livre Ier de la deuxième
+partie du code de la commande publique à l'exception des articles R. 2172-7 à R. 2172-19.
 
 Toutefois, pour les marchés de travaux passés par le concessionnaire relevant du 1° de l'article R. 122-33, le recours à la
-possibilité de restreindre le nombre de candidats prévue à l'article 47 du décret susmentionné est encadré par les règles
+possibilité de restreindre le nombre de candidats prévue à l'article R. 2142-15 du même code est encadré par les règles
 internes de sa commission des marchés.
 
-VI.-Les conditions d'achèvement de la procédure sont régies par le chapitre VIII du titre III de la première partie du décret
-du 25 mars 2016 susmentionné sous réserve des adaptations suivantes :
+VI.-Les conditions d'achèvement de la procédure sont régies par le titre VIII du livre Ier de la deuxième partie du code de
+la commande publique sous réserve des adaptations suivantes :
 
-1° Sans préjudice de l'article 101 de ce décret, la signature du marché intervient dans les conditions prévues à l'article R.
-122-39-1 ;
+1° Sans préjudice des articles R. 2182-1 et R. 2182-2 du même code, la signature du marché intervient dans les conditions
+prévues à l'article R. 122-39-1 ;
 
-2° L'article 107 du même décret n'est pas applicable.
+2° L'article R. 2196-1 du même code n'est pas applicable.
 
-VII.-Les conditions dans lesquelles le marché peut être modifié sont régies par le chapitre IV du titre IV de la première
-partie du décret du 25 mars 2016 susmentionné.
+VII.-Les conditions dans lesquelles le marché peut être modifié sont régies par le chapitre IV du titre IX du livre Ier de la
+deuxième partie du même code.
 
 **Nota:**
 
@@ -8713,16 +8711,16 @@ partie du décret du 25 mars 2016 susmentionné.
 
 _Cite_:
 
-  - Décret n°2016-360 du 25 mars 2016 - art. 101
-  - Décret n°2016-360 du 25 mars 2016 - art. 107
-  - Décret n°2016-360 du 25 mars 2016 - art. 25
-  - Décret n°2016-360 du 25 mars 2016 - art. 31
+  - Décret n°2016-360 du 25 mars 2016 - art. 101 (VT)
+  - Décret n°2016-360 du 25 mars 2016 - art. 107 (VT)
+  - Décret n°2016-360 du 25 mars 2016 - art. 25 (VT)
+  - Décret n°2016-360 du 25 mars 2016 - art. 31 (VT)
   - Code de la voirie routière - art. R122-33
-  - Code de la voirie routière - art. R122-39-1 (V)
+  - Code de la voirie routière - art. R122-39-1 (VD)
 
 _Modifié par_:
 
-  - Décret n°2017-1816 du 28 décembre 2017 - art. 1
+  - Décret n°2018-1075 du 3 décembre 2018 - art. 9
 
 _Cité par_:
 
@@ -8739,24 +8737,19 @@ divulgation serait contraire à l'ordre public, des marchés répondant à un be
 
 2° Pour les marchés de fournitures et services, supérieure ou égale au seuil mentionné au 2° de l'article R. 122-30. 
 
-Ces données comprennent les informations énumérées aux 1° et 2° du I de l'article 107 du décret n° 2016-360 du 25 mars 2016
-relatif aux marchés publics.
-
-**Nota:**
-
-Conformément à l’article 4 du décret n° 2017-1816 du 28 décembre 2017, ces dispositions sont applicables pour les marchés et
-contrats notifiés à compter du 1er janvier 2018.
+Ces données comprennent les informations énumérées                        dans l'arrêté du ministre chargé de l'économie
+prévu à l'article R. 2196-1 du code de la commande publique.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°2016-360 du 25 mars 2016 - art. 107 (V)
-  - Code de la voirie routière - art. R122-30 (V)
+  - Décret n°2016-360 du 25 mars 2016 - art. 107
+  - Code de la voirie routière - art. R122-30
 
 _Modifié par_:
 
-  - Décret n°2017-1816 du 28 décembre 2017 - art. 1
+  - Décret n°2018-1075 du 3 décembre 2018 - art. 9
 
 
 ##### Sous-section 1 bis : Passation des marchés relevant de l'article L. 122-13<a id=111></a>
@@ -8764,23 +8757,22 @@ _Modifié par_:
 ###### Article R122-32-1
 
 Pour les marchés de travaux relevant de l'article L. 122-13, le seuil de procédure formalisée est fixé à 2 000 000 € HT. Pour
-l'application à ces marchés des dispositions du  décret n° 2016-360 du 25 mars 2016  relatif aux marchés publics, les
-références au seuil de procédure formalisée renvoient à ce seuil. 
+l'application à ces marchés des livres Ier et II de la deuxième partie du code de la commande publique, les références au
+seuil de procédure formalisée renvoient à ce seuil. 
 
-Pour les marchés de fournitures et services, les seuils de procédure formalisée sont les seuils européens mentionnés au  1°
-de l'article 42 de l'ordonnance n° 2015-899 du 23 juillet 2015  relative aux marchés publics.
+Pour les marchés de fournitures et services, les seuils de procédure formalisée sont les seuils européens mentionnés à
+l'article L. 2124-1 du code de la commande publique relative aux marchés publics.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°2018-1075 du 3 décembre 2018 - art. 9
+
 _Cite_:
 
-  - Ordonnance n°2015-899 du 23 juillet 2015 - art. 42
-  - Décret n°2016-360 du 25 mars 2016
-  - Code de la voirie routière - art. L122-13 (V)
-
-_Créé par_:
-
-  - Décret n°2017-1816 du 28 décembre 2017 - art. 1
+  - Code de la voirie routière - art. L122-13
+  - Code de la commande publique - art. L2124-1
 
 _Cité par_:
 
@@ -8830,8 +8822,7 @@ L'indépendance est appréciée à l'égard de l'ensemble des opérateurs écono
 
 1° Le concessionnaire ; 
 
-2° Les entreprises qui y sont liées, au sens du II de l'article 19 de l'ordonnance n° 2015-899 du 23 juillet 2015 relative
-aux marchés publics ; 
+2° Les entreprises qui y sont liées, au sens    de l'article L. 2511-8 du code de la commande publique ; 
 
 3° Les attributaires passés ; 
 
@@ -8862,9 +8853,9 @@ _Cite_:
   - Ordonnance n°2015-899 du 23 juillet 2015 - art. 19
   - Code de la voirie routière - art. L122-17
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-234 du 1er mars 2016 - art. 1
+  - Décret n°2018-1075 du 3 décembre 2018 - art. 9
 
 
 ###### Article R122-35
@@ -8918,19 +8909,19 @@ _Cite_:
 ###### Article R122-36
 
 Sont soumis à l'avis de la commission des marchés les marchés dont la passation est effectuée selon l'une des procédures
-formalisées énumérées au I de l'article 25 du décret n° 2016-360 du 25 mars 2016 relatif aux marchés publics et les avenants
-définis au I de l'article R. 122-39.
+formalisées        prévues au chapitre IV du titre II du livre Ier de la deuxième partie du code de la commande publique et
+les avenants définis au I de l'article R. 122-39.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°2016-360 du 25 mars 2016 - art. 25 (V)
+  - Décret n°2016-360 du 25 mars 2016 - art. 25
   - Code de la voirie routière - art. R122-39
 
 _Modifié par_:
 
-  - Décret n°2017-1816 du 28 décembre 2017 - art. 1
+  - Décret n°2018-1075 du 3 décembre 2018 - art. 9
 
 
 ###### Article R122-37
@@ -8979,47 +8970,47 @@ _Cité par_:
 ###### Article R122-39
 
 I.-Afin de permettre à l'Autorité de régulation des activités ferroviaires et routières d'engager les recours mentionnés à
-l'article L. 122-20, est conclu selon les modalités prévues au II : 
+l'article L. 122-20, est conclu selon les modalités prévues au II :
 
 1° Le projet de marché relevant de l'article L. 122-12 dont la valeur estimée du besoin est supérieure ou égale aux seuils
-mentionnés aux 2° et 3° de l'article R. 122-30 ; 
+mentionnés aux 2° et 3° de l'article R. 122-30 ;
 
 2° Le projet de marché relevant de l'article L. 122-13 dont la valeur estimée du besoin est supérieure ou égale aux seuils
-mentionnés à l'article R. 122-32-1 ; 
+mentionnés à l'article R. 122-32-1 ;
 
 3° Le projet d'avenant à un marché relevant du 1° ou du 2° entraînant seul ou cumulativement avec les avenants antérieurs,
-une augmentation du montant initial du marché supérieure à 5 % de ce montant et à 100 000 € HT ; 
+une augmentation du montant initial du marché supérieure à 5 % de ce montant et à 100 000 € HT ;
 
 4° Le projet d'avenant à un marché ne relevant pas du 1° ou du 2° entraînant seul ou cumulativement avec les avenants
-antérieurs une augmentation du montant initial du marché au-delà des seuils suivants : 
+antérieurs une augmentation du montant initial du marché au-delà des seuils suivants :
 
-a) Lorsque le marché relève de l'article L. 122-12, les seuils mentionnés aux 2° et 3° de l'article R. 122-30 ; 
+a) Lorsque le marché relève de l'article L. 122-12, les seuils mentionnés aux 2° et 3° de l'article R. 122-30 ;
 
-b) Lorsque le marché relève de l'article L. 122-13, les seuils mentionnés à l'article R. 122-32-1. 
+b) Lorsque le marché relève de l'article L. 122-13, les seuils mentionnés à l'article R. 122-32-1.
 
 En cas de conclusion d'un avenant relevant du 4°, le marché ainsi modifié est considéré comme relevant du 1° ou du 2° pour la
-conclusion des avenants ultérieurs. 
+conclusion des avenants ultérieurs.
 
 II.-Préalablement à la signature du marché ou de l'avenant, le concessionnaire ou, lorsqu'il dispose d'une commission des
 marchés, le président de cette commission transmet par voie électronique, à l'Autorité de régulation des activités
-ferroviaires et routières, les informations qu'elle définit. 
+ferroviaires et routières, les informations qu'elle définit.
 
-Toutefois, lorsque le marché répond aux caractéristiques définies au 1° du I de l'article 30 du décret n° 2016-360 du 25 mars
-2016 relatif aux marchés publics, ces éléments peuvent être transmis après la signature du contrat, sous réserve que la
-transmission soit effectuée au plus tard quinze jours francs après cette signature et préalablement à la publication de
-l'avis d'attribution mentionné à l'article 104 du même décret.
+Toutefois, lorsque le marché répond aux caractéristiques définies à l'article R. 2122-1 du code de la commande publique, ces
+éléments peuvent être transmis après la signature du contrat, sous réserve que la transmission soit effectuée au plus tard
+quinze jours francs après cette signature et préalablement à la publication de l'avis d'attribution mentionné à l'article R.
+2183-1 du même code.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°2016-360 du 25 mars 2016 - art. 104 (V)
-  - Décret n°2016-360 du 25 mars 2016 - art. 30 (V)
+  - Décret n°2016-360 du 25 mars 2016 - art. 30
+  - Décret n°2016-360 du 25 mars 2016 - art. 104 (VT)
   - Code de la voirie routière - art. L122-12
   - Code de la voirie routière - art. L122-13
   - Code de la voirie routière - art. L122-20
-  - Code de la voirie routière - art. R122-30 (V)
-  - Code de la voirie routière - art. R122-32-1 (V)
+  - Code de la voirie routière - art. R122-30
+  - Code de la voirie routière - art. R122-32-1
 
 _Cité par_:
 
@@ -9033,19 +9024,19 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-1816 du 28 décembre 2017 - art. 1
+  - Décret n°2018-1075 du 3 décembre 2018 - art. 9
 
 
 ###### Article R122-39-1
 
 Un délai minimal de dix-huit jours est respecté entre la date de réception par l'Autorité de régulation des activités
 ferroviaires et routières du dossier comportant les informations prévues au II de l'article R. 122-39 et la date de signature
-des marchés mentionnés aux 1° et 2° du I de ce même article.
+des marchés mentionnés aux 1° et 2° du I de ce même article. 
 
-Toutefois, le respect du délai mentionné au premier alinéa n'est pas exigé :
+Toutefois, le respect du délai mentionné au premier alinéa n'est pas exigé : 
 
-1° Lorsque le marché répond aux caractéristiques énumérées aux I et II de l'article 30 du décret n° 2016-360 du 25 mars 2016
-relatif aux marchés publics ;
+1° Lorsque le marché répond aux caractéristiques énumérées            aux articles R. 2122-1 à R. 2122-11 du code de la
+commande publique ; 
 
 2° Pour l'attribution des marchés subséquents fondés sur un accord-cadre ou des marchés spécifiques fondés sur un système
 d'acquisition dynamique.
@@ -9055,16 +9046,16 @@ d'acquisition dynamique.
 _Cite_:
 
   - Décret n°2016-360 du 25 mars 2016 - art. 30
-  - Code de la voirie routière - art. R122-39 (V)
+  - Code de la voirie routière - art. R122-39
 
 _Cité par_:
 
   - Arrêté du 4 août 2016 - art. 3 (V)
-  - Code de la voirie routière - art. R122-31 (V)
+  - Code de la voirie routière - art. R122-31 (VD)
 
 _Modifié par_:
 
-  - Décret n°2017-1816 du 28 décembre 2017 - art. 1
+  - Décret n°2018-1075 du 3 décembre 2018 - art. 9
 
 
 #### Section 5 : Installations annexes sur les autoroutes concédées<a id=114></a>
@@ -9079,7 +9070,7 @@ contrats suivants :
 1° Les marchés relevant de l'article L. 122-12 ou de l'article L. 122-13 ; 
 
 2° Les contrats de concession passés par le concessionnaire d'autoroutes lorsqu'il est une autorité concédante au sens de
-l'article 8 de l'ordonnance n° 2016-65 du 29 janvier 2016 relative aux contrats de concession. 
+l'article L. 1210-1 du code de la commande publique. 
 
 Toutefois, le 4° de l'article R. 122-41 est applicable aux contrats mentionnés au 2°.
 
@@ -9093,9 +9084,9 @@ _Cite_:
   - Code de la voirie routière - art. L122-23
   - Code de la voirie routière - art. R122-41
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-234 du 1er mars 2016 - art. 1
+  - Décret n°2018-1075 du 3 décembre 2018 - art. 9
 
 
 ###### Article R122-40-1
@@ -9121,32 +9112,33 @@ _Cité par_:
 
 ###### Article R122-41
 
-La passation et l'exécution des contrats d'exploitation sont régies par les titres II et III du décret n° 2016-86 du 1er
-février 2016 relatif aux contrats de concession, sous réserve des adaptations suivantes : 
+La passation et l'exécution des contrats d'exploitation sont régies par les titres II et III du livre Ier de la troisième
+partie du code de la commande publique, sous réserve des adaptations suivantes :
 
-1° Pour l'application du décret mentionné au premier alinéa, les contrats d'exploitation sont assimilés à des contrats de
-concession relevant du 1° de l'article 9 de ce même décret, le concessionnaire d'autoroutes est assimilé à un pouvoir
-adjudicateur et l'exploitant des installations annexes est assimilé au concessionnaire ; 
+1° Pour l'application des dispositions du code de la commande publique mentionnées au premier alinéa, les contrats
+d'exploitation sont assimilés à des contrats de concession ne relevant pas du chapitre VI du titre II du livre Ier de la
+troisième partie de ce code, le concessionnaire d'autoroutes est assimilé à un pouvoir adjudicateur et l'exploitant des
+installations annexes est assimilé au concessionnaire ;
 
-2° Les dispositions de l'article 3, de l'article 6, du 2° de l'article 9, de l'article 10, du 2° de l'article 11, de
-l'article 33, de l'article 34 et de l'article 35 du même décret ne sont pas applicables ; 
+2° Les dispositions des articles R. 3113-1, R. 3114-1 à R. 3114-4, R. 3131-1 à R. 3131-4, R. 3134-1 à R. 3134-3 du même code
+ne sont pas applicables ;
 
-3° Au I de l'article 15 du même décret, la publication au Journal officiel de l'Union européenne n'est pas requise et le
-concessionnaire ne peut pas recourir à la faculté de publication au Bulletin officiel des annonces des marchés publics ; 
+3° La publication au Journal officiel de l'Union européenne prévue à l'article R. 3122-2 du même code n'est pas requise et le
+concessionnaire ne peut pas recourir à la faculté de publication au Bulletin officiel des annonces des marchés publics ;
 
-4° Les critères mentionnés aux articles 26 et 27 du même décret sont pondérés et comprennent au moins les critères relatifs
-aux éléments suivants : 
+4° Les critères mentionnés aux articles R. 3124-1 et R. 3124-4 du même code sont pondérés et comprennent au moins les
+critères relatifs aux éléments suivants :
 
-a) La qualité des services rendus aux usagers ; 
+a) La qualité des services rendus aux usagers ;
 
-b) La qualité technique et environnementale ; 
+b) La qualité technique et environnementale ;
 
-c) L'ensemble des rémunérations versées par l'exploitant au concessionnaire ; 
+c) L'ensemble des rémunérations versées par l'exploitant au concessionnaire ;
 
 d) Si le contrat d'exploitation porte sur la distribution de carburants, la politique de modération tarifaire pratiquée par
-l'exploitant, la pondération de ce critère étant au moins égale à celle du critère relatif aux rémunérations ; 
+l'exploitant, la pondération de ce critère étant au moins égale à celle du critère relatif aux rémunérations ;
 
-5° Au II de l'article 32 du même décret, la publication au Journal officiel de l'Union européenne est remplacée par une
+5° A l'article R. 3125-6 du même code, la publication au Journal officiel de l'Union européenne est remplacée par une
 publication dans un journal d'annonces légales et dans une publication spécialisée correspondant au secteur économique
 concerné.
 
@@ -9154,13 +9146,13 @@ concerné.
 
 _Cite_:
 
-  - Décret n°2016-86 du 1er février 2016 - art. 26
-  - Décret n°2016-86 du 1er février 2016 - art. 32
-  - Décret n°2016-86 du 1er février 2016 - art. 9 (V)
+  - Décret n°2016-86 du 1er février 2016 - art. 26 (VT)
+  - Décret n°2016-86 du 1er février 2016 - art. 32 (VT)
+  - Décret n°2016-86 du 1er février 2016 - art. 9 (VT)
 
 _Modifié par_:
 
-  - Décret n°2017-1816 du 28 décembre 2017 - art. 2
+  - Décret n°2018-1075 du 3 décembre 2018 - art. 9
 
 _Cité par_:
 
@@ -9170,25 +9162,20 @@ _Cité par_:
 ###### Article R122-41-1
 
 Le concessionnaire publie, sur son profil d'acheteur, les données essentielles, à l'exception des informations dont la
-divulgation serait contraire à l'ordre public, des contrats d'exploitation. 
+divulgation serait contraire à l'ordre public, des contrats d'exploitation.
 
-Ces données comprennent les informations énumérées aux 1° et 2° du I de l'article 34 du décret n° 2016-86 du 1er mars 2016
-relatif aux contrats de concession.
-
-**Nota:**
-
-Conformément à l’article 4 du décret n° 2017-1816 du 28 décembre 2017, ces dispositions sont applicables pour les marchés et
-contrats notifiés à compter du 1er janvier 2018.
+Ces données comprennent les données essentielles énumérées dans l'arrêté du ministre chargé de l'économie prévu à l'article
+R. 3131-1 du code de la commande publique, à l'exception des données relatives à la modification des contrats de concession.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°2016-86 du 1er février 2016 - art. 34 (V)
+  - Décret n°2016-86 du 1er février 2016 - art. 34 (VT)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-1816 du 28 décembre 2017 - art. 2
+  - Décret n°2018-1075 du 3 décembre 2018 - art. 9
 
 
 ##### Sous-section 2 : Procédure d'agrément<a id=116></a>
