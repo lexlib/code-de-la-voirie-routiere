@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2019-04-01
+Version Consolidée au 2019-10-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L173-3)](#1)
     - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. L111-1 à L119-10)](#2)
@@ -32,132 +32,133 @@ de marchandises par route (art. L119-5 à L119-8)](#21)
         - [Section 3 : Régulation des tarifs de péage. (art. L122-7 à L122-11)](#28)
         - [Section 4 : Régulation des marchés de travaux, fournitures et services du réseau autoroutier concédé. (art. L122-12 à L122-22)](#29)
         - [Section 5 : Installations annexes sur les autoroutes concédées. (art. L122-23 à L122-29)](#30)
-        - [Section 6 : Dispositions relatives à l'Autorité de régulation des activités ferroviaires et routières. (art. L122-30 à L122-33)](#31)
-      - [Chapitre III : Routes nationales. (art. L123-1 à L123-8)](#32)
-        - [Section 1 : Classement et déclassement. (art. L123-2 à L123-5)](#33)
-        - [Section 2 : Alignement. (art. L123-6 à L123-7)](#34)
-        - [Section 3 : Dispositions relatives à la création de voies accédant aux routes nationales. (art. L123-8)](#35)
-    - [TITRE III : Voirie départementale. (art. L131-1 à L131-8)](#36)
-      - [Chapitre unique. (art. L131-1 à L131-8)](#37)
-    - [TITRE IV : Voirie communale. (art. L141-1 à L141-12)](#38)
-      - [Chapitre unique. (art. L141-1 à L141-12)](#39)
-        - [Section 1 : Emprise du domaine public routier communal. (art. L141-2 à L141-7)](#40)
-        - [Section 2 : Entretien des voies communales. (art. L141-8 à L141-9)](#41)
-        - [Section 3 : Dispositions relatives à la coordination des travaux exécutés sur les voies communales situées à l'extérieur des agglomérations. (art. L141-10)](#42)
-        - [Section 4 : Dispositions relatives aux travaux affectant le sol et le sous-sol des voies communales. (art. L141-11)](#43)
-        - [Section 5 : Dispositions applicables au cas où il existe un établissement public de coopération intercommunale. (art. L141-12)](#44)
-    - [TITRE V : Voies à statuts particuliers. (art. L151-1 à L153-9)](#45)
-      - [Chapitre Ier : Routes express. (art. L151-1 à L151-5)](#46)
-      - [Chapitre II : Déviations. (art. L152-1 à L152-2)](#47)
-      - [Chapitre III : Ouvrages d'art. (art. L153-1 à L153-9)](#48)
-        - [Section 1 : Dispositions générales. (art. L153-1 à L153-5)](#49)
-        - [Section 2 : Dispositions particulières. (art. L153-7 à L153-9)](#50)
-    - [TITRE VI : Dispositions applicables aux voies n'appartenant pas au domaine public. (art. L161-1 à L162-6)](#51)
-      - [Chapitre Ier : Chemins ruraux. (art. L161-1 à L161-2)](#52)
-      - [Chapitre II : Voies privées. (art. L162-1 à L162-6)](#53)
-        - [Section 1 : Dispositions générales. (art. L162-1)](#54)
-        - [Section 2 : Chemins et sentiers d'exploitation. (art. L162-2 à L162-3)](#55)
-        - [Section 3 : Autres voies privées. (art. L162-4 à L162-6)](#56)
-    - [TITRE VII : Dispositions particulières. (art. L171-1 à L173-3)](#57)
-      - [Chapitre Ier : Dispositions applicables à la ville de Paris. (art. L171-1 à L171-21)](#58)
-        - [Section 1 : Voies publiques. (art. L171-2 à L171-11)](#59)
-        - [Section 2 : Voies privées (art. L171-12 à L171-21)](#60)
-          - [Sous-section 1 : Assainissement d'office. (art. L171-12 à L171-13)](#61)
-          - [Sous-section 2 : Classement des voies privées ouvertes à la circulation publique. (art. L171-14 à L171-15)](#62)
-          - [Sous-section 3 : Dispositions financières. (art. L171-16 à L171-21)](#63)
-      - [Chapitre II : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique, La Réunion et Mayotte (art. L172-1 à L172-2)](#64)
-        - [Section 1 : Disposition particulières à la Guyane et à La Réunion (art. L172-1)](#65)
-        - [Section 2 : Dispositions particulières à Mayotte (art. L172-2)](#66)
-      - [Chapitre III : Dispositions diverses. (art. L173-1 à L173-3)](#67)
-  - [Partie réglementaire (art. R*111-1 à R*173-2)](#68)
-    - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. R*111-1 à R*119-37)](#69)
-      - [Chapitre Ier : Equipements routiers et enquêtes de circulation. (art. R*111-1 à D111-3)](#70)
-        - [Section 1 : Equipements routiers. (art. R*111-1 à R111-2)](#71)
-        - [Section 2 : Enquêtes de circulation. (art. D111-2 à D111-3)](#72)
-      - [Chapitre II : Emprise. (art. R*112-1 à R*112-3)](#73)
-        - [Section 1 : Alignement. (art. R*112-1 à R*112-3)](#74)
-      - [Chapitre III : Utilisation. (art. R*113-1 à R113-11)](#75)
-      - [Chapitre IV : Riveraineté. (art. R*114-1 à R*114-2)](#76)
-        - [Section 1 : Servitudes de visibilité. (art. R*114-1 à R*114-2)](#77)
-      - [Chapitre V : Travaux (art. R*115-1 à R*115-4)](#78)
-        - [Section unique : Coordination des travaux exécutés sur les voies publiques situées à l'intérieur des agglomérations. (art. R*115-1 à R*115-4)](#79)
-      - [Chapitre VI : Police de la conservation. (art. R*116-1 à R*116-2)](#80)
-      - [Chapitre VIII : Sécurité des ouvrages et des infrastructures. (art. R118-1-1 à R118-5-6)](#81)
-        - [Section 1 : Ouvrages dont l'exploitation présente des risques particuliers pour la sécurité des personnes (art. R118-1-1 à R118-1-2)](#82)
-        - [Section 2 : Commission nationale d'évaluation de la sécurité des ouvrages routiers et agrément des experts (art. D118-2-1 à R118-2-4)](#83)
-        - [Section 3 : Procédures et règles relatives à la sécurité des ouvrages routiers dont l'exploitation présente des risques particuliers pour la sécurité des personnes (art. R118-3-1 à R118-3-9)](#84)
-        - [Section 4 : Procédures et règles complémentaires relatives aux tunnels de plus de 500 mètres du réseau routier transeuropéen (art. R118-4-1 à R118-4-7)](#85)
-        - [Section 5 : Procédures de gestion de la sécurité des infrastructures routières (art. D118-5-1 à R118-5-6)](#86)
-      - [Chapitre IX : Equipements routiers. (art. R*119-1 à R119-12)](#87)
-        - [Section 1 : Champ d'application (art. R*119-1)](#88)
-        - [Section 2 : Evaluation et attestation de conformité (art. R*119-2 à R*119-4)](#89)
-          - [Sous-section 1 : Equipements soumis au marquage CE (art. R*119-2 à R*119-3)](#90)
-          - [Sous-section 2 : Equipements non soumis au marquage CE (art. R**119-5 à R*119-4)](#91)
-        - [Section 3 : Règles de mise en service (art. R*119-6 à R119-10)](#92)
-        - [Section 4 : Dispositions diverses (art. R119-11 à R119-12)](#93)
-      - [Chapitre X : Dispositions relatives au péage (art. D119-20-1 à R*119-37)](#94)
-        - [Section 1 : Service européen de télépéage (art. D119-20-1 à R*119-31)](#95)
-          - [Sous-section 1 : Les obligations des percepteurs de péage enregistrés en France (art. D119-20-1 à R*119-20)](#96)
-          - [Sous-section 2 : Les obligations des prestataires du service européen de télépéage enregistrés en France (art. R*119-21 à R*119-28)](#97)
-          - [Sous-section 3 : Les obligations des utilisateurs du service européen de télépéage (art. R*119-29 à R*119-31)](#98)
-        - [Section 2 : Péages applicables aux véhicules de transport de marchandises par route (art. D119-31-1 à R*119-33)](#99)
-        - [Section 3 : Péages applicables aux véhicules de transport de personnes par route (art. R*119-34 à R*119-37)](#100)
-    - [TITRE II : Voirie nationale. (art. R*121-1 à R*123-5)](#101)
-      - [Chapitre Ier : Dispositions communes aux autoroutes et aux routes nationales. (art. R*121-1)](#102)
-      - [Chapitre II : Autoroutes. (art. R*122-2 à R122-48)](#103)
-        - [Section 1 : Dispositions générales. (art. R*122-2 à R122-5-5)](#104)
-        - [Section 2 : Dispositions financières. (art. R*122-6 à R*122-26)](#105)
-          - [Sous-section 1 : Caisse nationale des autoroutes. (art. R*122-6 à R*122-15)](#106)
-          - [Sous-section 2 : Autoroutes de France. (art. R*122-16 à R*122-26)](#107)
-        - [Section 3 : Régulation des tarifs de péage (art. R122-27)](#108)
-        - [Section 4 : Régulation des marchés de travaux, fournitures et services du réseau autoroutier concédé (art. R122-28 à R122-39-1)](#109)
-          - [Sous-section 1 : Passation des marchés relevant de l'article L. 122-12 (art. R122-28 à R122-32)](#110)
-          - [Sous-section 1 bis : Passation des marchés relevant de l'article L. 122-13 (art. R122-32-1)](#111)
-          - [Sous-section 2 : Commission des marchés (art. R122-33 à R122-38)](#112)
-          - [Sous-section 3 : Référé de l'Autorité de régulation des activités ferroviaires et routières (art. R122-39 à R122-39-1)](#113)
-        - [Section 5 : Installations annexes sur les autoroutes concédées (art. R122-40 à D122-46)](#114)
-          - [Sous-section 1 : Passation des contrats (art. R122-40 à R122-41-1)](#115)
-          - [Sous-section 2 : Procédure d'agrément (art. R122-42 à R122-45)](#116)
-          - [Sous-section 3 : Conditions d'organisation du service public (art. D122-46)](#117)
-        - [Section 6 : Dispositions relatives à l'Autorité de régulation des activités ferroviaires et routières (art. R122-47)](#118)
-        - [Section 7 : Redevance domaniale. (art. R122-48)](#119)
-      - [Chapitre III : Routes nationales. (art. R*123-1 à R*123-5)](#120)
-        - [Section 1 : Classement et déclassement. (art. R*123-1 à R*123-2)](#121)
-        - [Section 2 : Alignement. (art. R*123-3 à R*123-4)](#122)
-        - [Section 3 : Disposition relative à la création de voies accédant aux routes nationales. (art. R*123-5)](#123)
-    - [TITRE III : Voirie départementale. (art. R*131-1 à R*131-11)](#124)
-      - [Chapitre unique. (art. R*131-1 à R*131-11)](#125)
-        - [Section 1 : Caractéristiques techniques du domaine public routier départemental. (art. R*131-1 à R*131-2)](#126)
-        - [Section 2 : Enquête publique relative au classement, au déclassement, à l'établissement des plans d'alignement et de nivellement, à l'ouverture, au redressement et à l'élargissement des routes départementales. (art. R*131-3 à R*131-8)](#127)
-        - [Section 3 : Dispositions relatives à la coordination des travaux exécutés sur les routes départementales. (art. R*131-9 à R*131-11)](#128)
-    - [TITRE IV : Voirie communale. (art. R*141-1 à R*141-22)](#129)
-      - [Chapitre unique (art. R*141-1 à R*141-22)](#130)
-        - [Section 1 : Emprise du domaine public routier communal. (art. R*141-1 à R*141-11)](#131)
-          - [Sous-section 1 : Alignement et caractéristiques techniques. (art. R*141-1 à R*141-3)](#132)
-          - [Sous-section 2 : Enquête publique relative au classement, à l'ouverture, au redressement, à la fixation de la largeur et au déclassement des voies communales. (art. R*141-4 à R*141-10)](#133)
-          - [Sous-section 3 : Publicité foncière. (art. R*141-11)](#134)
-        - [Section 3 : Coordination des travaux exécutés sur les voies communales situées à l'extérieur des agglomérations. (art. R*141-12)](#135)
-        - [Section 4 : Dispositions relatives aux travaux affectant le sol et le sous-sol des voies communales. (art. R*141-13 à R*141-21)](#136)
-        - [Section 5 : Dispositions applicables dans le cas où il existe un établissement public de coopération intercommunale. (art. R*141-22)](#137)
-    - [TITRE V : Voies à statuts particuliers. (art. R*151-2 à R*153-3)](#138)
-      - [Chapitre Ier : Routes express. (art. R*151-2 à R151-1)](#139)
-      - [Chapitre II : Déviations. (art. R*152-2 à R152-1)](#140)
-      - [Chapitre III : Ouvrages d'art. (art. R*153-1 à R*153-3)](#141)
-        - [Section 1 : Dispositions générales. (art. R*153-1)](#142)
-        - [Section 2: Dispositions particulières. (art. R*153-3)](#143)
-    - [TITRE VI : Dispositions applicables aux voies n'appartenant pas au domaine public. (art. R*161-1 à R*163-1)](#144)
-      - [Chapitre Ier : Chemins ruraux. (art. R*161-1 à R*161-2)](#145)
-      - [Chapitre II : Voies privées. (art. R*162-1 à R*162-2)](#146)
-        - [Section 1 : Dispositions générales. (art. R*162-1)](#147)
-        - [Section 3 : Autres voies privées. (art. R*162-2)](#148)
-      - [Chapitre III : Dispositions communes. (art. R*163-1)](#149)
-    - [TITRE VII : Dispositions particulières. (art. R*171-1 à R*173-2)](#150)
-      - [Chapitre Ier : Dispositions applicables à la ville de Paris. (art. R*171-1 à R*171-8)](#151)
-        - [Section 1 : Voies publiques. (art. R*171-1 à R*171-5)](#152)
-        - [Section 2 : Voies privées. (art. R*171-6 à R*171-7)](#153)
-        - [Section 3 : Coordination des travaux. (art. R*171-8)](#154)
-      - [Chapitre II : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique, La Réunion et Mayotte (art. R172-1)](#155)
-      - [Chapitre III : Dispositions diverses. (art. R*173-1 à R*173-2)](#156)
+        - [Section 6 : Dispositions relatives à l'Autorité de régulation des activités ferroviaires et routières. (art.  à L122-29)](#31)
+        - [Section 6 : Dispositions relatives à l'Autorité de régulation des transports. (art. L122-30 à L122-33)](#32)
+      - [Chapitre III : Routes nationales. (art. L123-1 à L123-8)](#33)
+        - [Section 1 : Classement et déclassement. (art. L123-2 à L123-5)](#34)
+        - [Section 2 : Alignement. (art. L123-6 à L123-7)](#35)
+        - [Section 3 : Dispositions relatives à la création de voies accédant aux routes nationales. (art. L123-8)](#36)
+    - [TITRE III : Voirie départementale. (art. L131-1 à L131-8)](#37)
+      - [Chapitre unique. (art. L131-1 à L131-8)](#38)
+    - [TITRE IV : Voirie communale. (art. L141-1 à L141-12)](#39)
+      - [Chapitre unique. (art. L141-1 à L141-12)](#40)
+        - [Section 1 : Emprise du domaine public routier communal. (art. L141-2 à L141-7)](#41)
+        - [Section 2 : Entretien des voies communales. (art. L141-8 à L141-9)](#42)
+        - [Section 3 : Dispositions relatives à la coordination des travaux exécutés sur les voies communales situées à l'extérieur des agglomérations. (art. L141-10)](#43)
+        - [Section 4 : Dispositions relatives aux travaux affectant le sol et le sous-sol des voies communales. (art. L141-11)](#44)
+        - [Section 5 : Dispositions applicables au cas où il existe un établissement public de coopération intercommunale. (art. L141-12)](#45)
+    - [TITRE V : Voies à statuts particuliers. (art. L151-1 à L153-9)](#46)
+      - [Chapitre Ier : Routes express. (art. L151-1 à L151-5)](#47)
+      - [Chapitre II : Déviations. (art. L152-1 à L152-2)](#48)
+      - [Chapitre III : Ouvrages d'art. (art. L153-1 à L153-9)](#49)
+        - [Section 1 : Dispositions générales. (art. L153-1 à L153-5)](#50)
+        - [Section 2 : Dispositions particulières. (art. L153-7 à L153-9)](#51)
+    - [TITRE VI : Dispositions applicables aux voies n'appartenant pas au domaine public. (art. L161-1 à L162-6)](#52)
+      - [Chapitre Ier : Chemins ruraux. (art. L161-1 à L161-2)](#53)
+      - [Chapitre II : Voies privées. (art. L162-1 à L162-6)](#54)
+        - [Section 1 : Dispositions générales. (art. L162-1)](#55)
+        - [Section 2 : Chemins et sentiers d'exploitation. (art. L162-2 à L162-3)](#56)
+        - [Section 3 : Autres voies privées. (art. L162-4 à L162-6)](#57)
+    - [TITRE VII : Dispositions particulières. (art. L171-1 à L173-3)](#58)
+      - [Chapitre Ier : Dispositions applicables à la ville de Paris. (art. L171-1 à L171-21)](#59)
+        - [Section 1 : Voies publiques. (art. L171-2 à L171-11)](#60)
+        - [Section 2 : Voies privées (art. L171-12 à L171-21)](#61)
+          - [Sous-section 1 : Assainissement d'office. (art. L171-12 à L171-13)](#62)
+          - [Sous-section 2 : Classement des voies privées ouvertes à la circulation publique. (art. L171-14 à L171-15)](#63)
+          - [Sous-section 3 : Dispositions financières. (art. L171-16 à L171-21)](#64)
+      - [Chapitre II : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique, La Réunion et Mayotte (art. L172-1 à L172-2)](#65)
+        - [Section 1 : Disposition particulières à la Guyane et à La Réunion (art. L172-1)](#66)
+        - [Section 2 : Dispositions particulières à Mayotte (art. L172-2)](#67)
+      - [Chapitre III : Dispositions diverses. (art. L173-1 à L173-3)](#68)
+  - [Partie réglementaire (art. R*111-1 à R*173-2)](#69)
+    - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. R*111-1 à R*119-37)](#70)
+      - [Chapitre Ier : Equipements routiers et enquêtes de circulation. (art. R*111-1 à D111-3)](#71)
+        - [Section 1 : Equipements routiers. (art. R*111-1 à R111-2)](#72)
+        - [Section 2 : Enquêtes de circulation. (art. D111-2 à D111-3)](#73)
+      - [Chapitre II : Emprise. (art. R*112-1 à R*112-3)](#74)
+        - [Section 1 : Alignement. (art. R*112-1 à R*112-3)](#75)
+      - [Chapitre III : Utilisation. (art. R*113-1 à R113-11)](#76)
+      - [Chapitre IV : Riveraineté. (art. R*114-1 à R*114-2)](#77)
+        - [Section 1 : Servitudes de visibilité. (art. R*114-1 à R*114-2)](#78)
+      - [Chapitre V : Travaux (art. R*115-1 à R*115-4)](#79)
+        - [Section unique : Coordination des travaux exécutés sur les voies publiques situées à l'intérieur des agglomérations. (art. R*115-1 à R*115-4)](#80)
+      - [Chapitre VI : Police de la conservation. (art. R*116-1 à R*116-2)](#81)
+      - [Chapitre VIII : Sécurité des ouvrages et des infrastructures. (art. R118-1-1 à R118-5-6)](#82)
+        - [Section 1 : Ouvrages dont l'exploitation présente des risques particuliers pour la sécurité des personnes (art. R118-1-1 à R118-1-2)](#83)
+        - [Section 2 : Commission nationale d'évaluation de la sécurité des ouvrages routiers et agrément des experts (art. D118-2-1 à R118-2-4)](#84)
+        - [Section 3 : Procédures et règles relatives à la sécurité des ouvrages routiers dont l'exploitation présente des risques particuliers pour la sécurité des personnes (art. R118-3-1 à R118-3-9)](#85)
+        - [Section 4 : Procédures et règles complémentaires relatives aux tunnels de plus de 500 mètres du réseau routier transeuropéen (art. R118-4-1 à R118-4-7)](#86)
+        - [Section 5 : Procédures de gestion de la sécurité des infrastructures routières (art. D118-5-1 à R118-5-6)](#87)
+      - [Chapitre IX : Equipements routiers. (art. R*119-1 à R119-12)](#88)
+        - [Section 1 : Champ d'application (art. R*119-1)](#89)
+        - [Section 2 : Evaluation et attestation de conformité (art. R*119-2 à R*119-4)](#90)
+          - [Sous-section 1 : Equipements soumis au marquage CE (art. R*119-2 à R*119-3)](#91)
+          - [Sous-section 2 : Equipements non soumis au marquage CE (art. R**119-5 à R*119-4)](#92)
+        - [Section 3 : Règles de mise en service (art. R*119-6 à R119-10)](#93)
+        - [Section 4 : Dispositions diverses (art. R119-11 à R119-12)](#94)
+      - [Chapitre X : Dispositions relatives au péage (art. D119-20-1 à R*119-37)](#95)
+        - [Section 1 : Service européen de télépéage (art. D119-20-1 à R*119-31)](#96)
+          - [Sous-section 1 : Les obligations des percepteurs de péage enregistrés en France (art. D119-20-1 à R*119-20)](#97)
+          - [Sous-section 2 : Les obligations des prestataires du service européen de télépéage enregistrés en France (art. R*119-21 à R*119-28)](#98)
+          - [Sous-section 3 : Les obligations des utilisateurs du service européen de télépéage (art. R*119-29 à R*119-31)](#99)
+        - [Section 2 : Péages applicables aux véhicules de transport de marchandises par route (art. D119-31-1 à R*119-33)](#100)
+        - [Section 3 : Péages applicables aux véhicules de transport de personnes par route (art. R*119-34 à R*119-37)](#101)
+    - [TITRE II : Voirie nationale. (art. R*121-1 à R*123-5)](#102)
+      - [Chapitre Ier : Dispositions communes aux autoroutes et aux routes nationales. (art. R*121-1)](#103)
+      - [Chapitre II : Autoroutes. (art. R*122-2 à R122-48)](#104)
+        - [Section 1 : Dispositions générales. (art. R*122-2 à R122-5-5)](#105)
+        - [Section 2 : Dispositions financières. (art. R*122-6 à R*122-26)](#106)
+          - [Sous-section 1 : Caisse nationale des autoroutes. (art. R*122-6 à R*122-15)](#107)
+          - [Sous-section 2 : Autoroutes de France. (art. R*122-16 à R*122-26)](#108)
+        - [Section 3 : Régulation des tarifs de péage (art. R122-27)](#109)
+        - [Section 4 : Régulation des marchés de travaux, fournitures et services du réseau autoroutier concédé (art. R122-28 à R122-39-1)](#110)
+          - [Sous-section 1 : Passation des marchés relevant de l'article L. 122-12 (art. R122-28 à R122-32)](#111)
+          - [Sous-section 1 bis : Passation des marchés relevant de l'article L. 122-13 (art. R122-32-1)](#112)
+          - [Sous-section 2 : Commission des marchés (art. R122-33 à R122-38)](#113)
+          - [Sous-section 3 : Référé de l'Autorité de régulation des transports (art. R122-39 à R122-39-1)](#114)
+        - [Section 5 : Installations annexes sur les autoroutes concédées (art. R122-40 à D122-46)](#115)
+          - [Sous-section 1 : Passation des contrats (art. R122-40 à R122-41-1)](#116)
+          - [Sous-section 2 : Procédure d'agrément (art. R122-42 à R122-45)](#117)
+          - [Sous-section 3 : Conditions d'organisation du service public (art. D122-46)](#118)
+        - [Section 6 : Dispositions relatives à l'Autorité de régulation des transports (art. R122-47)](#119)
+        - [Section 7 : Redevance domaniale. (art. R122-48)](#120)
+      - [Chapitre III : Routes nationales. (art. R*123-1 à R*123-5)](#121)
+        - [Section 1 : Classement et déclassement. (art. R*123-1 à R*123-2)](#122)
+        - [Section 2 : Alignement. (art. R*123-3 à R*123-4)](#123)
+        - [Section 3 : Disposition relative à la création de voies accédant aux routes nationales. (art. R*123-5)](#124)
+    - [TITRE III : Voirie départementale. (art. R*131-1 à R*131-11)](#125)
+      - [Chapitre unique. (art. R*131-1 à R*131-11)](#126)
+        - [Section 1 : Caractéristiques techniques du domaine public routier départemental. (art. R*131-1 à R*131-2)](#127)
+        - [Section 2 : Enquête publique relative au classement, au déclassement, à l'établissement des plans d'alignement et de nivellement, à l'ouverture, au redressement et à l'élargissement des routes départementales. (art. R*131-3 à R*131-8)](#128)
+        - [Section 3 : Dispositions relatives à la coordination des travaux exécutés sur les routes départementales. (art. R*131-9 à R*131-11)](#129)
+    - [TITRE IV : Voirie communale. (art. R*141-1 à R*141-22)](#130)
+      - [Chapitre unique (art. R*141-1 à R*141-22)](#131)
+        - [Section 1 : Emprise du domaine public routier communal. (art. R*141-1 à R*141-11)](#132)
+          - [Sous-section 1 : Alignement et caractéristiques techniques. (art. R*141-1 à R*141-3)](#133)
+          - [Sous-section 2 : Enquête publique relative au classement, à l'ouverture, au redressement, à la fixation de la largeur et au déclassement des voies communales. (art. R*141-4 à R*141-10)](#134)
+          - [Sous-section 3 : Publicité foncière. (art. R*141-11)](#135)
+        - [Section 3 : Coordination des travaux exécutés sur les voies communales situées à l'extérieur des agglomérations. (art. R*141-12)](#136)
+        - [Section 4 : Dispositions relatives aux travaux affectant le sol et le sous-sol des voies communales. (art. R*141-13 à R*141-21)](#137)
+        - [Section 5 : Dispositions applicables dans le cas où il existe un établissement public de coopération intercommunale. (art. R*141-22)](#138)
+    - [TITRE V : Voies à statuts particuliers. (art. R*151-2 à R*153-3)](#139)
+      - [Chapitre Ier : Routes express. (art. R*151-2 à R151-1)](#140)
+      - [Chapitre II : Déviations. (art. R*152-2 à R152-1)](#141)
+      - [Chapitre III : Ouvrages d'art. (art. R*153-1 à R*153-3)](#142)
+        - [Section 1 : Dispositions générales. (art. R*153-1)](#143)
+        - [Section 2: Dispositions particulières. (art. R*153-3)](#144)
+    - [TITRE VI : Dispositions applicables aux voies n'appartenant pas au domaine public. (art. R*161-1 à R*163-1)](#145)
+      - [Chapitre Ier : Chemins ruraux. (art. R*161-1 à R*161-2)](#146)
+      - [Chapitre II : Voies privées. (art. R*162-1 à R*162-2)](#147)
+        - [Section 1 : Dispositions générales. (art. R*162-1)](#148)
+        - [Section 3 : Autres voies privées. (art. R*162-2)](#149)
+      - [Chapitre III : Dispositions communes. (art. R*163-1)](#150)
+    - [TITRE VII : Dispositions particulières. (art. R*171-1 à R*173-2)](#151)
+      - [Chapitre Ier : Dispositions applicables à la ville de Paris. (art. R*171-1 à R*171-8)](#152)
+        - [Section 1 : Voies publiques. (art. R*171-1 à R*171-5)](#153)
+        - [Section 2 : Voies privées. (art. R*171-6 à R*171-7)](#154)
+        - [Section 3 : Coordination des travaux. (art. R*171-8)](#155)
+      - [Chapitre II : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique, La Réunion et Mayotte (art. R172-1)](#156)
+      - [Chapitre III : Dispositions diverses. (art. R*173-1 à R*173-2)](#157)
 # Partie législative<a id=1></a>
 
 ## TITRE Ier : Dispositions communes aux voies du domaine public routier.<a id=2></a>
@@ -1858,10 +1859,9 @@ _Cité par_:
 
 L'usage des autoroutes est en principe gratuit. 
 
-Toutefois, il peut être institué par décret en Conseil d'Etat, pris après avis de l'Autorité de régulation des activités
-ferroviaires et routières, un péage pour l'usage d'une autoroute en vue d'assurer la couverture totale ou partielle des
-dépenses de toute nature liées à la construction, à l'exploitation, à l'entretien, à l'aménagement ou à l'extension de
-l'infrastructure. 
+Toutefois, il peut être institué par décret en Conseil d'Etat, pris après avis de l'       Autorité de régulation des
+transports, un péage pour l'usage d'une autoroute en vue d'assurer la couverture totale ou partielle des dépenses de toute
+nature liées à la construction, à l'exploitation, à l'entretien, à l'aménagement ou à l'extension de l'infrastructure. 
 
 En cas de délégation des missions du service public autoroutier, le péage couvre également la rémunération et l'amortissement
 des capitaux investis par le délégataire. 
@@ -1871,8 +1871,8 @@ celle-ci, sous condition stricte de leur nécessité ou de leur utilité, ainsi 
 l'ouvrage principal. Leur financement ne peut être couvert que par une augmentation des tarifs de péages, raisonnable et
 strictement limitée à ce qui est nécessaire. Le cas échéant, l'Etat et les collectivités territoriales intéressées, dans le
 cadre des règles prévues dans le code général des collectivités territoriales, peuvent, à titre exceptionnel, apporter des
-concours. Un décret en Conseil d'Etat, pris après avis de l'Autorité de régulation des activités ferroviaires et routières,
-fixe les conditions d'application de ces dispositions. 
+concours. Un décret en Conseil d'Etat, pris après avis de l'       Autorité de régulation des transports, fixe les conditions
+d'application de ces dispositions. 
 
 La convention de délégation et le cahier des charges annexé fixent les conditions dans lesquelles le délégataire exerce les
 missions qui lui sont confiées par l'Etat et en contrepartie desquelles il est autorisé à percevoir des péages. Ces actes
@@ -1931,7 +1931,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2015-990 du 6 août 2015 - art. 15
+  - Ordonnance n°2019-761 du 24 juillet 2019 - art. 1
 
 
 ###### Article L122-4-1
@@ -2059,32 +2059,32 @@ _Cité par_:
 
 ###### Article L122-7
 
-L'Autorité de régulation des activités ferroviaires et routières mentionnée à l'article L. 2131-1 du code des transports
-veille au bon fonctionnement du régime des tarifs de péage autoroutier.
+L'       Autorité de régulation des transports mentionnée à l'article L. 2131-1 du code des transports veille au bon
+fonctionnement du régime des tarifs de péage autoroutier.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-990 du 6 août 2015 - art. 13
+  - Ordonnance n°2019-761 du 24 juillet 2019 - art. 1
 
 _Cite_:
 
-  - Code des transports - art. L2131-1 (V)
+  - Code des transports - art. L2131-1
 
 
 ###### Article L122-8
 
-L'Autorité de régulation des activités ferroviaires et routières est consultée sur les projets de modification de la
-convention de délégation, du cahier des charges annexé ou de tout autre contrat lorsqu'ils ont une incidence sur les tarifs
-de péage ou sur la durée de la convention de délégation. Elle est aussi consultée sur tout nouveau projet de délégation. Elle
-vérifie notamment le respect de l'article L. 122-4. Elle se prononce dans un délai de trois mois à compter de sa saisine.
+L'       Autorité de régulation des transports est consultée sur les projets de modification de la convention de délégation,
+du cahier des charges annexé ou de tout autre contrat lorsqu'ils ont une incidence sur les tarifs de péage ou sur la durée de
+la convention de délégation. Elle est aussi consultée sur tout nouveau projet de délégation. Elle vérifie notamment le
+respect de l'article L. 122-4. Elle se prononce dans un délai de trois mois à compter de sa saisine.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-990 du 6 août 2015 - art. 13
+  - Ordonnance n°2019-761 du 24 juillet 2019 - art. 1
 
 _Cité par_:
 
@@ -2095,24 +2095,24 @@ _Cité par_:
 
 ###### Article L122-9
 
-L'Autorité de régulation des activités ferroviaires et routières établit, au moins une fois tous les cinq ans, un rapport
-public portant sur l'économie générale des conventions de délégation. 
+L'       Autorité de régulation des transports établit, au moins une fois tous les cinq ans, un rapport public portant sur
+l'économie générale des conventions de délégation. 
 
-L'Autorité de régulation des activités ferroviaires et routières établit annuellement une synthèse des comptes des
-concessionnaires. Cette synthèse est publique et transmise au Parlement. 
+L'       Autorité de régulation des transports établit annuellement une synthèse des comptes des concessionnaires. Cette
+synthèse est publique et transmise au Parlement. 
 
-En outre, l'Autorité de régulation des activités ferroviaires et routières assure un suivi annuel des taux de rentabilité
-interne de chaque concession.
+En outre, l'       Autorité de régulation des transports assure un suivi annuel des taux de rentabilité interne de chaque
+concession.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-990 du 6 août 2015 - art. 13
+  - Ordonnance n°2019-761 du 24 juillet 2019 - art. 1
 
 _Cité par_:
 
-  - Code de la voirie routière - art. R122-47 (V)
+  - Code de la voirie routière - art. R122-47 (VD)
 
 
 ###### Article L122-10
@@ -2140,14 +2140,14 @@ _Cité par_:
 
 ###### Article L122-11
 
-Les modalités d'application de la présente section sont précisées par décret en Conseil d'Etat, pris après avis de l'Autorité
-de régulation des activités ferroviaires et routières.
+Les modalités d'application de la présente section sont précisées par décret en Conseil d'Etat, pris après avis de l'
+Autorité de régulation des transports.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-990 du 6 août 2015 - art. 13
+  - Ordonnance n°2019-761 du 24 juillet 2019 - art. 1
 
 
 #### Section 4 : Régulation des marchés de travaux, fournitures et services du réseau autoroutier concédé.<a id=29></a>
@@ -2229,18 +2229,18 @@ _Cite_:
 
 ###### Article L122-14
 
-L'Autorité de régulation des activités ferroviaires et routières veille à l'exercice d'une concurrence effective et loyale
-lors de la passation des marchés définis à l'article L. 122-12.
+L'       Autorité de régulation des transports veille à l'exercice d'une concurrence effective et loyale lors de la passation
+des marchés définis à l'article L. 122-12.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-990 du 6 août 2015 - art. 13
+  - Ordonnance n°2019-761 du 24 juillet 2019 - art. 1
 
 _Cite_:
 
-  - Code de la voirie routière - art. L122-12 (VD)
+  - Code de la voirie routière - art. L122-12
 
 _Cité par_:
 
@@ -2289,14 +2289,14 @@ concurrence, de la consommation et de la répression des fraudes.
 
 La commission des marchés est chargée de définir les règles internes pour la passation et l'exécution des marchés de travaux,
 fournitures et services et de veiller au respect des procédures de passation et d'exécution de ces marchés en application de
-la présente section. Ces règles, ainsi que la composition de la commission des marchés, sont soumises pour avis conforme à
-l'Autorité de régulation des activités ferroviaires et routières. 
+la présente section. Ces règles, ainsi que la composition de la commission des marchés, sont soumises pour avis conforme à l'
+Autorité de régulation des transports. 
 
 L'attribution des marchés dont la liste est fixée par voie réglementaire en fonction de la procédure de publicité et de mise
 en concurrence au terme de laquelle ils sont conclus est soumise à l'avis préalable de la commission des marchés. La
-commission des marchés transmet cet avis à l'Autorité de régulation des activités ferroviaires et routières et l'informe de
-tout manquement qu'elle constate, dans des délais permettant à l'autorité d'engager le recours mentionné à l'article L.
-122-20. Le concessionnaire ne peut refuser de suivre l'avis de la commission des marchés que par une décision de son conseil
+commission des marchés transmet cet avis à l'       Autorité de régulation des transports et l'informe de tout manquement
+qu'elle constate, dans des délais permettant à l'autorité d'engager le recours mentionné à l'article L. 122-20. Le
+concessionnaire ne peut refuser de suivre l'avis de la commission des marchés que par une décision de son conseil
 d'administration ou de son conseil de surveillance, soumise à l'ensemble des conditions définies par le code de commerce pour
 les conventions réglementées. 
 
@@ -2305,7 +2305,7 @@ projet d'avenant à un marché de travaux, fournitures ou services entraînant u
 des seuils définis par voie réglementaire est soumis pour avis à la commission des marchés. Le concessionnaire communique à
 la commission des marchés la liste des entreprises avec lesquelles il conclut des marchés qui ne sont pas soumis à l'avis de
 la commission. Lorsque le concessionnaire d'autoroute ne respecte pas la communication des informations prévues au présent
-alinéa, elle en informe l'Autorité de régulation des activités ferroviaires et routières.
+alinéa, elle en informe l'       Autorité de régulation des transports.
 
 **Liens relatifs à cet article**
 
@@ -2315,16 +2315,16 @@ _Cité par_:
   - Code de la voirie routière - art. L122-13 (V)
   - Code de la voirie routière - art. L122-33 (VD)
   - Code de la voirie routière - art. R122-34 (VD)
-  - Code de la voirie routière - art. R122-35 (V)
+  - Code de la voirie routière - art. R122-35 (VD)
 
 _Modifié par_:
 
-  - Loi n°2016-1691 du 9 décembre 2016 - art. 41
+  - Ordonnance n°2019-761 du 24 juillet 2019 - art. 1
 
 _Cite_:
 
   - Code de la voirie routière - art. L122-12
-  - Code de la voirie routière - art. L122-16 (V)
+  - Code de la voirie routière - art. L122-16
   - Code de la voirie routière - art. L122-20
   - Code des transports - art. L2135-7
 
@@ -2382,10 +2382,10 @@ chapitre Ier du titre V du livre V du code de justice administrative ;
 2° Pour les marchés relevant du droit privé, des articles 2 à 4 et 11 à 14 de l'ordonnance n° 2009-515 du 7 mai 2009 relative
 aux procédures de recours applicables aux contrats de la commande publique. 
 
-L'Autorité de régulation des activités ferroviaires et routières est habilitée à engager les recours prévus aux articles L.
-551-1 et L. 551-13 du code de justice administrative ou, le cas échéant, les saisines mentionnées aux articles 2 et 11 de
-l'ordonnance n° 2009-515 du 7 mai 2009 précitée lorsqu'est en cause un marché passé par un concessionnaire d'autoroute pour
-les besoins de la concession.
+L'       Autorité de régulation des transports est habilitée à engager les recours prévus aux articles L. 551-1 et L. 551-13
+du code de justice administrative ou, le cas échéant, les saisines mentionnées aux articles 2 et 11 de l'ordonnance n°
+2009-515 du 7 mai 2009 précitée lorsqu'est en cause un marché passé par un concessionnaire d'autoroute pour les besoins de la
+concession.
 
 **Liens relatifs à cet article**
 
@@ -2393,13 +2393,13 @@ _Cite_:
 
   - Ordonnance n°2009-515 du 7 mai 2009 - art. 11
   - Ordonnance n°2009-515 du 7 mai 2009 - art. 2
-  - Code de la voirie routière - art. L122-12 (V)
+  - Code de la voirie routière - art. L122-12
   - Code de justice administrative - art. L551-1
   - Code de justice administrative - art. L551-13
 
 _Modifié par_:
 
-  - Loi n°2016-1691 du 9 décembre 2016 - art. 41
+  - Ordonnance n°2019-761 du 24 juillet 2019 - art. 1
 
 _Cité par_:
 
@@ -2411,39 +2411,39 @@ _Cité par_:
 
 ###### Article L122-21
 
-L'Autorité de régulation des activités ferroviaires et routières établit chaque année un rapport sur les marchés définis à
-l'article L. 122-12 et les travaux réalisés en exécution de ces marchés.
+L'       Autorité de régulation des transports établit chaque année un rapport sur les marchés définis à l'article L. 122-12
+et les travaux réalisés en exécution de ces marchés.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2015-990 du 6 août 2015 - art. 13
 
 _Cité par_:
 
   - Décret n°2016-234 du 1er mars 2016 - art. 4 (VD)
-  - Code de la voirie routière - art. R122-47 (V)
+  - Code de la voirie routière - art. R122-47 (VD)
+
+_Modifié par_:
+
+  - Ordonnance n°2019-761 du 24 juillet 2019 - art. 1
 
 _Cite_:
 
-  - Code de la voirie routière - art. L122-12 (VD)
+  - Code de la voirie routière - art. L122-12
 
 
 ###### Article L122-22
 
-Les modalités d'application de la présente section sont précisées par décret en Conseil d'Etat, pris après avis de l'Autorité
-de régulation des activités ferroviaires et routières.
+Les modalités d'application de la présente section sont précisées par décret en Conseil d'Etat, pris après avis de l'
+Autorité de régulation des transports.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2015-990 du 6 août 2015 - art. 13
 
 _Cité par_:
 
   - Décret n°2016-234 du 1er mars 2016 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2019-761 du 24 juillet 2019 - art. 1
 
 
 #### Section 5 : Installations annexes sur les autoroutes concédées.<a id=30></a>
@@ -2532,47 +2532,47 @@ _Modifié par_:
 ###### Article L122-27
 
 L'attributaire est agréé, préalablement à la conclusion du contrat mentionné à l'article L. 122-23, par l'autorité
-administrative, après avis de l'Autorité de régulation des activités ferroviaires et routières. Cet avis porte sur le respect
-des règles mentionnées aux articles L. 122-24 et L. 122-25. L'autorité de régulation se prononce dans un délai d'un mois à
-compter de la date de la saisine.
+administrative, après avis de l'       Autorité de régulation des transports. Cet avis porte sur le respect des règles
+mentionnées aux articles L. 122-24 et L. 122-25. L'autorité de régulation se prononce dans un délai d'un mois à compter de la
+date de la saisine.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-990 du 6 août 2015 - art. 13
+  - Ordonnance n°2019-761 du 24 juillet 2019 - art. 1
 
 _Cite_:
 
-  - Code de la voirie routière - art. L122-23 (VD)
-  - Code de la voirie routière - art. L122-24 (VD)
+  - Code de la voirie routière - art. L122-23
+  - Code de la voirie routière - art. L122-24
 
 _Cité par_:
 
   - Code de la voirie routière - art. R122-42 (V)
   - Code de la voirie routière - art. R122-43 (VD)
-  - Code de la voirie routière - art. R122-44 (V)
+  - Code de la voirie routière - art. R122-44 (VD)
   - Code de la voirie routière - art. R122-45 (V)
 
 
 ###### Article L122-28
 
 Les modalités d'application des articles L. 122-23 à L. 122-27 sont précisées par décret en Conseil d'Etat, pris après avis
-de l'Autorité de régulation des activités ferroviaires et routières.
+de l'       Autorité de régulation des transports.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2015-990 du 6 août 2015 - art. 13
 
 _Cité par_:
 
   - Décret n°2016-234 du 1er mars 2016 (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2019-761 du 24 juillet 2019 - art. 1
+
 _Cite_:
 
-  - Code de la voirie routière - art. L122-23 (VD)
+  - Code de la voirie routière - art. L122-23
 
 
 ###### Article L122-29
@@ -2596,26 +2596,27 @@ _Cité par_:
 
 #### Section 6 : Dispositions relatives à l'Autorité de régulation des activités ferroviaires et routières.<a id=31></a>
 
+#### Section 6 : Dispositions relatives à l'Autorité de régulation des transports.<a id=32></a>
+
 ###### Article L122-30
 
-Les dispositions générales relatives au contrôle administratif de l'Autorité de régulation des activités ferroviaires et
-routières ainsi qu'aux sanctions administratives et pénales figurant au titre VI du livre II de la première partie du code
-des transports sont applicables aux concessionnaires d'autoroutes.
+Les dispositions générales relatives au contrôle administratif de l'       Autorité de régulation des transports ainsi qu'aux
+sanctions administratives et pénales figurant au titre VI du livre II de la première partie du code des transports sont
+applicables aux concessionnaires d'autoroutes.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2016-79 du 29 janvier 2016 - art. 5
+  - Ordonnance n°2019-761 du 24 juillet 2019 - art. 1
 
 
 ###### Article L122-31
 
-L'Autorité de régulation des activités ferroviaires et routières peut recueillir des données, procéder à des expertises et
-mener des études et toutes actions d'information nécessaires dans le secteur des autoroutes concédées. Elle peut notamment,
-par une décision motivée, prévoir la transmission régulière d'informations et de données par les concessionnaires
-d'autoroutes et par les entreprises intervenant dans le secteur des marchés de travaux, fournitures et services sur le réseau
-autoroutier concédé. 
+L'       Autorité de régulation des transports peut recueillir des données, procéder à des expertises et mener des études et
+toutes actions d'information nécessaires dans le secteur des autoroutes concédées. Elle peut notamment, par une décision
+motivée, prévoir la transmission régulière d'informations et de données par les concessionnaires d'autoroutes et par les
+entreprises intervenant dans le secteur des marchés de travaux, fournitures et services sur le réseau autoroutier concédé. 
 
 Les concessionnaires d'autoroutes et les entreprises intervenant dans le secteur des marchés de travaux, fournitures et
 services sur le réseau autoroutier concédé sont tenus de lui fournir toute information relative aux résultats financiers de
@@ -2627,13 +2628,13 @@ services rendus à l'usager et tout élément statistique relatif à l'utilisati
 _Cité par_:
 
   - Ordonnance n°2016-79 du 29 janvier 2016 - art. 1
-  - Code de la voirie routière - art. L122-32 (V)
+  - Code de la voirie routière - art. L122-32 (VD)
   - Code des transports - art. L1264-7 (V)
   - Code des transports - art. L2135-7 (Ab)
 
 _Modifié par_:
 
-  - Ordonnance n°2016-79 du 29 janvier 2016 - art. 5
+  - Ordonnance n°2019-761 du 24 juillet 2019 - art. 1
 
 
 ###### Article L122-32
@@ -2663,7 +2664,7 @@ _Cite_:
 
 ###### Article L122-33
 
-L'Autorité de régulation des activités ferroviaires et routières définit : 
+L'       Autorité de régulation des transports définit : 
 
 1° Les informations qui lui sont transmises préalablement à la signature des marchés soumis à une obligation de publicité et
 de mise en concurrence afin de lui permettre d'engager les recours mentionnés à l'article L. 122-20 ; 
@@ -2675,12 +2676,12 @@ et des manquements qu'elles constatent.
 
 _Modifié par_:
 
-  - Loi n°2016-1691 du 9 décembre 2016 - art. 41
+  - Ordonnance n°2019-761 du 24 juillet 2019 - art. 1
 
 _Cite_:
 
-  - Code de la voirie routière - art. L122-17 (V)
-  - Code de la voirie routière - art. L122-20 (V)
+  - Code de la voirie routière - art. L122-17
+  - Code de la voirie routière - art. L122-20
 
 _Cité par_:
 
@@ -2688,7 +2689,7 @@ _Cité par_:
   - Code des transports - art. L1264-7 (V)
 
 
-### Chapitre III : Routes nationales.<a id=32></a>
+### Chapitre III : Routes nationales.<a id=33></a>
 
 ###### Article L123-1
 
@@ -2723,7 +2724,7 @@ _Cite_:
   - Code de la voirie routière - art. L151-1 (V)
 
 
-#### Section 1 : Classement et déclassement.<a id=33></a>
+#### Section 1 : Classement et déclassement.<a id=34></a>
 
 ###### Article L123-2
 
@@ -2839,7 +2840,7 @@ _Cite_:
   - Code de l'urbanisme - art. L318-1 (V)
 
 
-#### Section 2 : Alignement.<a id=34></a>
+#### Section 2 : Alignement.<a id=35></a>
 
 ###### Article L123-6
 
@@ -2887,7 +2888,7 @@ _Cite_:
   - CODE DES COMMUNES. - art. L121-28 (Ab)
 
 
-#### Section 3 : Dispositions relatives à la création de voies accédant aux routes nationales.<a id=35></a>
+#### Section 3 : Dispositions relatives à la création de voies accédant aux routes nationales.<a id=36></a>
 
 ###### Article L123-8
 
@@ -2915,9 +2916,9 @@ _Cité par_:
   - Code de la voirie routière - art. R*123-5 (V)
 
 
-## TITRE III : Voirie départementale.<a id=36></a>
+## TITRE III : Voirie départementale.<a id=37></a>
 
-### Chapitre unique.<a id=37></a>
+### Chapitre unique.<a id=38></a>
 
 ###### Article L131-1
 
@@ -3178,9 +3179,9 @@ _Créé par_:
   - Loi n°89-413 1989-06-22 jorf 24 juin 1989
 
 
-## TITRE IV : Voirie communale.<a id=38></a>
+## TITRE IV : Voirie communale.<a id=39></a>
 
-### Chapitre unique.<a id=39></a>
+### Chapitre unique.<a id=40></a>
 
 ###### Article L141-1
 
@@ -3216,7 +3217,7 @@ _Cite_:
   - Code de la voirie routière - art. L151-1 (V)
 
 
-#### Section 1 : Emprise du domaine public routier communal.<a id=40></a>
+#### Section 1 : Emprise du domaine public routier communal.<a id=41></a>
 
 ###### Article L141-2
 
@@ -3371,7 +3372,7 @@ _Cité par_:
   - Loi n°91-663 du 13 juillet 1991 - art. 2 (V)
 
 
-#### Section 2 : Entretien des voies communales.<a id=41></a>
+#### Section 2 : Entretien des voies communales.<a id=42></a>
 
 ###### Article L141-8
 
@@ -3425,7 +3426,7 @@ _Cité par_:
   - Code rural - art. L161-8 (V)
 
 
-#### Section 3 : Dispositions relatives à la coordination des travaux exécutés sur les voies communales situées à l'extérieur des agglomérations.<a id=42></a>
+#### Section 3 : Dispositions relatives à la coordination des travaux exécutés sur les voies communales situées à l'extérieur des agglomérations.<a id=43></a>
 
 ###### Article L141-10
 
@@ -3460,7 +3461,7 @@ _Cite_:
   - Code de la voirie routière - art. L115-1 (V)
 
 
-#### Section 4 : Dispositions relatives aux travaux affectant le sol et le sous-sol des voies communales.<a id=43></a>
+#### Section 4 : Dispositions relatives aux travaux affectant le sol et le sous-sol des voies communales.<a id=44></a>
 
 ###### Article L141-11
 
@@ -3497,7 +3498,7 @@ _Cité par_:
   - Code rural - art. L161-13 (V)
 
 
-#### Section 5 : Dispositions applicables au cas où il existe un établissement public de coopération intercommunale.<a id=44></a>
+#### Section 5 : Dispositions applicables au cas où il existe un établissement public de coopération intercommunale.<a id=45></a>
 
 ###### Article L141-12
 
@@ -3515,9 +3516,9 @@ _Créé par_:
   - Loi n°89-413 1989-06-22 jorf 24 juin 1989
 
 
-## TITRE V : Voies à statuts particuliers.<a id=45></a>
+## TITRE V : Voies à statuts particuliers.<a id=46></a>
 
-### Chapitre Ier : Routes express.<a id=46></a>
+### Chapitre Ier : Routes express.<a id=47></a>
 
 ###### Article L151-1
 
@@ -3666,7 +3667,7 @@ _Cite_:
   - Code de l'expropriation pour cause d'utilité publique - art. L522-1
 
 
-### Chapitre II : Déviations.<a id=47></a>
+### Chapitre II : Déviations.<a id=48></a>
 
 ###### Article L152-1
 
@@ -3718,9 +3719,9 @@ _Cité par_:
   - Loi n°89-413 du 22 juin 1989 - art. 3 (V)
 
 
-### Chapitre III : Ouvrages d'art.<a id=48></a>
+### Chapitre III : Ouvrages d'art.<a id=49></a>
 
-#### Section 1 : Dispositions générales.<a id=49></a>
+#### Section 1 : Dispositions générales.<a id=50></a>
 
 ###### Article L153-1
 
@@ -3887,7 +3888,7 @@ _Anciens textes_:
   - Loi n°86-972 1986-08-16 art. 17 al. 2
 
 
-#### Section 2 : Dispositions particulières.<a id=50></a>
+#### Section 2 : Dispositions particulières.<a id=51></a>
 
 ###### Article L153-7
 
@@ -3952,9 +3953,9 @@ _Créé par_:
   - Loi n°89-413 1989-06-22 jorf 24 juin 1989
 
 
-## TITRE VI : Dispositions applicables aux voies n'appartenant pas au domaine public.<a id=51></a>
+## TITRE VI : Dispositions applicables aux voies n'appartenant pas au domaine public.<a id=52></a>
 
-### Chapitre Ier : Chemins ruraux.<a id=52></a>
+### Chapitre Ier : Chemins ruraux.<a id=53></a>
 
 ###### Article L161-1
 
@@ -4013,9 +4014,9 @@ _Cite_:
   - Code de la voirie routière - art. L141-10 (V)
 
 
-### Chapitre II : Voies privées.<a id=53></a>
+### Chapitre II : Voies privées.<a id=54></a>
 
-#### Section 1 : Dispositions générales.<a id=54></a>
+#### Section 1 : Dispositions générales.<a id=55></a>
 
 ###### Article L162-1
 
@@ -4040,7 +4041,7 @@ _Cité par_:
   - Code de la voirie routière - art. L162-4 (V)
 
 
-#### Section 2 : Chemins et sentiers d'exploitation.<a id=55></a>
+#### Section 2 : Chemins et sentiers d'exploitation.<a id=56></a>
 
 ###### Article L162-2
 
@@ -4086,7 +4087,7 @@ _Cite_:
   - Code de la voirie routière - art. L114-7 (V)
 
 
-#### Section 3 : Autres voies privées.<a id=56></a>
+#### Section 3 : Autres voies privées.<a id=57></a>
 
 ###### Article L162-4
 
@@ -4163,9 +4164,9 @@ _Cité par_:
   - Code de la voirie routière - art. L172-2 (V)
 
 
-## TITRE VII : Dispositions particulières.<a id=57></a>
+## TITRE VII : Dispositions particulières.<a id=58></a>
 
-### Chapitre Ier : Dispositions applicables à la ville de Paris.<a id=58></a>
+### Chapitre Ier : Dispositions applicables à la ville de Paris.<a id=59></a>
 
 ###### Article L171-1
 
@@ -4187,7 +4188,7 @@ _Cite_:
   - Code de la voirie routière L111-1 à L162-6
 
 
-#### Section 1 : Voies publiques.<a id=59></a>
+#### Section 1 : Voies publiques.<a id=60></a>
 
 ###### Article L171-2
 
@@ -4459,9 +4460,9 @@ _Cite_:
   - Code de la voirie routière - art. L171-10 (V)
 
 
-#### Section 2 : Voies privées<a id=60></a>
+#### Section 2 : Voies privées<a id=61></a>
 
-##### Sous-section 1 : Assainissement d'office.<a id=61></a>
+##### Sous-section 1 : Assainissement d'office.<a id=62></a>
 
 ###### Article L171-12
 
@@ -4540,7 +4541,7 @@ _Cité par_:
   - Code de la voirie routière - art. L171-20 (V)
 
 
-##### Sous-section 2 : Classement des voies privées ouvertes à la circulation publique.<a id=62></a>
+##### Sous-section 2 : Classement des voies privées ouvertes à la circulation publique.<a id=63></a>
 
 ###### Article L171-14
 
@@ -4603,7 +4604,7 @@ _Créé par_:
   - Loi n°89-413 1989-06-22 jorf 24 juin 1989
 
 
-##### Sous-section 3 : Dispositions financières.<a id=63></a>
+##### Sous-section 3 : Dispositions financières.<a id=64></a>
 
 ###### Article L171-16
 
@@ -4809,9 +4810,9 @@ _Créé par_:
   - Loi n°89-413 1989-06-22 jorf 24 juin 1989
 
 
-### Chapitre II : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique, La Réunion et Mayotte<a id=64></a>
+### Chapitre II : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique, La Réunion et Mayotte<a id=65></a>
 
-#### Section 1 : Disposition particulières à la Guyane et à La Réunion<a id=65></a>
+#### Section 1 : Disposition particulières à la Guyane et à La Réunion<a id=66></a>
 
 ###### Article L172-1
 
@@ -4837,7 +4838,7 @@ _Cite_:
   - TXT_ASSOCIE: Code de la voirie routière - art. L114-8 (M)
 
 
-#### Section 2 : Dispositions particulières à Mayotte<a id=66></a>
+#### Section 2 : Dispositions particulières à Mayotte<a id=67></a>
 
 ###### Article L172-2
 
@@ -4869,7 +4870,7 @@ _Cite_:
   - Code de la voirie routière - art. L162-6
 
 
-### Chapitre III : Dispositions diverses.<a id=67></a>
+### Chapitre III : Dispositions diverses.<a id=68></a>
 
 ###### Article L173-1
 
@@ -5005,13 +5006,13 @@ _Cité par_:
   - PILOTE_SUIVEUR: Code de l'environnement - art. L321-11
 
 
-# Partie réglementaire<a id=68></a>
+# Partie réglementaire<a id=69></a>
 
-## TITRE Ier : Dispositions communes aux voies du domaine public routier.<a id=69></a>
+## TITRE Ier : Dispositions communes aux voies du domaine public routier.<a id=70></a>
 
-### Chapitre Ier : Equipements routiers et enquêtes de circulation.<a id=70></a>
+### Chapitre Ier : Equipements routiers et enquêtes de circulation.<a id=71></a>
 
-#### Section 1 : Equipements routiers.<a id=71></a>
+#### Section 1 : Equipements routiers.<a id=72></a>
 
 ###### Article R*111-1
 
@@ -5085,7 +5086,7 @@ _Cité par_:
   - Arrêté du 11 juillet 2013 - art. 1 (V)
 
 
-#### Section 2 : Enquêtes de circulation.<a id=72></a>
+#### Section 2 : Enquêtes de circulation.<a id=73></a>
 
 ###### Article D111-2
 
@@ -5126,9 +5127,9 @@ _Créé par_:
   - Décret n°2006-235 du 27 février 2006 - art. 1 () JORF 1er mars 2006
 
 
-### Chapitre II : Emprise.<a id=73></a>
+### Chapitre II : Emprise.<a id=74></a>
 
-#### Section 1 : Alignement.<a id=74></a>
+#### Section 1 : Alignement.<a id=75></a>
 
 ###### Article R*112-1
 
@@ -5197,7 +5198,7 @@ _Modifié par_:
   - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 
-### Chapitre III : Utilisation.<a id=75></a>
+### Chapitre III : Utilisation.<a id=76></a>
 
 ###### Article R*113-1
 
@@ -5475,9 +5476,9 @@ _Cite_:
   - Code de la voirie routière - art. L113-3 (M)
 
 
-### Chapitre IV : Riveraineté.<a id=76></a>
+### Chapitre IV : Riveraineté.<a id=77></a>
 
-#### Section 1 : Servitudes de visibilité.<a id=77></a>
+#### Section 1 : Servitudes de visibilité.<a id=78></a>
 
 ###### Article R*114-1
 
@@ -5534,9 +5535,9 @@ _Anciens textes_:
   - Décret-loi 1935-10-30 art. 5 (partie)
 
 
-### Chapitre V : Travaux<a id=78></a>
+### Chapitre V : Travaux<a id=79></a>
 
-#### Section unique : Coordination des travaux exécutés sur les voies publiques situées à l'intérieur des agglomérations.<a id=79></a>
+#### Section unique : Coordination des travaux exécutés sur les voies publiques situées à l'intérieur des agglomérations.<a id=80></a>
 
 ###### Article R*115-1
 
@@ -5674,7 +5675,7 @@ _Cité par_:
   - Code de la voirie routière - art. R*141-12 (V)
 
 
-### Chapitre VI : Police de la conservation.<a id=80></a>
+### Chapitre VI : Police de la conservation.<a id=81></a>
 
 ###### Article R*116-1
 
@@ -5751,9 +5752,9 @@ _Cité par_:
   - Arrêté du 29 mars 2013 - art. 1 (V)
 
 
-### Chapitre VIII : Sécurité des ouvrages et des infrastructures.<a id=81></a>
+### Chapitre VIII : Sécurité des ouvrages et des infrastructures.<a id=82></a>
 
-#### Section 1 : Ouvrages dont l'exploitation présente des risques particuliers pour la sécurité des personnes<a id=82></a>
+#### Section 1 : Ouvrages dont l'exploitation présente des risques particuliers pour la sécurité des personnes<a id=83></a>
 
 ###### Article R118-1-1
 
@@ -5830,7 +5831,7 @@ _Cite_:
   - Code de la voirie routière - art. D118-2-1
 
 
-#### Section 2 : Commission nationale d'évaluation de la sécurité des ouvrages routiers et agrément des experts<a id=83></a>
+#### Section 2 : Commission nationale d'évaluation de la sécurité des ouvrages routiers et agrément des experts<a id=84></a>
 
 ###### Article D118-2-1
 
@@ -5970,7 +5971,7 @@ _Cite_:
   - Code de la voirie routière - art. L118-2 (V)
 
 
-#### Section 3 : Procédures et règles relatives à la sécurité des ouvrages routiers dont l'exploitation présente des risques particuliers pour la sécurité des personnes<a id=84></a>
+#### Section 3 : Procédures et règles relatives à la sécurité des ouvrages routiers dont l'exploitation présente des risques particuliers pour la sécurité des personnes<a id=85></a>
 
 ###### Article R118-3-1
 
@@ -6276,7 +6277,7 @@ _Cite_:
   - Code de la voirie routière - art. R*118-3-3 (M)
 
 
-#### Section 4 : Procédures et règles complémentaires relatives aux tunnels de plus de 500 mètres du réseau routier transeuropéen<a id=85></a>
+#### Section 4 : Procédures et règles complémentaires relatives aux tunnels de plus de 500 mètres du réseau routier transeuropéen<a id=86></a>
 
 ###### Article R118-4-1
 
@@ -6567,7 +6568,7 @@ _Cite_:
   - Code de la voirie routière R118-3-1 à R118-3-3
 
 
-#### Section 5 : Procédures de gestion de la sécurité des infrastructures routières<a id=86></a>
+#### Section 5 : Procédures de gestion de la sécurité des infrastructures routières<a id=87></a>
 
 ###### Article D118-5-1
 
@@ -6729,9 +6730,9 @@ _Cite_:
   - Code de la voirie routière - art. L118-6
 
 
-### Chapitre IX : Equipements routiers.<a id=87></a>
+### Chapitre IX : Equipements routiers.<a id=88></a>
 
-#### Section 1 : Champ d'application<a id=88></a>
+#### Section 1 : Champ d'application<a id=89></a>
 
 ###### Article R*119-1
 
@@ -6783,9 +6784,9 @@ _Cité par_:
   - Code de la voirie routière - art. R*119-9 (V)
 
 
-#### Section 2 : Evaluation et attestation de conformité<a id=89></a>
+#### Section 2 : Evaluation et attestation de conformité<a id=90></a>
 
-##### Sous-section 1 : Equipements soumis au marquage CE<a id=90></a>
+##### Sous-section 1 : Equipements soumis au marquage CE<a id=91></a>
 
 ###### Article R*119-2
 
@@ -6865,7 +6866,7 @@ _Modifié par_:
   - Décret n°2011-812 du 5 juillet 2011 - art. 3
 
 
-##### Sous-section 2 : Equipements non soumis au marquage CE<a id=91></a>
+##### Sous-section 2 : Equipements non soumis au marquage CE<a id=92></a>
 
 ###### Article R**119-5
 
@@ -6997,7 +6998,7 @@ _Modifié par_:
   - TXT_SOURCE: Directive 98-34 CE 1998-06-22
 
 
-#### Section 3 : Règles de mise en service<a id=92></a>
+#### Section 3 : Règles de mise en service<a id=93></a>
 
 ###### Article R*119-6
 
@@ -7147,7 +7148,7 @@ _Cite_:
   - Code de la voirie routière - art. R*119-9
 
 
-#### Section 4 : Dispositions diverses<a id=93></a>
+#### Section 4 : Dispositions diverses<a id=94></a>
 
 ###### Article R119-11
 
@@ -7206,11 +7207,11 @@ _Cite_:
   - Code de la voirie routière - art. L119-4
 
 
-### Chapitre X : Dispositions relatives au péage<a id=94></a>
+### Chapitre X : Dispositions relatives au péage<a id=95></a>
 
-#### Section 1 : Service européen de télépéage<a id=95></a>
+#### Section 1 : Service européen de télépéage<a id=96></a>
 
-##### Sous-section 1 : Les obligations des percepteurs de péage enregistrés en France<a id=96></a>
+##### Sous-section 1 : Les obligations des percepteurs de péage enregistrés en France<a id=97></a>
 
 ###### Article D119-20-1
 
@@ -7376,7 +7377,7 @@ _Créé par_:
   - Décret n°2012-313 du 5 mars 2012 - art. 1
 
 
-##### Sous-section 2 : Les obligations des prestataires du service européen de télépéage enregistrés en France<a id=97></a>
+##### Sous-section 2 : Les obligations des prestataires du service européen de télépéage enregistrés en France<a id=98></a>
 
 ###### Article R*119-21
 
@@ -7537,7 +7538,7 @@ _Créé par_:
   - Décret n°2012-313 du 5 mars 2012 - art. 1
 
 
-##### Sous-section 3 : Les obligations des utilisateurs du service européen de télépéage<a id=98></a>
+##### Sous-section 3 : Les obligations des utilisateurs du service européen de télépéage<a id=99></a>
 
 ###### Article R*119-29
 
@@ -7587,7 +7588,7 @@ _Créé par_:
   - Décret n°2012-313 du 5 mars 2012 - art. 1
 
 
-#### Section 2 : Péages applicables aux véhicules de transport de marchandises par route<a id=99></a>
+#### Section 2 : Péages applicables aux véhicules de transport de marchandises par route<a id=100></a>
 
 ###### Article D119-31-1
 
@@ -7668,7 +7669,7 @@ _Cité par_:
   - Arrêté du 16 mars 2012 - art. 1 (V)
 
 
-#### Section 3 : Péages applicables aux véhicules de transport de personnes par route<a id=100></a>
+#### Section 3 : Péages applicables aux véhicules de transport de personnes par route<a id=101></a>
 
 ###### Article R*119-34
 
@@ -7754,9 +7755,9 @@ _Cite_:
   - Code de la voirie routière - art. R*119-34 (V)
 
 
-## TITRE II : Voirie nationale.<a id=101></a>
+## TITRE II : Voirie nationale.<a id=102></a>
 
-### Chapitre Ier : Dispositions communes aux autoroutes et aux routes nationales.<a id=102></a>
+### Chapitre Ier : Dispositions communes aux autoroutes et aux routes nationales.<a id=103></a>
 
 ###### Article R*121-1
 
@@ -7783,9 +7784,9 @@ _Anciens textes_:
   - Code du domaine de l'Etat r53 renvoi
 
 
-### Chapitre II : Autoroutes.<a id=103></a>
+### Chapitre II : Autoroutes.<a id=104></a>
 
-#### Section 1 : Dispositions générales.<a id=104></a>
+#### Section 1 : Dispositions générales.<a id=105></a>
 
 ###### Article R*122-2
 
@@ -8046,9 +8047,9 @@ _Cite_:
   - Code de la voirie routière - art. L122-4-1
 
 
-#### Section 2 : Dispositions financières.<a id=105></a>
+#### Section 2 : Dispositions financières.<a id=106></a>
 
-##### Sous-section 1 : Caisse nationale des autoroutes.<a id=106></a>
+##### Sous-section 1 : Caisse nationale des autoroutes.<a id=107></a>
 
 ###### Article R*122-6
 
@@ -8300,7 +8301,7 @@ _Créé par_:
   - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
 
 
-##### Sous-section 2 : Autoroutes de France.<a id=107></a>
+##### Sous-section 2 : Autoroutes de France.<a id=108></a>
 
 ###### Article R*122-16
 
@@ -8567,12 +8568,12 @@ _Cite_:
   - Code de la voirie routière - art. R*122-21 (M)
 
 
-#### Section 3 : Régulation des tarifs de péage<a id=108></a>
+#### Section 3 : Régulation des tarifs de péage<a id=109></a>
 
 ###### Article R122-27
 
-I.-Pour l'application de l'article L. 122-8, l'Autorité de régulation des activités ferroviaires et routières est saisie par
-le ministre chargé de la voirie routière nationale et le ministre chargé de l'économie. 
+I.-Pour l'application de l'article L. 122-8, l'       Autorité de régulation des transports est saisie par le ministre chargé
+de la voirie routière nationale et le ministre chargé de l'économie. 
 
 Le dossier de consultation comprend, outre le projet de texte dont l'autorité est saisie : 
 
@@ -8585,9 +8586,9 @@ dispositions de l'article L. 122-4 et, le cas échéant, de l'article L. 122-10 
 déterminer l'équilibre général du projet, s'agissant notamment du coût des sujétions mises à la charge du délégataire
 existant ou pressenti et des hypothèses d'évolution du trafic. 
 
-II.-L'Autorité de régulation des activités ferroviaires et routières transmet son avis au ministre chargé de la voirie
-routière nationale et au ministre chargé de l'économie dans le délai de trois mois prévu à l'article L. 122-8. Passé ce
-délai, l'avis est réputé donné.
+II.-L'       Autorité de régulation des transports transmet son avis au ministre chargé de la voirie routière nationale et au
+ministre chargé de l'économie dans le délai de trois mois prévu à l'article L. 122-8. Passé ce délai, l'avis est réputé
+donné.
 
 **Liens relatifs à cet article**
 
@@ -8602,7 +8603,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2016-234 du 1er mars 2016 - art. 1
+  - Ordonnance n°2019-761 du 24 juillet 2019 - art. 1
 
 _Cite_:
 
@@ -8615,9 +8616,9 @@ _Nouveaux textes_:
   - Code de la voirie routière - art. R122-48 (V)
 
 
-#### Section 4 : Régulation des marchés de travaux, fournitures et services du réseau autoroutier concédé<a id=109></a>
+#### Section 4 : Régulation des marchés de travaux, fournitures et services du réseau autoroutier concédé<a id=110></a>
 
-##### Sous-section 1 : Passation des marchés relevant de l'article L. 122-12<a id=110></a>
+##### Sous-section 1 : Passation des marchés relevant de l'article L. 122-12<a id=111></a>
 
 ###### Article R122-28
 
@@ -8789,7 +8790,7 @@ _Modifié par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art. 9
 
 
-##### Sous-section 1 bis : Passation des marchés relevant de l'article L. 122-13<a id=111></a>
+##### Sous-section 1 bis : Passation des marchés relevant de l'article L. 122-13<a id=112></a>
 
 ###### Article R122-32-1
 
@@ -8816,7 +8817,7 @@ _Cité par_:
   - Code de la voirie routière - art. R122-39 (VD)
 
 
-##### Sous-section 2 : Commission des marchés<a id=112></a>
+##### Sous-section 2 : Commission des marchés<a id=113></a>
 
 ###### Article R122-33
 
@@ -8847,9 +8848,9 @@ _Cite_:
 
 ###### Article R122-34
 
-I.-Pour l'application des dispositions du deuxième alinéa de l'article L. 122-17, le concessionnaire d'autoroutes saisit
-l'Autorité de régulation des activités ferroviaires et routières préalablement à toute décision de nomination ou de
-reconduction dans ses fonctions d'un membre de la commission des marchés. 
+I.-Pour l'application des dispositions du deuxième alinéa de l'article L. 122-17, le concessionnaire d'autoroutes saisit l'
+Autorité de régulation des transports préalablement à toute décision de nomination ou de reconduction dans ses fonctions d'un
+membre de la commission des marchés. 
 
 Cette saisine comprend, outre l'identité de la personne concernée, la nature des fonctions exercées, celles précédemment
 exercées, une déclaration d'intérêts ainsi que les conditions, notamment financières et de durée, régissant son mandat. Il
@@ -8859,25 +8860,25 @@ L'indépendance est appréciée à l'égard de l'ensemble des opérateurs écono
 
 1° Le concessionnaire ; 
 
-2° Les entreprises qui y sont liées, au sens    de l'article L. 2511-8 du code de la commande publique ; 
+2° Les entreprises qui y sont liées, au sens de l'article L. 2511-8 du code de la commande publique ; 
 
 3° Les attributaires passés ; 
 
 4° Les soumissionnaires potentiels. 
 
-L'Autorité de régulation des activités ferroviaires et routières transmet son avis au concessionnaire d'autoroutes dans un
-délai d'un mois à compter de la saisine. Passé ce délai, l'avis est réputé favorable. 
+L'       Autorité de régulation des transports transmet son avis au concessionnaire d'autoroutes dans un délai d'un mois à
+compter de la saisine. Passé ce délai, l'avis est réputé favorable. 
 
 II.-La commission des marchés est présidée par l'un de ses membres. Il est nommé par le concessionnaire d'autoroutes. 
 
-Le concessionnaire d'autoroutes informe l'Autorité de régulation des activités ferroviaires et routières dans un délai de
-quinze jours de toute décision de désignation, reconduction ou révocation du président de la commission des marchés. 
+Le concessionnaire d'autoroutes informe l'       Autorité de régulation des transports dans un délai de quinze jours de toute
+décision de désignation, reconduction ou révocation du président de la commission des marchés. 
 
 III.-Le ou les représentants de la direction générale de la concurrence, de la consommation et de la répression des fraudes
 n'ont pas voix délibérative et ne sont pas pris en compte pour l'application de la règle de majorité mentionnée au premier
 alinéa de l'article L. 122-17. Ils sont invités à chaque séance de la commission et sont destinataires de l'ensemble des
-documents communiqués par cette dernière. Ils sont mis en copie des communications adressées à l'Autorité de régulation des
-activités ferroviaires et routières. 
+documents communiqués par cette dernière. Ils sont mis en copie des communications adressées à l'       Autorité de
+régulation des transports. 
 
 La représentation à la commission des marchés de la direction générale de la concurrence, de la consommation et de la
 répression des fraudes est assurée dans les conditions décidées par le directeur général de la concurrence, de la
@@ -8892,7 +8893,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2018-1075 du 3 décembre 2018 - art. 9
+  - Ordonnance n°2019-761 du 24 juillet 2019 - art. 1
 
 
 ###### Article R122-35
@@ -8915,13 +8916,13 @@ lorsque son avis n'est pas requis ;
 
 6° Les conditions d'accès de la commission aux informations nécessaires à l'exécution de ses missions ; 
 
-7° Sans préjudice des articles R. 122-37 et R. 122-38, les conditions dans lesquelles la commission informe l'Autorité de
-régulation des activités ferroviaires et routières des conditions de passation et d'exécution des marchés ; 
+7° Sans préjudice des articles R. 122-37 et R. 122-38, les conditions dans lesquelles la commission informe l'       Autorité
+de régulation des transports des conditions de passation et d'exécution des marchés ; 
 
 8° La durée limitée pendant laquelle ces règles sont applicables. 
 
-II.-Le concessionnaire d'autoroutes saisit l'Autorité de régulation des activités ferroviaires et routières du projet de
-règles internes établi par la commission des marchés. 
+II.-Le concessionnaire d'autoroutes saisit l'       Autorité de régulation des transports du projet de règles internes établi
+par la commission des marchés. 
 
 L'autorité transmet au concessionnaire d'autoroutes son avis dans un délai de deux mois à compter de la saisine. Passé ce
 délai, l'avis est réputé favorable. 
@@ -8932,15 +8933,15 @@ Les règles définitives établies par la commission sont transmises à l'autori
 
 _Modifié par_:
 
-  - Décret n°2017-1816 du 28 décembre 2017 - art. 1
+  - Ordonnance n°2019-761 du 24 juillet 2019 - art. 1
 
 _Cite_:
 
-  - Code de la voirie routière - art. L122-12 (V)
-  - Code de la voirie routière - art. L122-17
-  - Code de la voirie routière - art. R122-31 (V)
+  - Code de la voirie routière - art. L122-12
+  - Code de la voirie routière - art. L122-17 (VD)
+  - Code de la voirie routière - art. R122-31
   - Code de la voirie routière - art. R122-37
-  - Code de la voirie routière - art. R122-38 (V)
+  - Code de la voirie routière - art. R122-38
 
 
 ###### Article R122-36
@@ -8963,16 +8964,16 @@ _Modifié par_:
 
 ###### Article R122-37
 
-Le président de la commission transmet sans délai à l'Autorité de régulation des activités ferroviaires et routières les avis
-rendus par la commission.
+Le président de la commission transmet sans délai à l'       Autorité de régulation des transports les avis rendus par la
+commission. 
 
 Il informe également sans délai l'autorité de tout manquement constaté par la commission.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-234 du 1er mars 2016 - art. 1
+  - Ordonnance n°2019-761 du 24 juillet 2019 - art. 1
 
 _Cité par_:
 
@@ -8984,53 +8985,53 @@ _Cité par_:
 La commission des marchés établit un rapport d'activité annuel qui comprend les éléments définis par l'Autorité de régulation
 des activités ferroviaires en application du 2° de l'article L. 122-33. 
 
-Le président de la commission transmet ce rapport, avant le 31 mars de chaque année, à l'Autorité de régulation des activités
-ferroviaires et routières, au ministre chargé de la voirie routière nationale et au ministre chargé de l'économie.
+Le président de la commission transmet ce rapport, avant le 31 mars de chaque année, à l'       Autorité de régulation des
+transports, au ministre chargé de la voirie routière nationale et au ministre chargé de l'économie.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2017-1816 du 28 décembre 2017 - art. 1
+  - Ordonnance n°2019-761 du 24 juillet 2019 - art. 1
 
 _Cite_:
 
-  - Code de la voirie routière - art. L122-33 (V)
+  - Code de la voirie routière - art. L122-33
 
 _Cité par_:
 
   - Code de la voirie routière - art. R122-35 (VD)
 
 
-##### Sous-section 3 : Référé de l'Autorité de régulation des activités ferroviaires et routières<a id=113></a>
+##### Sous-section 3 : Référé de l'Autorité de régulation des transports<a id=114></a>
 
 ###### Article R122-39
 
-I.-Afin de permettre à l'Autorité de régulation des activités ferroviaires et routières d'engager les recours mentionnés à
-l'article L. 122-20, est conclu selon les modalités prévues au II :
+I.-Afin de permettre à l'       Autorité de régulation des transports d'engager les recours mentionnés à l'article L. 122-20,
+est conclu selon les modalités prévues au II : 
 
 1° Le projet de marché relevant de l'article L. 122-12 dont la valeur estimée du besoin est supérieure ou égale aux seuils
-mentionnés aux 2° et 3° de l'article R. 122-30 ;
+mentionnés aux 2° et 3° de l'article R. 122-30 ; 
 
 2° Le projet de marché relevant de l'article L. 122-13 dont la valeur estimée du besoin est supérieure ou égale aux seuils
-mentionnés à l'article R. 122-32-1 ;
+mentionnés à l'article R. 122-32-1 ; 
 
 3° Le projet d'avenant à un marché relevant du 1° ou du 2° entraînant seul ou cumulativement avec les avenants antérieurs,
-une augmentation du montant initial du marché supérieure à 5 % de ce montant et à 100 000 € HT ;
+une augmentation du montant initial du marché supérieure à 5 % de ce montant et à 100 000 € HT ; 
 
 4° Le projet d'avenant à un marché ne relevant pas du 1° ou du 2° entraînant seul ou cumulativement avec les avenants
-antérieurs une augmentation du montant initial du marché au-delà des seuils suivants :
+antérieurs une augmentation du montant initial du marché au-delà des seuils suivants : 
 
-a) Lorsque le marché relève de l'article L. 122-12, les seuils mentionnés aux 2° et 3° de l'article R. 122-30 ;
+a) Lorsque le marché relève de l'article L. 122-12, les seuils mentionnés aux 2° et 3° de l'article R. 122-30 ; 
 
-b) Lorsque le marché relève de l'article L. 122-13, les seuils mentionnés à l'article R. 122-32-1.
+b) Lorsque le marché relève de l'article L. 122-13, les seuils mentionnés à l'article R. 122-32-1. 
 
 En cas de conclusion d'un avenant relevant du 4°, le marché ainsi modifié est considéré comme relevant du 1° ou du 2° pour la
-conclusion des avenants ultérieurs.
+conclusion des avenants ultérieurs. 
 
 II.-Préalablement à la signature du marché ou de l'avenant, le concessionnaire ou, lorsqu'il dispose d'une commission des
-marchés, le président de cette commission transmet par voie électronique, à l'Autorité de régulation des activités
-ferroviaires et routières, les informations qu'elle définit.
+marchés, le président de cette commission transmet par voie électronique, à l'       Autorité de régulation des transports,
+les informations qu'elle définit. 
 
 Toutefois, lorsque le marché répond aux caractéristiques définies à l'article R. 2122-1 du code de la commande publique, ces
 éléments peuvent être transmis après la signature du contrat, sous réserve que la transmission soit effectuée au plus tard
@@ -9041,11 +9042,11 @@ quinze jours francs après cette signature et préalablement à la publication d
 
 _Cite_:
 
+  - Décret n°2016-360 du 25 mars 2016 - art. 104
   - Décret n°2016-360 du 25 mars 2016 - art. 30
-  - Décret n°2016-360 du 25 mars 2016 - art. 104 (VT)
   - Code de la voirie routière - art. L122-12
   - Code de la voirie routière - art. L122-13
-  - Code de la voirie routière - art. L122-20
+  - Code de la voirie routière - art. L122-20 (VD)
   - Code de la voirie routière - art. R122-30
   - Code de la voirie routière - art. R122-32-1
 
@@ -9061,19 +9062,19 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-1075 du 3 décembre 2018 - art. 9
+  - Ordonnance n°2019-761 du 24 juillet 2019 - art. 1
 
 
 ###### Article R122-39-1
 
-Un délai minimal de dix-huit jours est respecté entre la date de réception par l'Autorité de régulation des activités
-ferroviaires et routières du dossier comportant les informations prévues au II de l'article R. 122-39 et la date de signature
-des marchés mentionnés aux 1° et 2° du I de ce même article. 
+Un délai minimal de dix-huit jours est respecté entre la date de réception par l'       Autorité de régulation des transports
+du dossier comportant les informations prévues au II de l'article R. 122-39 et la date de signature des marchés mentionnés
+aux 1° et 2° du I de ce même article. 
 
 Toutefois, le respect du délai mentionné au premier alinéa n'est pas exigé : 
 
-1° Lorsque le marché répond aux caractéristiques énumérées            aux articles R. 2122-1 à R. 2122-11 du code de la
-commande publique ; 
+1° Lorsque le marché répond aux caractéristiques énumérées aux articles R. 2122-1 à R. 2122-11 du code de la commande
+publique ; 
 
 2° Pour l'attribution des marchés subséquents fondés sur un accord-cadre ou des marchés spécifiques fondés sur un système
 d'acquisition dynamique.
@@ -9083,21 +9084,21 @@ d'acquisition dynamique.
 _Cite_:
 
   - Décret n°2016-360 du 25 mars 2016 - art. 30
-  - Code de la voirie routière - art. R122-39
+  - Code de la voirie routière - art. R122-39 (VD)
 
 _Cité par_:
 
   - Arrêté du 4 août 2016 - art. 3 (V)
-  - Code de la voirie routière - art. R122-31 (VD)
+  - Code de la voirie routière - art. R122-31 (M)
 
 _Modifié par_:
 
-  - Décret n°2018-1075 du 3 décembre 2018 - art. 9
+  - Ordonnance n°2019-761 du 24 juillet 2019 - art. 1
 
 
-#### Section 5 : Installations annexes sur les autoroutes concédées<a id=114></a>
+#### Section 5 : Installations annexes sur les autoroutes concédées<a id=115></a>
 
-##### Sous-section 1 : Passation des contrats<a id=115></a>
+##### Sous-section 1 : Passation des contrats<a id=116></a>
 
 ###### Article R122-40
 
@@ -9220,7 +9221,7 @@ _Modifié par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art. 9
 
 
-##### Sous-section 2 : Procédure d'agrément<a id=116></a>
+##### Sous-section 2 : Procédure d'agrément<a id=117></a>
 
 ###### Article R122-42
 
@@ -9251,7 +9252,7 @@ _Cite_:
 
 I.-Le concessionnaire d'autoroutes adresse le dossier de saisine en vue de la demande d'agrément en deux exemplaires. Ce
 dossier comprend les éléments fixés par arrêté conjoint du ministre chargé de la voirie routière nationale et du ministre
-chargé de l'économie, pris après avis de l'Autorité de régulation des activités ferroviaires et routières. 
+chargé de l'économie, pris après avis de l'       Autorité de régulation des transports. 
 
 Le ministre chargé de la voirie routière nationale peut demander au concessionnaire d'autoroutes toute justification ainsi
 que toute information complémentaire nécessaire à son appréciation. 
@@ -9268,18 +9269,17 @@ conditions d'organisation du service public arrêtées en application de l'artic
 2° La durée du contrat d'exploitation est excessive au regard des critères définis à l'article R. 122-40-1 ou de la nécessité
 d'une remise en concurrence périodique ; 
 
-3° L'avis de l'Autorité de régulation des activités ferroviaires et routières prévu à l'article L. 122-27 n'est pas
-favorable ; 
+3° L'avis de l'       Autorité de régulation des transports prévu à l'article L. 122-27 n'est pas favorable ; 
 
 4° L'attributaire pressenti ne présente pas les garanties professionnelles, techniques et financières suffisantes pour
 assurer le bon accomplissement des missions qui lui sont confiées. 
 
 IV.-Le concessionnaire d'autoroutes adresse les documents contractuels au ministre chargé de la voirie routière nationale et
-à l'Autorité de régulation des activités ferroviaires et routières dans un délai d'un mois après signature. 
+à l'       Autorité de régulation des transports dans un délai d'un mois après signature. 
 
-V.-Le concessionnaire d'autoroutes adresse au ministre chargé de la voirie routière nationale et à l'Autorité de régulation
-des activités ferroviaires et routières tout projet d'avenant à un contrat passé avec un exploitant. Cet avenant est signé au
-plut tôt onze jours après sa réception par le ministre chargé de la voirie routière nationale. 
+V.-Le concessionnaire d'autoroutes adresse au ministre chargé de la voirie routière nationale et à l'       Autorité de
+régulation des transports tout projet d'avenant à un contrat passé avec un exploitant. Cet avenant est signé au plut tôt onze
+jours après sa réception par le ministre chargé de la voirie routière nationale. 
 
 VI.-L'agrément est retiré notamment s'il apparaît que les éléments essentiels du projet de contrat au vu desquels l'agrément
 a été délivré : 
@@ -9292,37 +9292,36 @@ a été délivré :
 
 _Modifié par_:
 
-  - Décret n°2017-1816 du 28 décembre 2017 - art. 2
+  - Ordonnance n°2019-761 du 24 juillet 2019 - art. 1
 
 _Cite_:
 
   - Code de la voirie routière - art. L122-27
   - Code de la voirie routière - art. L122-29
-  - Code de la voirie routière - art. R122-40-1 (V)
+  - Code de la voirie routière - art. R122-40-1
 
 _Cité par_:
 
-  - Code de la voirie routière - art. R122-44 (V)
+  - Code de la voirie routière - art. R122-44 (VD)
 
 
 ###### Article R122-44
 
-L'avis de l'Autorité de régulation des activités ferroviaires et routières est demandé par le ministre chargé de la voirie
-routière nationale dès réception du dossier prévu au I de l'article R. 122-43. Est joint à la demande un exemplaire de ce
-dossier. 
+L'avis de l'       Autorité de régulation des transports est demandé par le ministre chargé de la voirie routière nationale
+dès réception du dossier prévu au I de l'article R. 122-43. Est joint à la demande un exemplaire de ce dossier. 
 
 Passé le délai d'un mois prévu à l'article L. 122-27, l'avis est réputé donné.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-234 du 1er mars 2016 - art. 1
+  - Ordonnance n°2019-761 du 24 juillet 2019 - art. 1
 
 _Cite_:
 
-  - Code de la voirie routière - art. L122-27
-  - Code de la voirie routière - art. R122-43
+  - Code de la voirie routière - art. L122-27 (VD)
+  - Code de la voirie routière - art. R122-43 (VD)
 
 
 ###### Article R122-45
@@ -9342,7 +9341,7 @@ _Cite_:
   - Code de la voirie routière - art. L122-27
 
 
-##### Sous-section 3 : Conditions d'organisation du service public<a id=117></a>
+##### Sous-section 3 : Conditions d'organisation du service public<a id=118></a>
 
 ###### Article D122-46
 
@@ -9364,13 +9363,13 @@ _Cite_:
   - Code de la voirie routière - art. L122-29
 
 
-#### Section 6 : Dispositions relatives à l'Autorité de régulation des activités ferroviaires et routières<a id=118></a>
+#### Section 6 : Dispositions relatives à l'Autorité de régulation des transports<a id=119></a>
 
 ###### Article R122-47
 
-Les rapports et synthèses de l'Autorité de régulation des activités ferroviaires et routières mentionnés aux articles L.
-122-9 et L. 122-21 sont transmis au Parlement, au ministre chargé de la voirie routière nationale et au ministre chargé de
-l'économie concomitamment à leur publication.
+Les rapports et synthèses de l'       Autorité de régulation des transports mentionnés aux articles L. 122-9 et L. 122-21
+sont transmis au Parlement, au ministre chargé de la voirie routière nationale et au ministre chargé de l'économie
+concomitamment à leur publication. 
 
 Cette publication intervient au plus tard le 31 décembre pour le rapport et les synthèses mentionnés à l'article L. 122-9 et
 au plus tard le 30 juin pour le rapport mentionné à l'article L. 122-21.
@@ -9379,15 +9378,15 @@ au plus tard le 30 juin pour le rapport mentionné à l'article L. 122-21.
 
 _Modifié par_:
 
-  - Décret n°2017-1816 du 28 décembre 2017 - art. 3
+  - Ordonnance n°2019-761 du 24 juillet 2019 - art. 1
 
 _Cite_:
 
-  - Code de la voirie routière - art. L122-21
-  - Code de la voirie routière - art. L122-9
+  - Code de la voirie routière - art. L122-21 (VD)
+  - Code de la voirie routière - art. L122-9 (VD)
 
 
-#### Section 7 : Redevance domaniale.<a id=119></a>
+#### Section 7 : Redevance domaniale.<a id=120></a>
 
 ###### Article R122-48
 
@@ -9427,9 +9426,9 @@ _Anciens textes_:
   - Code de la voirie routière - art. R122-27 (T)
 
 
-### Chapitre III : Routes nationales.<a id=120></a>
+### Chapitre III : Routes nationales.<a id=121></a>
 
-#### Section 1 : Classement et déclassement.<a id=121></a>
+#### Section 1 : Classement et déclassement.<a id=122></a>
 
 ###### Article R*123-1
 
@@ -9479,7 +9478,7 @@ _Cite_:
   - Code de la voirie routière - art. L123-3 (V)
 
 
-#### Section 2 : Alignement.<a id=122></a>
+#### Section 2 : Alignement.<a id=123></a>
 
 ###### Article R*123-3
 
@@ -9541,7 +9540,7 @@ _Cite_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R221-1 (V)
 
 
-#### Section 3 : Disposition relative à la création de voies accédant aux routes nationales.<a id=123></a>
+#### Section 3 : Disposition relative à la création de voies accédant aux routes nationales.<a id=124></a>
 
 ###### Article R*123-5
 
@@ -9566,11 +9565,11 @@ _Anciens textes_:
   - Décret-loi 1938-05-24 art. 4 (partie)
 
 
-## TITRE III : Voirie départementale.<a id=124></a>
+## TITRE III : Voirie départementale.<a id=125></a>
 
-### Chapitre unique.<a id=125></a>
+### Chapitre unique.<a id=126></a>
 
-#### Section 1 : Caractéristiques techniques du domaine public routier départemental.<a id=126></a>
+#### Section 1 : Caractéristiques techniques du domaine public routier départemental.<a id=127></a>
 
 ###### Article R*131-1
 
@@ -9614,7 +9613,7 @@ _Modifié par_:
   - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 
-#### Section 2 : Enquête publique relative au classement, au déclassement, à l'établissement des plans d'alignement et de nivellement, à l'ouverture, au redressement et à l'élargissement des routes départementales.<a id=127></a>
+#### Section 2 : Enquête publique relative au classement, au déclassement, à l'établissement des plans d'alignement et de nivellement, à l'ouverture, au redressement et à l'élargissement des routes départementales.<a id=128></a>
 
 ###### Article R*131-3
 
@@ -9759,7 +9758,7 @@ _Modifié par_:
   - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 
-#### Section 3 : Dispositions relatives à la coordination des travaux exécutés sur les routes départementales.<a id=128></a>
+#### Section 3 : Dispositions relatives à la coordination des travaux exécutés sur les routes départementales.<a id=129></a>
 
 ###### Article R*131-9
 
@@ -9837,13 +9836,13 @@ _Cite_:
   - Code de la voirie routière
 
 
-## TITRE IV : Voirie communale.<a id=129></a>
+## TITRE IV : Voirie communale.<a id=130></a>
 
-### Chapitre unique<a id=130></a>
+### Chapitre unique<a id=131></a>
 
-#### Section 1 : Emprise du domaine public routier communal.<a id=131></a>
+#### Section 1 : Emprise du domaine public routier communal.<a id=132></a>
 
-##### Sous-section 1 : Alignement et caractéristiques techniques.<a id=132></a>
+##### Sous-section 1 : Alignement et caractéristiques techniques.<a id=133></a>
 
 ###### Article R*141-1
 
@@ -9915,7 +9914,7 @@ _Créé par_:
   - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
 
 
-##### Sous-section 2 : Enquête publique relative au classement, à l'ouverture, au redressement, à la fixation de la largeur et au déclassement des voies communales.<a id=133></a>
+##### Sous-section 2 : Enquête publique relative au classement, à l'ouverture, au redressement, à la fixation de la largeur et au déclassement des voies communales.<a id=134></a>
 
 ###### Article R*141-4
 
@@ -10101,7 +10100,7 @@ _Modifié par_:
   - Décret n°2016-308 du 17 mars 2016 - art. 6
 
 
-##### Sous-section 3 : Publicité foncière.<a id=134></a>
+##### Sous-section 3 : Publicité foncière.<a id=135></a>
 
 ###### Article R*141-11
 
@@ -10123,7 +10122,7 @@ _Cité par_:
   - Code de la voirie routière - art. R172-1 (V)
 
 
-#### Section 3 : Coordination des travaux exécutés sur les voies communales situées à l'extérieur des agglomérations.<a id=135></a>
+#### Section 3 : Coordination des travaux exécutés sur les voies communales situées à l'extérieur des agglomérations.<a id=136></a>
 
 ###### Article R*141-12
 
@@ -10154,7 +10153,7 @@ _Cite_:
   - Code de la voirie routière - art. R*115-4 (V)
 
 
-#### Section 4 : Dispositions relatives aux travaux affectant le sol et le sous-sol des voies communales.<a id=136></a>
+#### Section 4 : Dispositions relatives aux travaux affectant le sol et le sous-sol des voies communales.<a id=137></a>
 
 ###### Article R*141-13
 
@@ -10415,7 +10414,7 @@ _Cité par_:
   - Code de la voirie routière - art. R*141-18 (V)
 
 
-#### Section 5 : Dispositions applicables dans le cas où il existe un établissement public de coopération intercommunale.<a id=137></a>
+#### Section 5 : Dispositions applicables dans le cas où il existe un établissement public de coopération intercommunale.<a id=138></a>
 
 ###### Article R*141-22
 
@@ -10433,9 +10432,9 @@ _Créé par_:
   - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
 
 
-## TITRE V : Voies à statuts particuliers.<a id=138></a>
+## TITRE V : Voies à statuts particuliers.<a id=139></a>
 
-### Chapitre Ier : Routes express.<a id=139></a>
+### Chapitre Ier : Routes express.<a id=140></a>
 
 ###### Article R*151-2
 
@@ -10596,7 +10595,7 @@ _Cite_:
   - Code de la voirie routière - art. L151-2
 
 
-### Chapitre II : Déviations.<a id=140></a>
+### Chapitre II : Déviations.<a id=141></a>
 
 ###### Article R*152-2
 
@@ -10659,9 +10658,9 @@ _Cite_:
   - Code de la route. - art. L110-3 (M)
 
 
-### Chapitre III : Ouvrages d'art.<a id=141></a>
+### Chapitre III : Ouvrages d'art.<a id=142></a>
 
-#### Section 1 : Dispositions générales.<a id=142></a>
+#### Section 1 : Dispositions générales.<a id=143></a>
 
 ###### Article R*153-1
 
@@ -10687,7 +10686,7 @@ _Cite_:
   - Code de la voirie routière - art. L153-1
 
 
-#### Section 2: Dispositions particulières.<a id=143></a>
+#### Section 2: Dispositions particulières.<a id=144></a>
 
 ###### Article R*153-3
 
@@ -10715,9 +10714,9 @@ _Créé par_:
   - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
 
 
-## TITRE VI : Dispositions applicables aux voies n'appartenant pas au domaine public.<a id=144></a>
+## TITRE VI : Dispositions applicables aux voies n'appartenant pas au domaine public.<a id=145></a>
 
-### Chapitre Ier : Chemins ruraux.<a id=145></a>
+### Chapitre Ier : Chemins ruraux.<a id=146></a>
 
 ###### Article R*161-1
 
@@ -10757,9 +10756,9 @@ _Cite_:
   - Code de la voirie routière R*113-1, R*115-1 à R*115-4, R*141-12 à R*141-21
 
 
-### Chapitre II : Voies privées.<a id=146></a>
+### Chapitre II : Voies privées.<a id=147></a>
 
-#### Section 1 : Dispositions générales.<a id=147></a>
+#### Section 1 : Dispositions générales.<a id=148></a>
 
 ###### Article R*162-1
 
@@ -10780,7 +10779,7 @@ _Cite_:
   - Code de la voirie routière - art. R*113-1 (V)
 
 
-#### Section 3 : Autres voies privées.<a id=148></a>
+#### Section 3 : Autres voies privées.<a id=149></a>
 
 ###### Article R*162-2
 
@@ -10807,7 +10806,7 @@ _Cite_:
   - Code de la voirie routière L162-5 Code de l'urbanisme R318-10, R318-11, R318-12
 
 
-### Chapitre III : Dispositions communes.<a id=149></a>
+### Chapitre III : Dispositions communes.<a id=150></a>
 
 ###### Article R*163-1
 
@@ -10834,11 +10833,11 @@ _Cite_:
   - Code de la voirie routière - art. R*111-1 (M)
 
 
-## TITRE VII : Dispositions particulières.<a id=150></a>
+## TITRE VII : Dispositions particulières.<a id=151></a>
 
-### Chapitre Ier : Dispositions applicables à la ville de Paris.<a id=151></a>
+### Chapitre Ier : Dispositions applicables à la ville de Paris.<a id=152></a>
 
-#### Section 1 : Voies publiques.<a id=152></a>
+#### Section 1 : Voies publiques.<a id=153></a>
 
 ###### Article R*171-1
 
@@ -10969,7 +10968,7 @@ _Anciens textes_:
   - Décret-loi 1935-10-30 art. 9 (partie)
 
 
-#### Section 2 : Voies privées.<a id=153></a>
+#### Section 2 : Voies privées.<a id=154></a>
 
 ###### Article R*171-6
 
@@ -11017,7 +11016,7 @@ _Anciens textes_:
   - Loi n°1930-05-15 art. 3 al. 1 (partie)
 
 
-#### Section 3 : Coordination des travaux.<a id=154></a>
+#### Section 3 : Coordination des travaux.<a id=155></a>
 
 ###### Article R*171-8
 
@@ -11043,7 +11042,7 @@ _Cite_:
   - Code de la voirie routière - art. R*115-2 (V)
 
 
-### Chapitre II : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique, La Réunion et Mayotte<a id=155></a>
+### Chapitre II : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique, La Réunion et Mayotte<a id=156></a>
 
 ###### Article R172-1
 
@@ -11073,7 +11072,7 @@ _Cite_:
   - Code de la voirie routière - art. R*141-11 (V)
 
 
-### Chapitre III : Dispositions diverses.<a id=156></a>
+### Chapitre III : Dispositions diverses.<a id=157></a>
 
 ###### Article R*173-1
 
