@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2019-12-27
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L173-3)](#1)
     - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. L111-1 à L119-10)](#2)
@@ -11039,21 +11039,26 @@ _Anciens textes_:
 ###### Article R*171-5
 
 La juridiction compétente en premier ressort pour la fixation des indemnités prévues à l'article L. 171-10 est le tribunal
-d'instance.
+judiciaire.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1
+  <sup>er</sup> janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°89-631 1989-09-04
+  - Décret n°89-631 du 4 septembre 1989
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+  - Décret n°2019-966 du 18 septembre 2019 - art. 2
 
 _Cite_:
 
-  - Code de la voirie routière - art. L171-10 (V)
+  - Code de la voirie routière - art. L171-10
 
 _Anciens textes_:
 
