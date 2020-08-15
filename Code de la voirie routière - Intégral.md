@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2020-01-01
+Version Consolidée au 2020-08-16
 ## Contenu: 
   - [Partie législative (art. L111-1 à L173-3)](#1)
     - [TITRE Ier : Dispositions communes aux voies du domaine public routier. (art. L111-1 à L119-10)](#2)
@@ -8067,8 +8067,16 @@ prononcé par arrêté du préfet, pris après enquête publique, lorsque ces ou
 L'ouverture de l'enquête publique est autorisée par le ministre chargé de la voirie routière nationale.
 
 Le classement dans la catégorie des autoroutes d'une route appartenant à une voirie autre que la voirie routière nationale
-est prononcé, selon le cas, dans les formes prévues au premier ou au deuxième alinéa ci-dessus lorsque la collectivité
+est prononcé, selon le cas, dans les formes prévues au quatrième ou au cinquième alinéa ci-dessus lorsque la collectivité
 territoriale dont la voirie est intéressée, dûment consultée, n'a pas, dans un délai de cinq mois, donné un avis défavorable.
+
+Dans le cas où les contraintes topographiques rendent impossible ou anormalement coûteux un aménagement avec un profil à 2 ×
+2 voies et chaussées séparées, et dans la mesure où le trafic le permet, une section de route ne présentant pas un tel profil
+d'aménagement peut être classée dans la catégorie des autoroutes, dans les formes prévues au quatrième alinéa, à condition
+d'être située dans le prolongement direct d'une voie bénéficiant déjà du statut autoroutier. Le classement dans la catégorie
+des autoroutes des ouvrages annexes et des raccordements à d'autres voies publiques créés ultérieurement sur une telle
+section de route est prononcé dans les formes prévues au cinquième alinéa. Les caractéristiques techniques de ces sections de
+routes, ouvrages annexes et raccordements sont fixées par arrêté du ministre chargé de la voirie routière nationale.
 
 **Liens relatifs à cet article**
 
@@ -8080,11 +8088,12 @@ _Codifié par_:
 
   - Décret n°89-631 du 4 septembre 1989
 
-_Modifié par_:
-
-  - Décret n°2018-674 du 30 juillet 2018 - art. 5
-
 _Cité par_:
+
+  - Décret n°2020-1061 du 14 août 2020 - art. 1
+  - Code de la route. - art. R413-2 (V)
+
+_Modifié par_:
 
   - Décret n°2020-1061 du 14 août 2020 - art. 1
 
